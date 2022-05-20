@@ -46,7 +46,7 @@ translate german concerts_18f9eef6:
 translate german concerts_7dfab881:
 
     # ow smile "Мерси..."
-    ow smile "Merci ..."
+    ow smile "Merci..."
 
 # game/ROCK.rpy:19
 translate german concerts_136fc0f6:
