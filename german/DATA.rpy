@@ -1415,7 +1415,7 @@ translate german strings:
 
     # game/DATA.rpy:1469
     old "Массажная комната"
-    new "Массажная комната"
+    new "Massageraum"
 
     # game/DATA.rpy:1555
     old "9:00 - 23:00"
@@ -1423,31 +1423,31 @@ translate german strings:
 
     # game/DATA.rpy:4117
     old "+15м"
-    new "+15м"
+    new "+15 min"
 
     # game/DATA.rpy:4118
     old "+30м"
-    new "+30м"
+    new "+30 min"
 
     # game/DATA.rpy:4119
     old "+1ч"
-    new "+1ч"
+    new "+1 Stunde"
 
     # game/DATA.rpy:4120
     old "+2ч"
-    new "+2ч"
+    new "+2 Stunden"
 
     # game/DATA.rpy:4121
     old "+10ч"
-    new "+10ч"
+    new "+10 Stunden"
 
     # game/DATA.rpy:4122
     old "+24ч"
-    new "+24ч"
+    new "+24 Stunden"
 
     # game/DATA.rpy:4628
     old "Бонус массажа:"
-    new "Бонус массажа:"
+    new "Massage Bonus:"
 
     # game/DATA.rpy:4630
     old "([mood_inf_[30][2]] мин.)"
@@ -1459,7 +1459,7 @@ translate german strings:
 
     # game/DATA.rpy:5018
     old "Продолжение - в новых версиях"
-    new "Продолжение - в новых версиях"
+    new "Fortsetung folgt in der nächsten Version"
 
     # game/DATA.rpy:5545
     old "->"
