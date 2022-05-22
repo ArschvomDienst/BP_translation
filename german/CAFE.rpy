@@ -2418,7 +2418,7 @@ translate german strings:
 
     # game/CAFE.rpy:452
     old "Поговорить с Пэрис в Красном Квартале({image=smel_.png} 19([allsmel]))"
-    new "Rede mit Paris im Roten Bezirk({image=smel_.png} 19([allsmel]))"
+    new "Rede mit Paris im Roten Viertel({image=smel_.png} 19([allsmel]))"
 
     # game/CAFE.rpy:543
     old "{#image=cour} {b}Сделать селфи{/b}"
@@ -2430,7 +2430,7 @@ translate german strings:
 
     # game/CAFE.rpy:1595
     old "Зайти к Хозяйке (21:00-23:00)"
-    new "Gehe zur Mistress (21:00-23:00)"
+    new "Gehe zur Chefin (21:00-23:00)"
 
     # game/CAFE.rpy:1706
     old "Зайти в \"Hot Arctic\" днем"

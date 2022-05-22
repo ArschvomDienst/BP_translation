@@ -9723,97 +9723,97 @@ translate german strings:
 translate german glamour_choise_menu_0bb2a2cc:
 
     # gg smile "Мне не нужно к парикмахеру."
-    gg smile ""
+    gg smile "Ich glaube nicht, dass ich zum Frisör muss."
 
 # game/DIA.rpy:579
 translate german glamour_choise_menu_1d9064fc:
 
     # alex "Самое время подровнять кончики."
-    alex ""
+    alex "Es ist Zeit die Spitzen zu schneiden."
 
 # game/DIA.rpy:599
 translate german glamour_choise_menu_ea98f4ab:
 
     # gg zadum "Думаю, не стоит перебарщивать с солярием."
-    gg zadum ""
+    gg zadum "Mann sollte besser vorsichtig sein mit dem Solarium."
 
 # game/DIA.rpy:603
 translate german glamour_choise_menu_a9e6d527:
 
     # gg zadum "На сегодня хватит."
-    gg zadum ""
+    gg zadum "Das reicht für heute."
 
 # game/DIA.rpy:694
 translate german dia_naru_5a800774:
 
     # gg smile "У вас новая прическа?"
-    gg smile ""
+    gg smile "Hast du eine neue Frisur?"
 
 # game/DIA.rpy:695
 translate german dia_naru_cd5bb3c9:
 
     # naru "Похоже, вы перепутали меня с моей сестрой. Меня зовут Нару, добро пожаловать."
-    naru ""
+    naru "Ich glaube du verwechselst mich mit meiner Schwester. Mein Name ist Naru, willkommen."
 
 # game/DIA.rpy:696
 translate german dia_naru_5bde506a:
 
     # gg zadum "Ой, неловко получилось."
-    gg zadum ""
+    gg zadum "Oh, tut mir Leid."
 
 # game/DIA.rpy:697
 translate german dia_naru_54fcbcd2:
 
     # naru "Мы, близнецы, привыкли к таким ситуациям, не беспокойтесь."
-    naru ""
+    naru "Das ist schon in Ordnung. Wir sind Zwillinge, da passiert das dauernd. Mach dir keinen Kopf."
 
 # game/DIA.rpy:703
 translate german naru_menu_72c73091:
 
     # gg smile "Где я могу найти студию Жерара? Кажется, он проводит какой-то кастинг."
-    gg smile ""
+    gg smile "Wo ist Gerards Studio? Er scheint eine Art Casting zu haben."
 
 # game/DIA.rpy:704
 translate german naru_menu_a5d3c094:
 
     # claire "Поднимайтесь на третий этаж, там вы легко найдете студию."
-    claire ""
+    claire "Geh in den dritten Stock, das Studio findest du da leicht."
 
 # game/DIA.rpy:705
 translate german naru_menu_74fb16fc:
 
     # gg smile "Спасибо."
-    gg smile ""
+    gg smile "Danke."
 
 # game/DIA.rpy:729
 translate german dia_claire_36748654:
 
     # admin "Меня зовут Клэр Ян, а вы находитесь в студии красоты \"Glamour\"."
-    admin ""
+    admin "Mein Name ist Claire Yan und dies ist das Studio \"Glamour\"."
 
 # game/DIA.rpy:730
 translate german dia_claire_5b6fd704:
 
     # aut "У девушки был слабый, но очень приятный азиатский акцент."
-    aut ""
+    aut "Das Mädchen hatte einen angenehmen asiatischen Akzent."
 
 # game/DIA.rpy:731
 translate german dia_claire_8badf39d:
 
     # claire "Депиляция, перманентный макияж, солярий и множество других косметических процедур."
-    claire ""
+    claire "Enthaarung, Permanent Make-up, Ganzkörperbräunung und andere kosmetische Prozeduren."
 
 # game/DIA.rpy:732
 translate german dia_claire_f4a5d6ed:
 
     # claire "Также у нас есть своя модельная школа и фотостудия."
-    claire ""
+    claire "Wir haben auch eine Model-Schule und ein Fotostudio."
 
 # game/DIA.rpy:733
 translate german dia_claire_b28aab83:
 
     # gg zadum "Ого, как интересно!"
-    gg zadum ""
+    gg zadum "Wow, klingt interessant."
 
 # game/DIA.rpy:734
 translate german dia_claire_12433c23:
