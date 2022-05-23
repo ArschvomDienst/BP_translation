@@ -1146,255 +1146,255 @@ translate german strings:
 translate german webcam_pussy2_da7a40dc:
 
     # alex "{b}Всем привет! Я соскучилась, а вы?{/b}"
-    alex ""
+    alex "{b}Hallo Leute, hab euch vermisst. Ihr mich auch?{/b}"
 
 # game/WEBCAM.rpy:1693
 translate german webcam_pussy2_aefdb069:
 
     # alex "{b}Спасибо, сладкие. Что бы вам такого показать сегодня?{/b}"
-    alex ""
+    alex "{b}Danke ihr Sußen. Was soll ich euch heute zeigen?{/b}"
 
 # game/WEBCAM.rpy:1707
 translate german webcam_pussy2_05aa670e:
 
     # alex "{b}Я как раз сама хотела предложить{/b}"
-    alex ""
+    alex "{b}Das wollte ich auch vorschlagen.{/b}"
 
 # game/WEBCAM.rpy:1720
 translate german webcam_pussy2_506bb3de:
 
     # alex "{b}Ну как вам? Нравится моя киска?{/b}"
-    alex ""
+    alex "{b}Gefällt euch meine Muschi?{/b}"
 
 # game/WEBCAM.rpy:1733
 translate german webcam_pussy2_4bfb22e6:
 
     # alex "{b}Какие вы активные сегодня...{/b}"
-    alex ""
+    alex "{b}Ihr seid aber aktiv heute ...{/b}"
 
 # game/WEBCAM.rpy:1754
 translate german webcam_pussy2_3f358346:
 
     # alex "{b}Ваше желание для меня закон{/b}"
-    alex ""
+    alex "{b}Dein Wunsch ist mir Befehl{/b}"
 
 # game/WEBCAM.rpy:1784
 translate german webcam_pussy2_5e2abe3d:
 
     # alex "{b}Что-то я возбудилась. Так хочется себя поласкать...{/b}"
-    alex ""
+    alex "{b}Ich bin geil, ich will an mir spielen ...{/b}"
 
 # game/WEBCAM.rpy:1793
 translate german webcam_pussy2_21e0f060:
 
     # alex "{b}Я такая мокрая... Хотите взглянуть?{/b}"
-    alex ""
+    alex "{b}Ich bin naß ... Wollt ihr sehen?{/b}"
 
 # game/WEBCAM.rpy:1819
 translate german webcam_pussy2_12ad5950:
 
     # alex "{b}Как же приятно!{/b}"
-    alex ""
+    alex "{b}Das fühlt sich gut an!{/b}"
 
 # game/WEBCAM.rpy:1820
 translate german webcam_pussy2_0df01001:
 
     # alex2 "Блять, я и в самом деле возбудилась..."
-    alex2 ""
+    alex2 "Fuck, ich bin richtig geil ..."
 
 # game/WEBCAM.rpy:1837
 translate german webcam_pussy2_39903c86:
 
     # alex2 "Я уже и сама этого хочу! Мне платят деньги за то, что я кайфую... Работа мечты."
-    alex2 ""
+    alex2 "Will ich auch machen. Geld dafür kriegen um sich wohl zu fühlen ... Traumjob."
 
 # game/WEBCAM.rpy:1838
 translate german webcam_pussy2_fbba205f:
 
     # alex "{b}За 5 тысяч я сделаю это для тебя.{/b}"
-    alex ""
+    alex "{b}Für 5000{/b}"
 
 # game/WEBCAM.rpy:1864
 translate german webcam_pussy2_540e76d1:
 
     # aut "Я даже не смогла ничего ответить, а просто сняла мешающее платье, повалилась на бок и вставила в себя 2 пальчика."
-    aut ""
+    aut "Ich konnte gar nichts sagen, nur mir das Kleid vom Leibe werfen, auf die Seite zu fallen und 2 Finger einzuführen."
 
 # game/WEBCAM.rpy:1892
 translate german webcam_pussy2_57255d01:
 
     # alex2 "Господи, я реально сейчас кончу..."
-    alex2 ""
+    alex2 "Oh Gott ich komme!"
 
 # game/WEBCAM.rpy:1893
 translate german webcam_pussy2_ae673e7e:
 
     # alex2 "На виду у всех! Блять, это заводит еще больше!"
-    alex2 ""
+    alex2 "Alle werden es sehen! Verdammt das macht mich noch mehr an!"
 
 # game/WEBCAM.rpy:1903
 translate german webcam_pussy2_beaaf4ee:
 
     # alex "{b}Я кончаю!{/b}"
-    alex ""
+    alex "{b}Ich komme!{/b}"
 
 # game/WEBCAM.rpy:1945
 translate german webcam_pussy2_c3593fe5:
 
     # alex "{b}Боюсь, у меня уже нет на это сил, сладкий...{/b}"
-    alex ""
+    alex "{b}Ich fürchte mir fehlt die Kraft dafür mein Hübscher ...{/b}"
 
 # game/WEBCAM.rpy:1966
 translate german webcam_pussy2_ae3ad48e:
 
     # aut "Не знаю, откуда у меня взялись силы, но щедрость этого парня не знала границ."
-    aut ""
+    aut "Keine Ahnung wo ich die Kraft hernahm, aber die Freigebigkeit dieses Typen war grenzenlos."
 
 # game/WEBCAM.rpy:1967
 translate german webcam_pussy2_7429f1ab:
 
     # aut "Я никогда не была хорошим танцором, но с чувством ритма проблем не имела. Я просто старалась плавно двигаться под музыку."
-    aut ""
+    aut "Ich war nie eine besonders tolle Tänzerin, aber mit Rhythmus hatte ich noch nie ein Problem. Ich versuchte mich so geschmeidig wie möglich zum Takt zu bewegen."
 
 # game/WEBCAM.rpy:1968
 translate german webcam_pussy2_eb43f94c:
 
     # aut "Благодарный зритель остался доволен и добавил немного токенов сверху. Хороший день..."
-    aut ""
+    aut "Der Zuschauer war zufrieden und spendierte obendrauf noch einige Toke. Ein guter Tag ..."
 
 translate german strings:
 
     # game/WEBCAM.rpy:217
     old "Горячий (легкие ласки)"
-    new ""
+    new "Heiß (leichte Liebkosung)"
 
     # game/WEBCAM.rpy:2000
     old "Конечно соскучились!"
-    new ""
+    new "Natürlich haben wir dich vermisst!"
 
     # game/WEBCAM.rpy:2002
     old "Опять будешь болтать 2 часа?"
-    new ""
+    new "Redest du wieder für 2 Stunden?"
 
     # game/WEBCAM.rpy:2004
-    old "О, богиня!"
+    old "Oh, Göttin!"
     new ""
 
     # game/WEBCAM.rpy:2009
     old "Отлично выглядишь"
-    new ""
+    new "Sieht gut aus"
 
     # game/WEBCAM.rpy:2018
     old "Не важно. Я просто любуюсь"
-    new ""
+    new "Ich genieße nur"
 
     # game/WEBCAM.rpy:2023
     old "Раздвинь ножки"
-    new ""
+    new "Spreiz die Beine"
 
     # game/WEBCAM.rpy:2025
     old "Шикарная!"
-    new ""
+    new "Göttlich!"
 
     # game/WEBCAM.rpy:2027
     old "Хочу ее"
-    new ""
+    new "Haben Will"
 
     # game/WEBCAM.rpy:2033
     old "Какие ножки!"
-    new ""
+    new "Hübsche Beine!"
 
     # game/WEBCAM.rpy:2035
     old "Я бы тебя выебал как следует!"
-    new ""
+    new "Ich würd dich gut durchficken!"
 
     # game/WEBCAM.rpy:2037
     old "Сними эту сетку уродскую..."
-    new ""
+    new "Nimm die hässliche Maske ab ..."
 
     # game/WEBCAM.rpy:2046
     old "Раздвинь пошире плиз"
-    new ""
+    new "Spreiz weiter"
 
     # game/WEBCAM.rpy:2048
     old "Желание тех, кто бабки кидает, ага."
-    new ""
+    new "DasVerlangen derjenigen die Geld übrig haben ..."
 
     # game/WEBCAM.rpy:2053
     old "Убери ручки, милая"
-    new ""
+    new "Nimm die Hand da weg, Süße"
 
     # game/WEBCAM.rpy:2058
     old "Мой хер сейчас взорвется!"
-    new ""
+    new "Mein Schwanz explodiert gleich!"
 
     # game/WEBCAM.rpy:2063
     old "Да, детка, сделай себе хорошо."
-    new ""
+    new "Ja Baby. Besorgs dir!"
 
     # game/WEBCAM.rpy:2065
     old "А мне подрочишь?"
-    new ""
+    new "Möchtest du mir einen wichsen?"
 
     # game/WEBCAM.rpy:2072
     old "Давай, покажи, свою малышку!"
-    new ""
+    new "Komm schon, zeig mir deine Muschi!"
 
     # game/WEBCAM.rpy:2076
     old "1100"
-    new ""
+    new "1100"
 
     # game/WEBCAM.rpy:2078
     old "Какая милая киска"
-    new ""
+    new "Eine hübsche Muschi"
 
     # game/WEBCAM.rpy:2080
     old "Так бы и вылизал"
-    new ""
+    new "Ich will sie lecken"
 
     # game/WEBCAM.rpy:2089
     old "Сколько скинуть за пальчики в киске?"
-    new ""
+    new "Wie viel für Finger in der Muschi? "
 
     # game/WEBCAM.rpy:2091
     old "Нихуясе у нее запросы!"
-    new ""
+    new "Fuck, warum so viel?"
 
     # game/WEBCAM.rpy:2093
     old "Дружище, скинь ей, умоляю!"
-    new ""
+    new "Bro, schick das einfach. Ich bitte dich!"
 
     # game/WEBCAM.rpy:2099
     old "Вот это вид!"
-    new ""
+    new "Was für ein Anblick!"
 
     # game/WEBCAM.rpy:2105
     old "Да, трахни себя!"
-    new ""
+    new "Ja! Besorgs dir!"
 
     # game/WEBCAM.rpy:2107
     old "Чел, ты лучший!"
-    new ""
+    new "Bro du bist der Beste!"
 
     # game/WEBCAM.rpy:2124
     old "Отличное шоу"
-    new ""
+    new "Geile Show"
 
     # game/WEBCAM.rpy:2126
     old "Детка, ты бесподобна!"
-    new ""
+    new "Baby, du bist wundervoll!"
 
     # game/WEBCAM.rpy:2135
     old "Отвал башки!"
-    new ""
+    new "Fick Dich!"
 
     # game/WEBCAM.rpy:2140
     old "Станцуешь для меня в привате?"
-    new ""
+    new "Tanzt du für mich privat?"
 
     # game/WEBCAM.rpy:2145
     old "А если так?"
-    new ""
+    new "Und jetzt?"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1402,187 +1402,186 @@ translate german strings:
 translate german webcam_pussy3_3d3807e5:
 
     # alex "{b}Ой, мальчики, я сегодня так возбуждена! Хочется чего-то развратного. А вы как думаете?{/b}"
-    alex "{b}Ой, мальчики, я сегодня так возбуждена! Хочется чего-то развратного. А вы как думаете?{/b}"
+    alex "{b}Ich bin so erregt heute! Ich werde etwas versautes machen. Oder? Was denkt ihr?{/b}"
 
 # game/WEBCAM.rpy:2163
 translate german webcam_pussy3_998a5be9:
 
     # alex "{b}Если вы будете достаточно щедрыми, я устрою для вас настоящее шоу.{/b}"
-    alex "{b}Если вы будете достаточно щедрыми, я устрою для вас настоящее шоу.{/b}"
+    alex "{b}Wenn ihr spendabel genug seid biete ich euch eine richtige Show heute.{/b}"
 
 # game/WEBCAM.rpy:2184
 translate german webcam_pussy3_dc93b3eb:
 
     # alex "{b}Вы как всегда на высоте!{/b}"
-    alex "{b}Вы как всегда на высоте!{/b}"
+    alex "{b}Wie Immer bist du vorne mit dabei!{/b}"
 
 # game/WEBCAM.rpy:2190
 translate german webcam_pussy3_e3b80848:
 
     # alex "{b}Ну как вам?{/b}"
-    alex "{b}Ну как вам?{/b}"
+    alex "{b}Wie gefällt euch das?{/b}"
 
 # game/WEBCAM.rpy:2205
 translate german webcam_pussy3_aac91c07:
 
     # alex "{b}Я знала, что вам понравится!{/b}"
-    alex "{b}Я знала, что вам понравится!{/b}"
+    alex "{b}Hab ich doch geahnt, dass es euch gefällt!{/b}"
 
 # game/WEBCAM.rpy:2222
 translate german webcam_pussy3_b67ba6ef:
 
     # alex "{b}Смотрите, что у меня есть. Хотите увидеть, как он входит в меня?{/b}"
-    alex "{b}Смотрите, что у меня есть. Хотите увидеть, как он входит в меня?{/b}"
+    alex "{b}Schaut mal was ich habe. Möchtet ihr sehen wie ich ihn einführe?{/b}"
 
 # game/WEBCAM.rpy:2227
 translate german webcam_pussy3_30b244a5:
 
     # alex "{b}Покажите мне, насколько вы этого хотите!{/b}"
-    alex "{b}Покажите мне, насколько вы этого хотите!{/b}"
+    alex "{b}Zeigt mir wie sehr ihr das wollt!{/b}"
 
 # game/WEBCAM.rpy:2246
 translate german webcam_pussy3_00eaebcb:
 
     # alex "{b}Скорее, мальчики! Я не могу терпеть!{/b}"
-    alex "{b}Скорее, мальчики! Я не могу терпеть!{/b}"
+    alex "{b}Na los Jungs. Ich kann nicht mehr!{/b}"
 
 # game/WEBCAM.rpy:2265
 translate german webcam_pussy3_63f574d9:
 
     # alex "{b}Вы делаете меня счатливой, сладкие...{/b}"
-    alex "{b}Вы делаете меня счатливой, сладкие...{/b}"
+    alex "{b}Ihr macht mich wirklich glücklich ihr Süßen ...{/b}"
 
 # game/WEBCAM.rpy:2270
 translate german webcam_pussy3_00db98a3:
 
     # aut "Я уже перестала сдерживать себя на трансляциях. Уже не было особой необходимости дразнить моих зрителей. Да и чат мелькал так быстро, что сложно было уследить за всеми сообщениями."
-    aut "Я уже перестала сдерживать себя на трансляциях. Уже не было особой необходимости дразнить моих зрителей. Да и чат мелькал так быстро, что сложно было уследить за всеми сообщениями."
+    aut "Ich hab schon Lange aufgehört mich in Sendungen zurückzuhalten. Es war nicht mehr nötig, die Zuschauer noch anzustacheln. Der Chat war bereits so schnell, das ich Mühe hatte Alles zu lesen."
 
 # game/WEBCAM.rpy:2278
 translate german webcam_pussy3_0cf438c3:
 
     # aut "Подписчики и так были очень щедры, а их количество росло все быстрее."
-    aut "Подписчики и так были очень щедры, а их количество росло все быстрее."
+    aut "Meine Fans waren schon jetzt sehr spendabel, und ihre Zahl wuchs und wuchs."
 
 # game/WEBCAM.rpy:2296
 translate german webcam_pussy3_9a3c47ee:
 
     # aut "Я просто наслаждалась процессом, лаская себя так, как мне хочется."
-    aut "Я просто наслаждалась процессом, лаская себя так, как мне хочется."
+    aut "Ich genoss es, diesem Prozess zuzusehen und spielte nun an mir wie ich es wollte. "
 
 # game/WEBCAM.rpy:2318
 translate german webcam_pussy3_76474249:
 
     # alex "{b}Хотите, чтобы я вставила его в попку? Для этого я хочу видеть больше ваших денежек!{/b}"
-    alex "{b}Хотите, чтобы я вставила его в попку? Для этого я хочу видеть больше ваших денежек!{/b}"
+    alex "{b}Wollt ihr sehen, wie ich ihn in den Arsch stecke? Um das zu tun möchte ich aber mehr Geld sehen!{/b}"
 
 # game/WEBCAM.rpy:2342
 translate german webcam_pussy3_00ce2bc3:
 
     # alex "{b}Игрушка так и хочет войти в меня! И моя сладкая попочка к этому готова.{/b}"
-    alex "{b}Игрушка так и хочет войти в меня! И моя сладкая попочка к этому готова.{/b}"
+    alex "{b}Das kleine Spielzeug will unbedingt rein. Und mein Knackarsch ist bereit.{/b}"
 
 # game/WEBCAM.rpy:2351
 translate german webcam_pussy3_75041c7c:
 
     # alex "{b}Воу... Ладно, вы заслужили...{/b}"
-    alex "{b}Воу... Ладно, вы заслужили...{/b}"
+    alex "{b}Hey ... Okay, du hast es dir verdient ...{/b}"
 
 # game/WEBCAM.rpy:2357
 translate german webcam_pussy3_79bbec19:
 
     # alex "{b}Ох! Он такой большой... Хочу его всего!{/b}"
-    alex "{b}Ох! Он такой большой... Хочу его всего!{/b}"
+    alex "{b}Oh! So groß ... Ich will ihn Ganz!{/b}"
 
 # game/WEBCAM.rpy:2382
 translate german webcam_pussy3_60016400:
 
     # alex "{b}О да! Мальчики, вы сводите меня с ума!{/b}"
-    alex "{b}О да! Мальчики, вы сводите меня с ума!{/b}"
+    alex "{b}Ohja! Jungs ich verlier noch den Verstand!{/b}"
 
 # game/WEBCAM.rpy:2396
 translate german webcam_pussy3_e77b5a2b:
 
     # alex "{b}Эта игрушка просто разрывает меня изнутри!{/b}"
-    alex "{b}Эта игрушка просто разрывает меня изнутри!{/b}"
+    alex "{b}Er zerreißt mich von Innen!{/b}"
 
 # game/WEBCAM.rpy:2416
 translate german webcam_pussy3_1ed37804:
 
     # alex "{b}Это так приятно! Я очень хочу кончить... Надеюсь, вы не против!{/b}"
-    alex "{b}Это так приятно! Я очень хочу кончить... Надеюсь, вы не против!{/b}"
+    alex "{b}ЭDas ist nett! Ich will wirklich kommen ... Ich hoffe es macht euch nichts aus!{/b}"
 
 # game/WEBCAM.rpy:2434
 translate german webcam_pussy3_9968b10b:
 
     # alex "{b}Да! Помогите мне, мальчики! Звуки ваших токенов возбуждают еще сильнее!{/b}"
-    alex "{b}Да! Помогите мне, мальчики! Звуки ваших токенов возбуждают еще сильнее!{/b}"
+    alex "{b}Ja! Helft mir, Jungs! Das Geräusch eurer Token erregt mich noch mehr!{/b}"
 
 # game/WEBCAM.rpy:2456
 translate german webcam_pussy3_03f3c4ef:
 
     # alex "{b}Еще! Еще немного!{/b}"
-    alex "{b}Еще! Еще немного!{/b}"
+    alex "{b}Ein bisschen noch, ich bitte euch!{/b}"
 
 # game/WEBCAM.rpy:2481
 translate german webcam_pussy3_d73b9eae:
 
     # alex "{b}Блять! Сейчас кончу!!!{/b}"
-    alex "{b}Блять! Сейчас кончу!!!{/b}"
+    alex "{b}Fuck! Ich komme!!!{/b}"
 
 # game/WEBCAM.rpy:2504
 translate german webcam_pussy3_bf63e4e1:
 
     # alex "{b}Дааааа!{/b}"
-    alex "{b}Дааааа!{/b}"
-
+    alex "{b}Jaaaaaaaaa!
 # game/WEBCAM.rpy:2514
 translate german webcam_pussy3_b30fd194:
 
     # alex2 "У меня получилось... Без помощи Барбары... Это было шикарно..."
-    alex2 "У меня получилось... Без помощи Барбары... Это было шикарно..."
+    alex2 "Ich hab es geschafft ... Ohne Barbaras Hilfe ... Das war wundervoll ..."
 
 # game/WEBCAM.rpy:2515
 translate german webcam_pussy3_ae8f89a4:
 
     # alex "{b}Сладкие, вы прекрасны... У меня больше нет сил... Всем пока...{/b}"
-    alex "{b}Сладкие, вы прекрасны... У меня больше нет сил... Всем пока...{/b}"
+    alex "{b}Herrvorragend, ihr seid wundervoll ... Aber ich hab keine Kraft mehr ... Auf Wiedersehn, Jungs ...{/b}"
 
 # game/WEBCAM.rpy:2516
 translate german webcam_pussy3_a8393e4a:
 
     # aut "Я отрубилась прямо на трансляции. Еще какое-то время я слышала сквозь сон звук токенов, но он становился все реже. Вскоре у камеры села батарейка, и уже ничто не тревожило мой сон."
-    aut "Я отрубилась прямо на трансляции. Еще какое-то время я слышала сквозь сон звук токенов, но он становился все реже. Вскоре у камеры села батарейка, и уже ничто не тревожило мой сон."
+    aut "Ich wurde noch während der Sendung ohnmächtig. Für einige Zeit hörte ich noch das Geräusch von Token im Schlaf, aber es wurde langsam weniger. Bald war die Batterie der Kamera leer und nichts störte mehr meinen Schlaf."
 
 translate german strings:
 
     # game/WEBCAM.rpy:217
     old "{color=#8c8c8d}Очень горячий (анал с дилдо){/color}"
-    new "{color=#8c8c8d}Очень горячий (анал с дилдо){/color}"
+    new "{color=#8c8c8d}Sehr heiß (Anal mit Dildo{/color}"
 
     # game/WEBCAM.rpy:217
     old "Очень горячий (анал с дилдо)"
-    new "Очень горячий (анал с дилдо)"
+    new "Sehr heiß (Anal mit Dildo"
 
     # game/WEBCAM.rpy:255
     old "Нужно закончить анальные тренировки"
-    new "Нужно закончить анальные тренировки"
+    new "Ich muss das Anal Training beenden"
 
     # game/WEBCAM.rpy:2552
     old "Для тебя ничего не жалко"
-    new "Для тебя ничего не жалко"
+    new "Ich mach Alles für Dich"
 
     # game/WEBCAM.rpy:2562
     old "Поднажмем, мужики!"
-    new "Поднажмем, мужики!"
+    new "Los gehts Jungs"
 
     # game/WEBCAM.rpy:2567
     old "Лови, красотка!"
-    new "Лови, красотка!"
+    new "Kommt schon Jungs"
 
     # game/WEBCAM.rpy:2569
     old "Ты божественна!"
-    new "Ты божественна!"
+    new "Du bist göttlich!"
 
     # game/WEBCAM.rpy:2575
     old "1700"
@@ -1594,7 +1593,7 @@ translate german strings:
 
     # game/WEBCAM.rpy:2615
     old "В попку давай!"
-    new "В попку давай!"
+    new "Schieb ihn in den Arsch!"
 
     # game/WEBCAM.rpy:2619
     old "4000"
@@ -1602,11 +1601,11 @@ translate german strings:
 
     # game/WEBCAM.rpy:2620
     old "Да! мы за анал!"
-    new "Да! мы за анал!"
+    new "Ja! Wir wählen Anal!"
 
     # game/WEBCAM.rpy:2622
     old "АНАЛ! АНАЛ! АНАЛ!"
-    new "АНАЛ! АНАЛ! АНАЛ!"
+    new "ANAL! ANAL! ANAL!"
 
     # game/WEBCAM.rpy:2626
     old "900"
@@ -1618,23 +1617,23 @@ translate german strings:
 
     # game/WEBCAM.rpy:2651
     old "О господи!"
-    new "О господи!"
+    new "Oh mein Gott!"
 
     # game/WEBCAM.rpy:2657
     old "Какая же она охуенная!"
-    new "Какая же она охуенная!"
+    new "Sie ist so fucking perfekt!"
 
     # game/WEBCAM.rpy:2659
     old "Вот это глубина!"
-    new "Вот это глубина!"
+    new "So tief drin!"
 
     # game/WEBCAM.rpy:2664
     old "Это все, что у меня есть!"
-    new "Это все, что у меня есть!"
+    new "Das ist Alles was ich habe."
 
     # game/WEBCAM.rpy:2681
     old "Мы только ЗА!"
-    new "Мы только ЗА!"
+    new "Wir sind dafür!"
 
     # game/WEBCAM.rpy:2685
     old "2600"
@@ -1642,7 +1641,7 @@ translate german strings:
 
     # game/WEBCAM.rpy:2690
     old "Давай кончим вместе!"
-    new "Давай кончим вместе!"
+    new "Lass uns gemeinsam kommen!"
 
     # game/WEBCAM.rpy:2698
     old "2500"
@@ -1662,5 +1661,5 @@ translate german strings:
 
     # game/WEBCAM.rpy:2739
     old "Если она не ангел, то кто?"
-    new "Если она не ангел, то кто?"
+    new "Wenn sie kein Engel ist, wer dann?"
 
