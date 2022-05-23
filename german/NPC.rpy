@@ -2252,11 +2252,11 @@ translate german strings:
 
     # game/NPC.rpy:2151
     old "Я могу заходить в ванную вместе с Валери"
-    new ""
+    new "Ich kann zu Valerie in die Wanne steigen"
 
     # game/NPC.rpy:4450
     old "Навестить Джилл дома"
-    new ""
+    new "Besuche Jill zu Hause"
 
 # TODO: Translation updated at 2022-02-19 16:51
 
@@ -2264,23 +2264,23 @@ translate german strings:
 
     # game/NPC.rpy:1698
     old "Отправиться завтра на радио"
-    new ""
+    new "Geh morgen ins Radiostudio"
 
     # game/NPC.rpy:1703
     old "Дождаться Майкла в 13:00"
-    new ""
+    new "Warte auf Michael um 13:00 Uhr"
 
     # game/NPC.rpy:1940
     old "Рабочее время в Hot Arctic: 21:00-22:00 (кроме Пн и Ср)"
-    new ""
+    new "Öffnungszeiten des Hot Arctic: 21:00-22:00 Uhr (außer Montag und Mittwoch)"
 
     # game/NPC.rpy:2493
     old "Прийти домой в 23:00"
-    new ""
+    new "Komm heim um 23:00 Uhr"
 
     # game/NPC.rpy:4067
     old "Спросить у Пэрис насчет работы"
-    new ""
+    new "Frage Paris nach einem Job"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -2288,5 +2288,5 @@ translate german strings:
 
     # game/NPC.rpy:1457
     old "Я могу заниматься йогой с Валери дома (6:00 кроме Вт и Чт)"
-    new "Я могу заниматься йогой с Валери дома (6:00 кроме Вт и Чт)"
+    new "Ich kann mit Valerie Yoga machen (6:00 außer Dienstag und Donnerstag)"
 
