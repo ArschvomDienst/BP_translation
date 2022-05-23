@@ -420,25 +420,25 @@ translate german stat_d7846093:
 translate german stat_95caac4b:
 
     # gg2 happy "Я слушала это радио с самого детства! Я не могла и подумать, что меня саму туда пригласят."
-    gg2 happy ""
+    gg2 happy "Ich hab diesen Sender schon als Kind gehört! Das die mich irgendwann einmal einladen würden hätte ich nie gedacht!"
 
 # game/stats.rpy:1006
 translate german stat_5af339ae:
 
     # gg2 smile "Но Сова права, надо привыкать."
-    gg2 smile ""
+    gg2 smile "Aber Owl hat Recht, ich sollte mich daran gewöhnen."
 
 # game/stats.rpy:1007
 translate german stat_79e682cf:
 
     # gg2 hit "Ох уж эта сложная звездная жизнь..."
-    gg2 hit ""
+    gg2 hit "Das Leben der Stars ist schon kompliziert ..."
 
 # game/stats.rpy:1720
 translate german teleport_be440eb8:
 
     # gg smile "У меня сегодня эфир на радио. Нужно подготовиться."
-    gg smile ""
+    gg smile "Ich habe eine Sendung im Radio heute. Wir müssen uns vorbereiten."
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -446,35 +446,35 @@ translate german teleport_be440eb8:
 translate german stat_cc2c23bb:
 
     # gg2 smile "Пора собираться на концерт."
-    gg2 smile "Пора собираться на концерт."
+    gg2 smile "Es ist Zeit, sich für das Konzert vorzubereiten."
 
 translate german strings:
 
     # game/stats.rpy:20
     old "Зайти в комнату персонала в казино"
-    new "Зайти в комнату персонала в казино"
+    new "Geh in den Bereitschaftsraum des Kasinos"
 
     # game/stats.rpy:64
     old "Дождаться 16:00"
-    new "Дождаться 16:00"
+    new "Warte bis 16:00"
 
     # game/stats.rpy:67
     old "Зайти к Снейку"
-    new "Зайти к Снейку"
+    new "Gehe zu Snake"
 
     # game/stats.rpy:127
     old "Вернуться к Кевину"
-    new "Вернуться к Кевину"
+    new "Geh zurück zu Kevin"
 
     # game/stats.rpy:488
     old "Поработать натурщицей в классе живописи (11:00-13:00) ({image=smel.png} 8([allsmel]))"
-    new "Поработать натурщицей в классе живописи (11:00-13:00) ({image=smel.png} 8([allsmel]))"
+    new "Arbeite als Model für die Kunstklasse (11:00-13:00) ({image=smel.png} 8([allsmel]))"
 
     # game/stats.rpy:536
     old "Погулять возле дома ночью ({image=smel_.png} 11([allsmel]))"
-    new "Погулять возле дома ночью ({image=smel_.png} 11([allsmel]))"
+    new "Geh nachts nah dem Haus spazieren ({image=smel_.png} 11([allsmel]))"
 
     # game/stats.rpy:961
     old "Продолжать репетиции (15:00-20:00)([repa_all]/13)"
-    new "Продолжать репетиции (15:00-20:00)([repa_all]/13)"
+    new "Probe weiter (15:00-20:00)([repa_all]/13)"
 
