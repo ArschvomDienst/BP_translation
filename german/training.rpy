@@ -1634,41 +1634,41 @@ translate german strings:
 
     # game/training.rpy:1505
     old "{color=#8c8c8d}{b}6-й шарик{/b}{/color}"
-    new "{color=#8c8c8d}{b}6-й шарик{/b}{/color}"
+    new "{color=#8c8c8d}{b}Sechserkugel{/b}{/color}"
 
     # game/training.rpy:1505
     old "{b}6-й шарик{/b}"
-    new "{b}6-й шарик{/b}"
+    new "{b}Sechserkugel{/b}"
 
     # game/training.rpy:1519
     old "{color=#8c8c8d}{b}7-й шарик{/b}{/color}"
-    new "{color=#8c8c8d}{b}7-й шарик{/b}{/color}"
+    new "{color=#8c8c8d}{b}Siebenerkugel{/b}{/color}"
 
     # game/training.rpy:1519
     old "{b}7-й шарик{/b}"
-    new "{b}7-й шарик{/b}"
+    new "{b}Siebenerkugel{/b}"
 
     # game/training.rpy:1530
     old "{color=#8c8c8d}{b}8-й шарик{/b}{/color}"
-    new "{color=#8c8c8d}{b}8-й шарик{/b}{/color}"
+    new "{color=#8c8c8d}{b}Achterkugel{/b}{/color}"
 
     # game/training.rpy:1530
     old "{b}8-й шарик{/b}"
-    new "{b}8-й шарик{/b}"
+    new "{b}Achterkugel{/b}"
 
     # game/training.rpy:1538
     old "{color=#8c8c8d}{b}9-й шарик{/b}{/color}"
-    new "{color=#8c8c8d}{b}9-й шарик{/b}{/color}"
+    new "{color=#8c8c8d}{b}Neunerkugel{/b}{/color}"
 
     # game/training.rpy:1538
     old "{b}9-й шарик{/b}"
-    new "{b}9-й шарик{/b}"
+    new "{b}Neunerkugel{/b}"
 
     # game/training.rpy:1547
     old "{color=#8c8c8d}{b}Последний шарик{/b}{/color}"
-    new "{color=#8c8c8d}{b}Последний шарик{/b}{/color}"
+    new "{color=#8c8c8d}{b}Letzte Kugel{/b}{/color}"
 
     # game/training.rpy:1547
     old "{b}Последний шарик{/b}"
-    new "{b}Последний шарик{/b}"
+    new "{b}Letzte Kugel{/b}"
 
