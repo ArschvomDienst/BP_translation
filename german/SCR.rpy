@@ -999,71 +999,71 @@ translate german strings:
 
     # game/SCR.rpy:2466
     old "Сила удара ([hit_power])"
-    new ""
+    new "Schlagkraft([hit_power])"
 
     # game/SCR.rpy:2509
     old "Валери прическа"
-    new ""
+    new "Valeries Frisur"
 
     # game/SCR.rpy:2575
     old "Голод"
-    new ""
+    new "Hunger"
 
     # game/SCR.rpy:2577
     old "Усталость"
-    new ""
+    new "Müdigkeit"
 
     # game/SCR.rpy:2579
     old "От Алекс неприятно пахнет"
-    new ""
+    new "Alex riecht streng"
 
     # game/SCR.rpy:2581
     old "Алекс испачкана чьей-то спермой"
-    new ""
+    new "Alex hat Sperma am Körper"
 
     # game/SCR.rpy:2583
     old "Головная боль"
-    new ""
+    new "Kopfschmerzen"
 
     # game/SCR.rpy:2585
     old "Депрессия"
-    new ""
+    new "Depression"
 
     # game/SCR.rpy:2587
     old "Выпила антидепрессанты"
-    new ""
+    new "Ich hab Antidepressivum genommen"
 
     # game/SCR.rpy:2589
     old "Сильный стресс"
-    new ""
+    new "schwerer Stress"
 
     # game/SCR.rpy:2591
     old "Алкогольное опьянение"
-    new ""
+    new "Betrunken"
 
     # game/SCR.rpy:2593
     old "Алекс часто тошнит"
-    new ""
+    new "Alex fühlt sich oft schlecht"
 
     # game/SCR.rpy:2595
     old "Приняла противозачаточные"
-    new ""
+    new "Ich hab die Pille genommen"
 
     # game/SCR.rpy:2597
     old "Кто-то кончил в Алекс"
-    new ""
+    new "Jemand hat Alex mit Sperma gefüllt"
 
     # game/SCR.rpy:2599
     old "Беременность"
-    new ""
+    new "Schwangerschaft"
 
     # game/SCR.rpy:2601
     old "Алекс достала зонтик"
-    new ""
+    new "Alex hat den Regenschirm aufgespannt"
 
     # game/SCR.rpy:2626
     old "Кнопка такси"
-    new ""
+    new "Taxi rufen"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1071,21 +1071,21 @@ translate german strings:
 
     # game/SCR.rpy:2443
     old "Полная свобода "
-    new "Полная свобода "
+    new "Absolute Freiheit"
 
     # game/SCR.rpy:2478
     old "Вокал ([vocal])"
-    new "Вокал ([vocal])"
+    new "Stimme ([vocal])"
 
     # game/SCR.rpy:2528
     old "Сила([power])"
-    new "Сила([power])"
+    new "Kraft([power])"
 
     # game/SCR.rpy:2532
     old "Ловкость([lovk])"
-    new "Ловкость([lovk])"
+    new "Beweglichkeit([lovk])"
 
     # game/SCR.rpy:2663
     old "Журнал квестов (J)"
-    new "Журнал квестов (J)"
+    new "Questlog (J)"
 
