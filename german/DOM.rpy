@@ -42,5 +42,5 @@ translate german strings:
 
     # game/DOM.rpy:15
     old "Тренировать силу ({image=sila_.png} 11([power]))"
-    new "Тренировать силу ({image=sila_.png} 11([power]))"
+    new "Stärke trainieren ({image=sila_.png} 11([power]))"
 
