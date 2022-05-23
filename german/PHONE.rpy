@@ -1275,7 +1275,7 @@ translate german owl_mes_ec39120d:
 translate german alisa_mes_d4dd6ecb:
 
     # gg2 happy "Это же сообщение от Алисы!"
-    gg2 happy "Eine Nachricht von Alice!"
+    gg2 happy "Eine Nachricht von Alisa!"
 
 # game/PHONE.rpy:1148
 translate german alisa_mes_18440f21:
@@ -1365,7 +1365,7 @@ translate german alisa_mes_ad802c6c:
 translate german alisa_mes_b2a09a58:
 
     # "{#r=Мне написала Алиса Дарк и пригласила нас с тобой на свой концерт, представляешь?!<<scream>>}"
-    "{#r=Alice Dark hat mir geschrieben und uns beide auf ihr Konzert eingeladen. Kannst du das glauben?!<<scream>>}"
+    "{#r=Alisa Dark hat mir geschrieben und uns beide auf ihr Konzert eingeladen. Kannst du das glauben?!<<scream>>}"
 
 # game/PHONE.rpy:1169
 translate german alisa_mes_ada085b8:
