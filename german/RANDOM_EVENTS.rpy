@@ -2368,7 +2368,7 @@ translate german strings:
 translate german beach_tower_3e768b09:
 
     # gg2 zadum "Старая спасательная вышка. Видимо, раньше здесь был полноценный пляж. Сейчас место выглядит заброшенным."
-    gg2 zadum ""
+    gg2 zadum "Ein alter Rettungsturm. Anscheinend war das mal ein Badestrand, aber jetzt sieht Alles verlassen aus."
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -2376,17 +2376,17 @@ translate german strings:
 
     # game/RANDOM_EVENTS.rpy:32
     old "Сделать селфи с нудистами (Ср,Чт) (нужен купальник) ({image=smel_.png} 20([allsmel]))"
-    new "Сделать селфи с нудистами (Ср,Чт) (нужен купальник) ({image=smel_.png} 20([allsmel]))"
+    new "Selfie mit Nudisten (Mi, Do) (Badeanzug benötigt) ({image=smel_.png} 20([allsmel]))"
 
     # game/RANDOM_EVENTS.rpy:33
     old "{#image=cour} {color=#bcf3ff}{b}Сделать селфи{/b}{/color}"
-    new "{#image=cour} {color=#bcf3ff}{b}Сделать селфи{/b}{/color}"
+    new "{#image=cour} {color=#bcf3ff}{b}Selfie machen{/b}{/color}"
 
     # game/RANDOM_EVENTS.rpy:310
     old "Позагорать без купальника ({image=smel_.png} 25([allsmel]))"
-    new "Позагорать без купальника ({image=smel_.png} 25([allsmel]))"
+    new "Sonne dich nackt ({image=smel_.png} 25([allsmel]))"
 
     # game/RANDOM_EVENTS.rpy:311
     old "Поплавать без купальника ({image=smel_.png} 28([allsmel]))"
-    new "Поплавать без купальника ({image=smel_.png} 28([allsmel]))"
+    new "Schwimm nackt ({image=smel_.png} 28([allsmel]))"
 

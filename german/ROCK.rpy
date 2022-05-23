@@ -1456,7 +1456,7 @@ translate german third_concert_f3cbf46e:
 translate german third_concert_07e7259d:
 
     # aut "Дома я стащила с себя потную одежду, и меня сразу вырубило. Каждое выступление забирало у меня последние силы. Но будь я проклята, если это не самая приятная усталость..."
-    aut "Zuhause pelle ich mich aus den verschwitzten Sachen und falle sofort um. Jeder Auftritt laugt mich völlig aus. Aber ich werde mich nicht beschweren, eine angenehmere Müdigkeit kann es kaum geben."
+    aut "Zuhause pellte ich mich aus den verschwitzten Sachen und fiel sofort um. Jeder Auftritt laugt mich völlig aus. Aber ich werde mich nicht beschweren, eine angenehmere Müdigkeit kann es kaum geben."
 
 # TODO: Translation updated at 2022-02-08 18:00
 
@@ -1464,157 +1464,157 @@ translate german third_concert_07e7259d:
 translate german radio_scene1_52ca422e:
 
     # alex "А за Риком заезжать не будем?"
-    alex ""
+    alex "Wir müssen noch Rick abholen, oder?"
 
 # game/ROCK.rpy:977
 translate german radio_scene1_719cb488:
 
     # michael "Он сам отказался. Говорит, что разучился с людьми говорить, боится нам все испортить."
-    michael ""
+    michael "Er hat abgelehnt. Er sagte er habe vergessen, wie man mit Leuten spricht und sei besorgt es nur zu versauen."
 
 # game/ROCK.rpy:978
 translate german radio_scene1_e2c13425:
 
     # michael "Будем только мы и Киан."
-    michael ""
+    michael "Sind also nur wir Drei."
 
 # game/ROCK.rpy:979
 translate german radio_scene1_32ca958f:
 
     # alex "А Сова?"
-    alex ""
+    alex "Und Owl?"
 
 # game/ROCK.rpy:980
 translate german radio_scene1_6d6c78bf:
 
     # michael "Задача менеджера - организовывать такие эфиры, а не участвовать в них."
-    michael ""
+    michael "Ein Manager macht die Events klar, nimmt aber nicht daran teil."
 
 # game/ROCK.rpy:981
 translate german radio_scene1_99c9de11:
 
     # alex "Понятно... Что-то я волнуюсь немного. Как там надо себя вести?"
-    alex ""
+    alex "Okay...Ich bin besorgt, muss ich etwas wissen? Wie soll ich sein?"
 
 # game/ROCK.rpy:982
 translate german radio_scene1_2f2969df:
 
     # michael "Просто старайся быть на позитиве и улыбаться. Унылая речь по радио воспринимается очень плохо."
-    michael ""
+    michael "Sei einfach positiv und lächele. Man hört das raus."
 
 # game/ROCK.rpy:983
 translate german radio_scene1_1e0b5196:
 
     # michael "Тем более ведущим будет Рон Бон. А этот малый сразу задаст нужный тон."
-    michael ""
+    michael "Und nebenbei erwähnt, der Host ist Ron Bon. Der Typ weiß, wie man den Ton setzt."
 
 # game/ROCK.rpy:984
 translate german radio_scene1_7970a2ab:
 
     # alex2 "Рон Бон вел всякие музыкальные программы сколько я себя помню. Интересно, как он выглядит вживую?"
-    alex2 ""
+    alex2 "Ron Bon hat schon durch alle Arten von Musikprogramm geführt so lange ich denken kann. Wie er wohl aussieht?"
 
 # game/ROCK.rpy:997
 translate german radio_scene1_323423bd:
 
     # aut "Помещение радиостудии было намного скромнее, чем я могла подумать."
-    aut ""
+    aut "Das Studio war einfacher eingerichtet als ich dachte."
 
 # game/ROCK.rpy:998
 translate german radio_scene1_5561ec32:
 
     # aut "Обычная небольшая комната. Но это добавляло нашим посиделкам больше уюта и домашней атмосферы."
-    aut ""
+    aut "Ein ganz einfacher Raum. Aber dadurch war er komfortabel und heimelig für unser Treffen."
 
 # game/ROCK.rpy:1000
 translate german radio_scene1_44c9e73b:
 
     # aut "Рона Бона я примерно так себе и представляла, только думала, что он чуть моложе."
-    aut ""
+    aut "Genau wie ich mir Ron Bon vorgestellt habe. Fast. Ich hab gedacht, er sei jünger."
 
 # game/ROCK.rpy:1001
 translate german radio_scene1_7eee0e72:
 
     # aut "Позитив у этого человека был одним из профессиональных талантов. Рон включал и выключал его в нужные моменты."
-    aut ""
+    aut "Der Mann war ein Vollblutprofi. Ron wusste genau, wie er sich zu jedem Zeitpunkt verhalten soll."
 
 # game/ROCK.rpy:1003
 translate german radio_scene1_4ce88084:
 
     # michael "Майкл тоже был позитивным и даже пробовал шутить. До того я ни разу его таким не видела."
-    michael ""
+    michael "Michael blühte richtig auf und er erzählte sogar Witze. So hatte ich ihn vorher nie gesehen."
 
 # game/ROCK.rpy:1015
 translate german radio_scene1_27608d80:
 
     # aut "Сразу было страшновато отвечать на вопросы, зная, что тебя слышит вся страна, но потом я вошла во вкус."
-    aut ""
+    aut "Es war beängstigend zum ersten Mal vor Publikum Fragen zu beantworten, schließlich wurde der Sender im ganzen Land gespielt. Aber ich gewöhnte mich schnell daran."
 
 # game/ROCK.rpy:1026
 translate german radio_scene1_296b81ab:
 
     # aut "Хотя у меня мало что спрашивали, ведь кроме меня за столом сидели настоящие звезды прошлого."
-    aut ""
+    aut "Aber er hat mich nicht viel gefragt, saßen die großen Stars der Vergangenheit doch neben mir."
 
 # game/ROCK.rpy:1028
 translate german radio_scene1_1021def5:
 
     # aut "Оказалось, Киан тоже раньше был известным музыкантом, но он всегда был немногословен и ничего о себе не рассказывал."
-    aut ""
+    aut "Kean war offenbar schon vorher ein berühmter Musiker, aber er war immer schon lakonisch und hat nie davon erzählt."
 
 # game/ROCK.rpy:1029
 translate german radio_scene1_37646165:
 
     # aut "А я о джазовой тусовке не знаю ничего."
-    aut ""
+    aut "Und von einer Jazz Party wusste ich auch nichts."
 
 # game/ROCK.rpy:1040
 translate german radio_scene1_f7d95f57:
 
     # aut "Мне и самой было интересно послушать истории своих коллег, но Майкл старался не возвращаться в прошлое, а больше говорил о нашей группе, постоянно упоминая о том, как им повезло встретить меня."
-    aut ""
+    aut "Es war aufregend, den Geschichten der Anderen zu lauschen. Aber Michael vermied es über die Vergangenheit zu reden. Er sprach mehr von unserer Band und ständig erwähnte er, wie viel Glück sie gehabt hätten mich zu treffen."
 
 # game/ROCK.rpy:1042
 translate german radio_scene1_7b915a7d:
 
     # aut "Рон Бон признался, что обычно не приглашает на эфир музыкантов, у которых даже нет записанных песен. Но красноречие нашего менеджера со странным именем Сова и громкие имена музыкантов заставили его сделать исключение."
-    aut ""
+    aut "Ron Bon gab zu er würde normalerweise keine Musiker einladen die noch kein Album aufgenommen haben. Aber die Eloquenz unseres Managers mit dem seltsamen Namen Owl und die Namen großer Musiker hatten ihn zu einer Ausnahme verleitet."
 
 # game/ROCK.rpy:1053
 translate german radio_scene1_3bf906a2:
 
     # aut "Получасовой эфир пролетел очень быстро. Ведущий и режиссер остались довольны, Майкл с Кианом тоже были в хорошем настроении. Мой первый опыт выступления на радио можно было считать удачным."
-    aut ""
+    aut "Die halbe Stunde der Sendung war sehr schnell vorbei. Der Host und der Direktor waren zufrieden. Michael und Kean waren auch gut drauf. Meine erste Erfahrung mit dem Radio konnte also als Erfolg gewertet werden."
 
 # game/ROCK.rpy:1076
 translate german radio_scene1_b1d98d38:
 
     # michael "Рон прав, для продвижения нам нужны записанные песни. Думаю, самое время засесть за альбом."
-    michael ""
+    michael "Ron hat Recht, wir brauchen mehr Songs. Es ist Zeit, dass wir mit einem Album anfangen."
 
 # game/ROCK.rpy:1077
 translate german radio_scene1_f41df981:
 
     # alex "Настоящий альбом? Здорово!"
-    alex ""
+    alex "Ein Album? Großartig!"
 
 # game/ROCK.rpy:1078
 translate german radio_scene1_ce470956:
 
     # michael "Будь готова к тому, что запись - это не так весело, как концерты."
-    michael ""
+    michael "Freu dich nicht zu früh, ein Album aufzunehmen ist weniger aufregend als auf der Bünhe zu stehen."
 
 # game/ROCK.rpy:1079
 translate german radio_scene1_fee2f67b:
 
     # alex "Я делала и гораздо менее веселые вещи."
-    alex ""
+    alex "Ich hab vorher schon Dinge getan die keinen Spass machen."
 
 # game/ROCK.rpy:1080
 translate german radio_scene1_ed545050:
 
     # michael "Охотно верю."
-    michael ""
+    michael "Glaub ich dir."
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1622,597 +1622,597 @@ translate german radio_scene1_ed545050:
 translate german kian_tina_event_d99a9c89:
 
     # tina "Я не думала, что ты тот, кто будет избегать ответственности!"
-    tina "Я не думала, что ты тот, кто будет избегать ответственности!"
+    tina "Ich hab dich nicht für jemanden gehalten der sich aus der Verantwortung stiehlt."
 
 # game/ROCK.rpy:1111
 translate german kian_tina_event_64698ef6:
 
     # kian "Да при чем тут ответственность?!"
-    kian "Да при чем тут ответственность?!"
+    kian "Warum redest du von Verantwortung?!"
 
 # game/ROCK.rpy:1112
 translate german kian_tina_event_31ab830f:
 
     # gg2 zadum "Ой-ёй, кажется, я нарвалась на разгар ссоры. Лучше бы мне уйти по-тихому..."
-    gg2 zadum "Ой-ёй, кажется, я нарвалась на разгар ссоры. Лучше бы мне уйти по-тихому..."
+    gg2 zadum "Oh, ich bin wohl in eine Auseinandersetzung geplatzt. Ich geh wohl besser ..."
 
 # game/ROCK.rpy:1113
 translate german kian_tina_event_ceccf4a5:
 
     # kian "И вообще, откуда мне знать, что это мой ребенок?"
-    kian "И вообще, откуда мне знать, что это мой ребенок?"
+    kian "Und wie weiß ich, dass das Kind von mir ist?"
 
 # game/ROCK.rpy:1114
 translate german kian_tina_event_fb422850:
 
     # gg2 hit "Вот это поворот! Тина беременна?! Ну, теперь я точно не смогу уйти, пока не узнаю больше. Тем более, на меня тут вообще никто внимания не обращает..."
-    gg2 hit "Вот это поворот! Тина беременна?! Ну, теперь я точно не смогу уйти, пока не узнаю больше. Тем более, на меня тут вообще никто внимания не обращает..."
+    gg2 hit "Oh, Tina ist also schwanger? Jetzt kann ich gar nicht gehen ohne mehr zu wissen. Hier nimmt mich eh keiner wahr..."
 
 # game/ROCK.rpy:1116
 translate german kian_tina_event_37ea7fa4:
 
     # tina "Да как ты можешь?! Я ни с кем не сплю, кроме тебя!"
-    tina "Да как ты можешь?! Я ни с кем не сплю, кроме тебя!"
+    tina "Das fragst du echt?! Ich hatte mit niemandem Sex außer mit Dir!"
 
 # game/ROCK.rpy:1118
 translate german kian_tina_event_f5402093:
 
     # kian "Я ни разу в тебя не кончал!"
-    kian "Я ни разу в тебя не кончал!"
+    kian "Aber ich hab dir nie die Muschi vollgemacht!"
 
 # game/ROCK.rpy:1120
 translate german kian_tina_event_fb8fe425:
 
     # tina "Ты же большой мальчик! Это ничего не гарантирует!"
-    tina "Ты же большой мальчик! Это ничего не гарантирует!"
+    tina "Du bist doch ein großer Junge! Das garantiert nichts!"
 
 # game/ROCK.rpy:1121
 translate german kian_tina_event_0dcc09c5:
 
     # kian "Если ты забыла, то я вообще-то женат!"
-    kian "Если ты забыла, то я вообще-то женат!"
+    kian "Ich bin verheiratet, falls du es vergessen hast!"
 
 # game/ROCK.rpy:1123
 translate german kian_tina_event_1bb419ad:
 
     # aut "Киан махнул рукой в сторону рамки с фотографией. На ней была изображена милая юная девушка. Жена?"
-    aut "Киан махнул рукой в сторону рамки с фотографией. На ней была изображена милая юная девушка. Жена?"
+    aut "Keans Hand zeigte in die Richtung eines Bildes. Darauf war ein süßes junges Mädchen zu sehen. Und eine Ehefrau?"
 
 # game/ROCK.rpy:1125
 translate german kian_tina_event_e221d2ab:
 
     # tina "Той, на ком ты женился, больше нет! Ты и сам это понимаешь!"
-    tina "Той, на ком ты женился, больше нет! Ты и сам это понимаешь!"
+    tina "Die die du geheiratet hast gibt es nicht mehr! Du weißt das ganz genau!"
 
 # game/ROCK.rpy:1126
 translate german kian_tina_event_ea851abe:
 
     # tina "Кстати, я ей тоже все рассказала."
-    tina "Кстати, я ей тоже все рассказала."
+    tina "Und im Übrigen, ich hab ihr Alles gesagt."
 
 # game/ROCK.rpy:1128
 translate german kian_tina_event_e657eaac:
 
     # kian "Что?! Нахрена ты это сделала?!"
-    kian "Что?! Нахрена ты это сделала?!"
+    kian "Was? Warum hast du das getan?"
 
 # game/ROCK.rpy:1130
 translate german kian_tina_event_a60d9ba0:
 
     # tina "Потому что весь этот фарс, который ты называешь браком, пора заканчивать."
-    tina "Потому что весь этот фарс, который ты называешь браком, пора заканчивать."
+    tina "Weil diese Scharade die du Ehe nennst endlich ein Ende haben muss."
 
 # game/ROCK.rpy:1131
 translate german kian_tina_event_0324186d:
 
     # kian "Что ты несешь?!"
-    kian "Что ты несешь?!"
+    kian "Wovon redest du?!"
 
 # game/ROCK.rpy:1132
 translate german kian_tina_event_7b7dc467:
 
     # aut "За дверью послышался быстро приближающийся звук каблуков."
-    aut "За дверью послышался быстро приближающийся звук каблуков."
+    aut "Das Geräusch von Stöckelschuhen kam schnell näher."
 
 # game/ROCK.rpy:1133
 translate german kian_tina_event_28bc0e27:
 
     # gg2 hit "Ой... Щас что-то будет..."
-    gg2 hit "Ой... Щас что-то будет..."
+    gg2 hit "Oh Oh ... Gleich fliegen die Fetzen ..."
 
 # game/ROCK.rpy:1134
 translate german kian_tina_event_676aa020:
 
     # aut "Ни мое присутствие, ни звук за дверью никак не привлекали внимание ссорящейся парочки. Но я на всякий случай отошла в сторону от двери."
-    aut "Ни мое присутствие, ни звук за дверью никак не привлекали внимание ссорящейся парочки. Но я на всякий случай отошла в сторону от двери."
+    aut "Weder meine Anwesenheit noch das nahende Geräusch war dem streitenden Pärchen bewusst. Aber ich entfernte mich trotzdem lieber von der Tür."
 
 # game/ROCK.rpy:1136
 translate german kian_tina_event_a4fe655c:
 
     # aut "Я ожидала увидеть в дверях девушку с фотографии, но в кабинет вошел совсем другой человек."
-    aut "Я ожидала увидеть в дверях девушку с фотографии, но в кабинет вошел совсем другой человек."
+    aut "Ich erwartete, das Mädchen von dem Foto in der Tür zu sehen, aber eine komplett andere Person betrat das Büro."
 
 # game/ROCK.rpy:1137
 translate german kian_tina_event_fe35f352:
 
     # carmen "Эта шлюха тоже здесь? Прекрасно! Я жду объяснений, мистер Берч!"
-    carmen "Эта шлюха тоже здесь? Прекрасно! Я жду объяснений, мистер Берч!"
+    carmen "Ist die Hure auch hier? Ich warte auf eine erklärung, Herr Birch!"
 
 # game/ROCK.rpy:1138
 translate german kian_tina_event_7cfcb1c9:
 
     # aut "Я даже на секунду подумала, что женщина имеет в виду меня. Но она явно говорила о Тине."
-    aut "Я даже на секунду подумала, что женщина имеет в виду меня. Но она явно говорила о Тине."
+    aut "Ich dachte für einen Augenblick sie meinte mich, aber sie war klar auf Tina fixiert."
 
 # game/ROCK.rpy:1140
 translate german kian_tina_event_05115cf7:
 
     # kian "Кармен?! Что ты тут делаешь? То есть... я должен все объяснить..."
-    kian "Кармен?! Что ты тут делаешь? То есть... я должен все объяснить..."
+    kian "Carmen? Was machst du hier? Das ist ... Lass mich erklären ..."
 
 # game/ROCK.rpy:1142
 translate german kian_tina_event_7e91913b:
 
     # tina "Подожди-подожди... Это ты меня назвала шлюхой?! ТЫ?! МЕНЯ?! Ту, кто спит только с одним мужчиной?!"
-    tina "Подожди-подожди... Это ты меня назвала шлюхой?! ТЫ?! МЕНЯ?! Ту, кто спит только с одним мужчиной?!"
+    tina "Warte mal ... Hast du mich gerade Hure genannt? DU?! MICH?! Diejenige die nur mit einem Kerl schläft?"
 
 # game/ROCK.rpy:1144
 translate german kian_tina_event_2cafb0e8:
 
     # carmen "Да что ты такое несешь?!"
-    carmen "Да что ты такое несешь?!"
+    carmen "Worüber redest du da?!"
 
 # game/ROCK.rpy:1146
 translate german kian_tina_event_dda34615:
 
     # tina "Я сейчас покажу..."
-    tina "Я сейчас покажу..."
+    tina "Zeig ich dir ..."
 
 # game/ROCK.rpy:1147
 translate german kian_tina_event_3ffbe433:
 
     # carmen "Что ты там ищешь?!"
-    carmen "Что ты там ищешь?!"
+    carmen "Wonach suchst du da?!"
 
 # game/ROCK.rpy:1148
 translate german kian_tina_event_30e67f8a:
 
     # aut "Грудастая женщина быстрым шагом направилась к столу."
-    aut "Грудастая женщина быстрым шагом направилась к столу."
+    aut "Die vollbusige Frau marschierte zum Tisch."
 
 # game/ROCK.rpy:1149
 translate german kian_tina_event_f1a4fe7a:
 
     # tina "Минута поиска на любом порносайте и вуаля!"
-    tina "Минута поиска на любом порносайте и вуаля!"
+    tina "Eine Minute Suche auf einer Pornoseite und tadaa!"
 
 # game/ROCK.rpy:1151
 translate german kian_tina_event_63380ed8:
 
     # aut "Не успела Кармен добежать до стола, как из ноутбука донеслись громкие стоны."
-    aut "Не успела Кармен добежать до стола, как из ноутбука донеслись громкие стоны."
+    aut "Als Carmen den Tisch erreichte waren vom Laptop lautes Grunzen und Stöhnen zu hören."
 
 # game/ROCK.rpy:1152
 translate german kian_tina_event_08016416:
 
     # aut "Тина развернула ноутбук, демонстрируя всем качественное порно с женой Киана в главной роли."
-    aut "Тина развернула ноутбук, демонстрируя всем качественное порно с женой Киана в главной роли."
+    aut "Tina öffnete den Laptop und zeigte einen HD Porno mit Keans Frau in der Hauptrolle."
 
 # game/ROCK.rpy:1153
 translate german kian_tina_event_7a09cb3e:
 
     # aut "Без сомнения, это была та девушка, что стояла сейчас рядом со мной. Она обрабатывала два больших черных члена."
-    aut "Без сомнения, это была та девушка, что стояла сейчас рядом со мной. Она обрабатывала два больших черных члена."
+    aut "Ohne Frage, es war die Frau die jetzt gerade neben mir stand. Sie war dabei zwei große, schwarze Schwänze zu bearbeiten."
 
 # game/ROCK.rpy:1154
 translate german kian_tina_event_eeb76dcb:
 
     # aut "Киан смотрел на это с открытым ртом. Внезапно он заговорил спокойным тихим голосом:"
-    aut "Киан смотрел на это с открытым ртом. Внезапно он заговорил спокойным тихим голосом:"
+    aut "Kean schaute mit offenem Mund zu. Plötzlich sagte er mit ruhiger, klarer Stimmer:"
 
 # game/ROCK.rpy:1156
 translate german kian_tina_event_7fd413a6:
 
     # kian "И давно это продолжается?"
-    kian "И давно это продолжается?"
+    kian "Wie lange geht das schon?"
 
 # game/ROCK.rpy:1157
 translate german kian_tina_event_4eb87d8f:
 
     # tina "Несколько лет. В интернете есть около пяти десятков роликов с ней. Твоя жена - довольно известная порно-актриса."
-    tina "Несколько лет. В интернете есть около пяти десятков роликов с ней. Твоя жена - довольно известная порно-актриса."
+    tina "Ein paar Jahre. Es gibt etwa 5 duzend dieser Videos im Internet. Deine Frau ist ein berühmter Pornostar."
 
 # game/ROCK.rpy:1158
 translate german kian_tina_event_7c9b282d:
 
     # kian "Кто еще об этом знает?"
-    kian "Кто еще об этом знает?"
+    kian "Wer weiß noch davon?"
 
 # game/ROCK.rpy:1159
 translate german kian_tina_event_54a4f99d:
 
     # tina "В салоне знают все. Ну, кроме тебя."
-    tina "В салоне знают все. Ну, кроме тебя."
+    tina "Jeder im Salon weiß es. Naja, außer dir."
 
 # game/ROCK.rpy:1161
 translate german kian_tina_event_2f5cf5da:
 
     # kian "Блять... Какой позор..."
-    kian "Блять... Какой позор..."
+    kian "Verdammt ... Was für eine Blamage ..."
 
 # game/ROCK.rpy:1163
 translate german kian_tina_event_04167932:
 
     # aut "Тем временем действо на экране продолжалось. Кармен поставили на колени и готовились обкончать ей лицо."
-    aut "Тем временем действо на экране продолжалось. Кармен поставили на колени и готовились обкончать ей лицо."
+    aut "Die Action auf dem Bildschirm ging derweil weiter. Carmen war nun auf den Knien und jemand war kurz davon, ihr Gesicht weiß zu malen."
 
 # game/ROCK.rpy:1164
 translate german kian_tina_event_b05834d9:
 
     # carmen "А ты думал, только тебе можно трахаться с другими бабами?!"
-    carmen "А ты думал, только тебе можно трахаться с другими бабами?!"
+    carmen "Und du dachtest nur du könntest fremdgehen?!"
 
 # game/ROCK.rpy:1165
 translate german kian_tina_event_bbeec490:
 
     # tina "Она вообще не чуствует себя виноватой, Киан!"
-    tina "Она вообще не чуствует себя виноватой, Киан!"
+    tina "Nicht ein Hauch von Reue, Kean!"
 
 # game/ROCK.rpy:1166
 translate german kian_tina_event_c9be5b1e:
 
     # tina "Брось эту шлюху и будь со мной! Мы будем жить счастливо с нашим ребенком..."
-    tina "Брось эту шлюху и будь со мной! Мы будем жить счастливо с нашим ребенком..."
+    tina "Verlass die Nutte und bleib bei mir! Wir werden glücklich leben mit unserem Kind ..."
 
 # game/ROCK.rpy:1167
 translate german kian_tina_event_4abcaff7:
 
     # kian "Да идите вы обе нахуй!"
-    kian "Да идите вы обе нахуй!"
+    kian "Fickt euch Beide!"
 
 # game/ROCK.rpy:1169
 translate german kian_tina_event_0cb5db5b:
 
     # aut "Киан отправился к выходу, а Кармен на экране демонстрировала довольное залитое спермой лицо."
-    aut "Киан отправился к выходу, а Кармен на экране демонстрировала довольное залитое спермой лицо."
+    aut "Kean ging zum Ausgang während Carmen auf dem Bildschirm mit weiß bemaltem Gesicht gezeigt wurde."
 
 # game/ROCK.rpy:1170
 translate german kian_tina_event_86cfafff:
 
     # kian "У меня репетиция. Пойдем, Алекс."
-    kian "У меня репетиция. Пойдем, Алекс."
+    kian "Ich hab eine Probe. Komm schon, Alex."
 
 # game/ROCK.rpy:1171
 translate german kian_tina_event_d6949feb:
 
     # gg zlo "Меня только сейчас заметили? Я вам что, шутка какая-то?!"
-    gg zlo "Меня только сейчас заметили? Я вам что, шутка какая-то?!"
+    gg zlo "Falle ich euch erst jetzt auf? Macht ihr euch lustig über mich?!"
 
 # game/ROCK.rpy:1173
 translate german kian_tina_event_ed3a4b5f:
 
     # aut "Я еле успевала за Кианом. Он быстрым шагом вышел на улицу и направился к дому Фальцета."
-    aut "Я еле успевала за Кианом. Он быстрым шагом вышел на улицу и направился к дому Фальцета."
+    aut "Ich konnte ihm kaum folgen. Er marschierte schnell auf die Straße und in Richtung Falsetto."
 
 # game/ROCK.rpy:1175
 translate german kian_tina_event_2970ef80:
 
     # kian "Какой же я был кретин! Они все знали! Можешь себе представить?"
-    kian "Какой же я был кретин! Они все знали! Можешь себе представить?"
+    kian "Was für ein Dummkopf ich doch bin. Alle wussten davon! Kannst du das Glauben?"
 
 # game/ROCK.rpy:1176
 translate german kian_tina_event_c4e0bd07:
 
     # gg sad "Если честно, с трудом... А та девушка на фотографии..."
-    gg sad "Если честно, с трудом... А та девушка на фотографии..."
+    gg sad "Das ist ehrlich gesagt schwer für mich ... Und das Mädchen auf dem Foto ..."
 
 # game/ROCK.rpy:1177
 translate german kian_tina_event_da109d86:
 
     # kian "Да, превратилась в этого монстра!"
-    kian "Да, превратилась в этого монстра!"
+    kian "Ja. Sie hat sich zu einem Monster gemausert!"
 
 # game/ROCK.rpy:1178
 translate german kian_tina_event_213f8fed:
 
     # kian "Я однажды намекнул, что было бы неплохо, если бы она чуть-чуть увеличила грудь. Но ее понесло..."
-    kian "Я однажды намекнул, что было бы неплохо, если бы она чуть-чуть увеличила грудь. Но ее понесло..."
+    kian "Ich hab einmal erwähnt, dass sie sich die Brüste etwas vergrößern könne. Aber sie hat es übertrieben ..."
 
 # game/ROCK.rpy:1179
 translate german kian_tina_event_3ac012f6:
 
     # kian "А ведь ей всего 21!"
-    kian "А ведь ей всего 21!"
+    kian "Aber sie ist doch erst 21!"
 
 # game/ROCK.rpy:1180
 translate german kian_tina_event_0d8e539d:
 
     # kian "А теперь оказалось, что она еще и шлюха!"
-    kian "А теперь оказалось, что она еще и шлюха!"
+    kian "Und eine Hure wie ich jetzt weiß!"
 
 # game/ROCK.rpy:1181
 translate german kian_tina_event_f3e5ca49:
 
     # gg sad "Я понимаю твои чувства, но ведь она в чем-то права. Ты тоже изменял ей..."
-    gg sad "Я понимаю твои чувства, но ведь она в чем-то права. Ты тоже изменял ей..."
+    gg sad "Ich versteh dich ja, aber sie hat auch irgendwo Recht. Du hast sie auch betrogen ..."
 
 # game/ROCK.rpy:1182
 translate german kian_tina_event_fa5e9b6d:
 
     # kian "Но у меня же была всего одна любовница!"
-    kian "Но у меня же была всего одна любовница!"
+    kian "Ich hatte immer nur Sex mit einer Frau!"
 
 # game/ROCK.rpy:1183
 translate german kian_tina_event_5a33a523:
 
     # gg sad "Но ведь это не соревнование. Может она просто хотела так привлечь к себе внимание. Это же касается и ее трансформаций. Да, не самый элегантный способ, но все же..."
-    gg sad "Но ведь это не соревнование. Может она просто хотела так привлечь к себе внимание. Это же касается и ее трансформаций. Да, не самый элегантный способ, но все же..."
+    gg sad "Das ist doch kein Wettstreit. Vielleicht hat sie so versucht, auf sich aufmerksam zu machen. Nicht die eleganteste Art, aber trotzdem ..."
 
 # game/ROCK.rpy:1184
 translate german kian_tina_event_f49a00af:
 
     # kian "Если честно, я давно искал повод с ней расстаться. Сейчас самое время... Я даже готов отдать ей половину имущества, лишь бы больше не видеть это, простите, лицо..."
-    kian "Если честно, я давно искал повод с ней расстаться. Сейчас самое время... Я даже готов отдать ей половину имущества, лишь бы больше не видеть это, простите, лицо..."
+    kian "Ganz ehrlich, ich suche schon seit einiger Zeit nach einem Grund mich zu trennen. Jetzt ist es soweit ... Ich bin sogar bereit ihr meinen halben Besitz zu geben, nur um das ... Gesicht nicht mehr zu sehen ..."
 
 # game/ROCK.rpy:1185
 translate german kian_tina_event_a3e39a3b:
 
     # gg zadum "А что насчет Тины?"
-    gg zadum "А что насчет Тины?"
+    gg zadum "Was ist mit Tina?"
 
 # game/ROCK.rpy:1186
 translate german kian_tina_event_ca881162:
 
     # kian "Тина прекрасна... Она достойна большего, чем должность секретарши, мечтающей захомутать богатого босса. Если бы мы познакомились в других обстоятельствах, у нас могло бы что-то получиться."
-    kian "Тина прекрасна... Она достойна большего, чем должность секретарши, мечтающей захомутать богатого босса. Если бы мы познакомились в других обстоятельствах, у нас могло бы что-то получиться."
+    kian "Tina ist wunderschön ... Sie verdient etwas Besseres, als als Sekretärin davon zu träumen den reichen Boss zu verführen. Hätten wir uns unter anderen Umständen getroffen wäre vielleicht etwas aus uns geworden."
 
 # game/ROCK.rpy:1187
 translate german kian_tina_event_ea806da0:
 
     # kian "Ну вот мы и пришли."
-    kian "Ну вот мы и пришли."
+    kian "Wir sind da."
 
 # game/ROCK.rpy:1188
 translate german kian_tina_event_51ed0894:
 
     # gg zadum "Ты уверен, что готов сейчас репетировать?"
-    gg zadum "Ты уверен, что готов сейчас репетировать?"
+    gg zadum "Willst du wirklich jetzt proben?"
 
 # game/ROCK.rpy:1189
 translate german kian_tina_event_6154b10f:
 
     # kian "Да, я должен собраться. Не хочу всех подставлять. Я и так опоздал."
-    kian "Да, я должен собраться. Не хочу всех подставлять. Я и так опоздал."
+    kian "Ja, ich muss mich vorbereiten. Ich will die Anderen nicht hängen lassen. Ich bin schon spät dran."
 
 # game/ROCK.rpy:1194
 translate german kian_tina_event_fb9f118a:
 
     # aut "На репетиции Киан старался сосердоточиться на работе, но у него плохо получалось. Он был рассеянным и часто лажал, что на него было не похоже."
-    aut "На репетиции Киан старался сосердоточиться на работе, но у него плохо получалось. Он был рассеянным и часто лажал, что на него было не похоже."
+    aut "Während der Probe versuchte Kean sich auf seine Arbeit zu konzentrieren, aber es nagte an ihm. Er wirkte abwesend und machte Fehler, was untypisch für ihn war."
 
 # game/ROCK.rpy:1195
 translate german kian_tina_event_44a40143:
 
     # aut "Он не стал рассказывать о своих проблемах остальным, но Майкл видел, что что-то не так, и решил закончить репетицию пораньше."
-    aut "Он не стал рассказывать о своих проблемах остальным, но Майкл видел, что что-то не так, и решил закончить репетицию пораньше."
+    aut "Er erzählte den Anderen zwar nichts von seinen Probleme, aber Michael erkannte, das er welche hatte und beendete die Probe früher."
 
 # game/ROCK.rpy:1196
 translate german kian_tina_event_aa59798e:
 
     # aut "Не знаю почему, но я поплелась за Кианом обратно. Не хотелось оставлять его одного."
-    aut "Не знаю почему, но я поплелась за Кианом обратно. Не хотелось оставлять его одного."
+    aut "Ich weiß nicht warum, aber ich folgte Kean auf dem Weg zurück. Ich wollte ihn nicht alleine lassen."
 
 # game/ROCK.rpy:1198
 translate german kian_tina_event_6088698a:
 
     # aut "Когда мы вернулись в салон, Тины на рабочем месте не было."
-    aut "Когда мы вернулись в салон, Тины на рабочем месте не было."
+    aut "Als wir zurück am Autosalon waren, war Tina nicht an ihrem Platz."
 
 # game/ROCK.rpy:1199
 translate german kian_tina_event_57192162:
 
     # kian "Где Тина?"
-    kian "Где Тина?"
+    kian "Wo ist Tina?"
 
 # game/ROCK.rpy:1200
 translate german kian_tina_event_85a331f8:
 
     # kian "Эй! Я с тобой говорю..."
-    kian "Эй! Я с тобой говорю..."
+    kian "Hey! Ich rede mit dir!"
 
 # game/ROCK.rpy:1201
 translate german kian_tina_event_5ea7c57d:
 
     # boy "Эээ..."
-    boy "Эээ..."
+    boy "Hmm..."
 
 # game/ROCK.rpy:1202
 translate german kian_tina_event_00b9b708:
 
     # kian "Ебать-колотить..."
-    kian "Ебать-колотить..."
+    kian "Verdammt noch eins ..."
 
 # game/ROCK.rpy:1204
 translate german kian_tina_event_130348ee:
 
     # aut "Мы подошли ближе и увидели Кармен, спокойно сосущую член работника."
-    aut "Мы подошли ближе и увидели Кармен, спокойно сосущую член работника."
+    aut "Wir kamen näher und sahen Carmen die ruhig und genüsslich dem Angestellten einen blies."
 
 # game/ROCK.rpy:1206
 translate german kian_tina_event_1075e57b:
 
     # carmen "Привет, милый... Ну как? Нравится быть на моем месте?"
-    carmen "Привет, милый... Ну как? Нравится быть на моем месте?"
+    carmen "Hallo Schatz ... Und? Gefällt es dir zuzusehen?"
 
 # game/ROCK.rpy:1207
 translate german kian_tina_event_a3799877:
 
     # carmen "Я переспала со всеми мужчинами в твоей салоне. Этот был последний..."
-    carmen "Я переспала со всеми мужчинами в твоей салоне. Этот был последний..."
+    carmen "Ich hab alle Angestellten in dem Salon gefickt. Der hier war der Letzte ..."
 
 # game/ROCK.rpy:1208
 translate german kian_tina_event_ba806841:
 
     # kian "Какая же ты мерзкая, господи!"
-    kian "Какая же ты мерзкая, господи!"
+    kian "Oh Herr wie widerlich du bist."
 
 # game/ROCK.rpy:1209
 translate german kian_tina_event_de5fd011:
 
     # kian "Где Тина, идиот?!!"
-    kian "Где Тина, идиот?!!"
+    kian "Wo ist Tina, du Idiot?!!"
 
 # game/ROCK.rpy:1211
 translate german kian_tina_event_7f20a2eb:
 
     # boy "Я... я не знаю... Она взяла у охраны ключ от крыши..."
-    boy "Я... я не знаю... Она взяла у охраны ключ от крыши..."
+    boy "Ich ...Ich weiß nicht ... Sie hat vom Wachmann den Schlüssel zum Dach gekriegt ..."
 
 # game/ROCK.rpy:1212
 translate german kian_tina_event_fc5bb3fb:
 
     # kian "Что?! Мне это не нравится..."
-    kian "Что?! Мне это не нравится..."
+    kian "Was?! Das gefällt mir nicht ..."
 
 # game/ROCK.rpy:1213
 translate german kian_tina_event_426f443d:
 
     # aut "Киан побежал к лифту, а я последовала за ним. Тревожные предчувствия появились и у меня тоже."
-    aut "Киан побежал к лифту, а я последовала за ним. Тревожные предчувствия появились и у меня тоже."
+    aut "Kean rannte zum Aufzug und ich folgte ihm. Ich hatte auch eine böse Vorahnung."
 
 # game/ROCK.rpy:1215
 translate german kian_tina_event_2354c439:
 
     # aut "Тина стояла на крыше, и от этого стало немного легче."
-    aut "Тина стояла на крыше, и от этого стало немного легче."
+    aut "Tina stand auf dem Dach und mir ging es etwas besser."
 
 # game/ROCK.rpy:1217
 translate german kian_tina_event_0cda820d:
 
     # aut "Она была обсолютно голая и неподвижно смотрела вдаль. Киан медленно поднялся к ней."
-    aut "Она была обсолютно голая и неподвижно смотрела вдаль. Киан медленно поднялся к ней."
+    aut "Sie war vollkommen nackt und starrte bewegungslos in die Ferne. Kean kletterte langsam zu ihr."
 
 # game/ROCK.rpy:1219
 translate german kian_tina_event_f132ffc1:
 
     # kian "Тина... Что ты задумала? Почему ты без одежды?"
-    kian "Тина... Что ты задумала? Почему ты без одежды?"
+    kian "Tina ... Was machst du? Wo sind deine Sachen?"
 
 # game/ROCK.rpy:1221
 translate german kian_tina_event_0ab88295:
 
     # tina "Ты купил мне этот костюм. Он дорогой, не хотела испортить... Я оставила его в твоем кабинете. Подаришь кому-то еще."
-    tina "Ты купил мне этот костюм. Он дорогой, не хотела испортить... Я оставила его в твоем кабинете. Подаришь кому-то еще."
+    tina "Du hast mir den Anzug gekauft. Er war teuer und ich wollte ihn nicht einsauen ... Ich hab ihn im Büro gelassen. Gib ihn jemand Anderer."
 
 # game/ROCK.rpy:1223
 translate german kian_tina_event_b20433cd:
 
     # aut "Тина пыталась говорить спокойно, но ее голос дрожал."
-    aut "Тина пыталась говорить спокойно, но ее голос дрожал."
+    aut "Tina versuchte ruhig zu reden, aber ihre Stimme zitterte."
 
 # game/ROCK.rpy:1224
 translate german kian_tina_event_7480c178:
 
     # aut "Ее лицо было залито слезами, а макияж размазался."
-    aut "Ее лицо было залито слезами, а макияж размазался."
+    aut "Ihr Gesicht war in Tränen aufgelöst und ihre Schminke völlig verschmiert."
 
 # game/ROCK.rpy:1226
 translate german kian_tina_event_509d0117:
 
     # tina "Зачем ты пришел? Это только все усложнит! Я все для себя решила!"
-    tina "Зачем ты пришел? Это только все усложнит! Я все для себя решила!"
+    tina "Warum bist du hier? Du machst es nur schwerer! Ich hab doch schon Alles entschieden!"
 
 # game/ROCK.rpy:1228
 translate german kian_tina_event_712db30c:
 
     # kian "Что ты решила, глупышка?!"
-    kian "Что ты решила, глупышка?!"
+    kian "Was hast du entschieden, Dummchen?!"
 
 # game/ROCK.rpy:1230
 translate german kian_tina_event_1697a4d0:
 
     # tina "Ты давно меня так не называл... Лет 25?"
-    tina "Ты давно меня так не называл... Лет 25?"
+    tina "So hast du mich nicht mehr genannt seid ... 25 Jahren?"
 
 # game/ROCK.rpy:1232
 translate german kian_tina_event_220733d5:
 
     # kian "О чем ты?"
-    kian "О чем ты?"
+    kian "Was meinst du?"
 
 # game/ROCK.rpy:1234
 translate german kian_tina_event_5838e8f9:
 
     # tina "Ты так и не узнал меня, болван... Мне было 10 лет, мы жили по-соседству. Ты иногда чинил мой велосипед, а я следила из окна, как ты играешь с друзьями в футбол..."
-    tina "Ты так и не узнал меня, болван... Мне было 10 лет, мы жили по-соседству. Ты иногда чинил мой велосипед, а я следила из окна, как ты играешь с друзьями в футбол..."
+    tina "Du hast mich nie erkannt, du Blödmann ... Ich war 10 und wir lebten nebenan. Manchmal hast du mein Fahrrad repariert und ich hab dir heimlich zugesehen, wie du mit Freunden Fußball gespielt hast ..."
 
 # game/ROCK.rpy:1236
 translate german kian_tina_event_a8fe5340:
 
     # kian "Подожди... Ты Толстушка Тина?!"
-    kian "Подожди... Ты Толстушка Тина?!"
+    kian "Warte Mal ... Fat Tina?!"
 
 # game/ROCK.rpy:1237
 translate german kian_tina_event_bc14ce9e:
 
     # tina "Да, именно так меня и называли во дворе... Помнишь, ты заступился за меня перед теми мелкими мудаками? Одному даже нос разбил... Я сказала, что хочу себе такого мужа. Ты посмеялся и сказал, что обязательно женишься на мне, когда я вырасту."
-    tina "Да, именно так меня и называли во дворе... Помнишь, ты заступился за меня перед теми мелкими мудаками? Одному даже нос разбил... Я сказала, что хочу себе такого мужа. Ты посмеялся и сказал, что обязательно женишься на мне, когда я вырасту."
+    tina "Ja so haben sie mich genannt ... Erinnerst du dich noch das du mich einmal beschützt hast vor diesen Arschgeigen? Einem hast du sogar die Nase gebrochen ... Ich hab gesagt, dass ich einen Ehemann wie dich will. Du hast gelacht und gesagt du würdest mich definitv heiraten wenn wir erwachsen sind."
 
 # game/ROCK.rpy:1239
 translate german kian_tina_event_26933334:
 
     # tina "Я выросла, Киан Берч... Я работала над собой, училась... У меня два высших образования! А я работаю секретаршей!"
-    tina "Я выросла, Киан Берч... Я работала над собой, училась... У меня два высших образования! А я работаю секретаршей!"
+    tina "Ich bin erwachsen, Kean Birch ... Ich hab an mir gearbeitet ... Ich hab zwei höhere Abschlüsse! Und ich arbeite als Sekretärin!"
 
 # game/ROCK.rpy:1241
 translate german kian_tina_event_9bbbc6cd:
 
     # kian "Я думал, ты устроилась в салон, чтобы соблазнить меня и..."
-    kian "Я думал, ты устроилась в салон, чтобы соблазнить меня и..."
+    kian "Ich dachte du hast den Job nur um mich zu verführen und ..."
 
 # game/ROCK.rpy:1242
 translate german kian_tina_event_d9b61a66:
 
     # tina "Я устроилась, чтобы быть рядом с тобой, кретин!!!"
-    tina "Я устроилась, чтобы быть рядом с тобой, кретин!!!"
+    tina "Ich wollte in deiner Nähe sein, du Idiot!!!"
 
 # game/ROCK.rpy:1243
 translate german kian_tina_event_fc6b378e:
 
     # tina "Ты просто пользовался мной... Трахал меня как куклу и возвращался к своей жене... Я устала страдать... С меня хватит..."
-    tina "Ты просто пользовался мной... Трахал меня как куклу и возвращался к своей жене... Я устала страдать... С меня хватит..."
+    tina "Du hast dich auf mich gestürzt ... Hast mich gefickt wie eine Puppe und bist danach zu deiner Frau ... Ich bin es Leid ... Ich hab genug ..."
 
 # game/ROCK.rpy:1244
 translate german kian_tina_event_b3005906:
 
     # kian "Тина! Я правда был полным идиотом и не замечал ничего вокруг себя. Для меня сегодня открылся новый мир!"
-    kian "Тина! Я правда был полным идиотом и не замечал ничего вокруг себя. Для меня сегодня открылся новый мир!"
+    kian "Tina! Ich war wirklich ein Vollidiot, ich hab dich nicht wirklich wahrgenommen. Du hast mir gerade die Augen geöffnet!"
 
 # game/ROCK.rpy:1245
 translate german kian_tina_event_5a46f05c:
 
     # kian "Позволь мне все исправить..."
-    kian "Позволь мне все исправить..."
+    kian "Starten wir nochmal neu ..."
 
 # game/ROCK.rpy:1247
 translate german kian_tina_event_304c01f8:
 
     # aut "Киан подошел вплотную и подхватил Тину. Девушка сразу обмякла в его объятиях."
-    aut "Киан подошел вплотную и подхватил Тину. Девушка сразу обмякла в его объятиях."
+    aut "Kean kam näher und umarmte Tina. Das Mädchen wurde ganz schlaff in seinen Armen."
 
 # game/ROCK.rpy:1248
 translate german kian_tina_event_fc88312e:
 
     # aut "Мне было неловко смотреть, как они целуются, да и интимность момента нарушать не хотелось. Я поспешила уйти, мысленно пожелав счастья влюбленным."
-    aut "Мне было неловко смотреть, как они целуются, да и интимность момента нарушать не хотелось. Я поспешила уйти, мысленно пожелав счастья влюбленным."
+    aut "Ich fühlte mich etwas unwohl dabei, sie zu beobachten. Ich wollte aber auch den intimen Moment nicht stören. Ich schlich mich davon und wünschte den beiden Liebenden das sie glücklich werden."
 
 translate german strings:
 
     # game/ROCK.rpy:90
     old "Написать больше песен (6)"
-    new "Написать больше песен (6)"
+    new "Schreib mehr Songs (6)"
 
     # game/ROCK.rpy:92
     old "Заниматься вокалом у Фальцета([vocal]/10)"
-    new "Заниматься вокалом у Фальцета([vocal]/10)"
+    new "Trainiere deine Stimme mit Falsetto([vocal]/10)"
 

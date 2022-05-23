@@ -1710,141 +1710,141 @@ translate german inf_myroom_4a4d165f:
 translate german sleep_menu_0803ffa9:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на эфир."
-    gg sad ""
+    gg sad "Ginge ich jetzt schlafen, könnte ich den Stream verpennen."
 
 # game/myroom.rpy:372
 translate german sleep_menu_0803ffa9_1:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на эфир."
-    gg sad ""
+    gg sad "Ginge ich jetzt schlafen, könnte ich den Stream verpennen."
 
 # game/myroom.rpy:421
 translate german sleep_menu_0803ffa9_2:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на эфир."
-    gg sad ""
+    gg sad "Ginge ich jetzt schlafen, könnte ich den Stream verpennen."
 
 # game/myroom.rpy:477
 translate german sleep_menu_0803ffa9_3:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на эфир."
-    gg sad ""
+    gg sad "Ginge ich jetzt schlafen, könnte ich den Stream verpennen."
 
 # game/myroom.rpy:641
 translate german sleep_menu_2ac4beb3:
 
     # alex2 "Приятно проснуться с первыми лучами солнца."
-    alex2 ""
+    alex2 "Es ist schön mit den ersten Sonnenstrahlen aufzuwachen."
 
 # game/myroom.rpy:650
 translate german sleep_menu_1693be1c:
 
     # alex2 "Что за странные ощущения у меня внизу?"
-    alex2 ""
+    alex2 "Was ist das für ein seltsames Gefühl da unten?"
 
 # game/myroom.rpy:655
 translate german sleep_menu_ba7b6e7c:
 
     # alex "Ааа!!! Что это?!! Это член?!!"
-    alex ""
+    alex "Oh Gott! Was zum Teufel? Was ist das? Ein Schwanz?"
 
 # game/myroom.rpy:656
 translate german sleep_menu_24cd1481:
 
     # alex "Да еще такой огромный! Как он так быстро вырос?"
-    alex ""
+    alex "Und auch noch so groß! Wie ist der so schnell gewachsen?"
 
 # game/myroom.rpy:657
 translate german sleep_menu_399149ef:
 
     # alex2 "Постойте... Как он вообще мог у меня вырасти? Кажется, я все еще сплю, и мне все это снится..."
-    alex2 ""
+    alex2 "Warte Mal ... Wie könnte er überhaupt wachsen? Ich denke Mal ich träume das nur. Ja, ein Traum!"
 
 # game/myroom.rpy:660
 translate german sleep_menu_1738c120:
 
     # alex2 "Интересно, что я почувствую, если потрогаю?"
-    alex2 ""
+    alex2 "Wie sich der wohl anfühlt?"
 
 # game/myroom.rpy:665
 translate german sleep_menu_9470fdb9:
 
     # alex2 "Вот блин... Ничего не чувствую. Естественно, это же сон."
-    alex2 ""
+    alex2 "Verdammt ... Ich fühle gar nichts. War ja klar, ist ja auch ein Traum."
 
 # game/myroom.rpy:666
 translate german sleep_menu_de9f81b2:
 
     # alex2 "Может если я продолжу ласкать его..."
-    alex2 ""
+    alex2 "Vielleicht wenn ich weitermache ..."
 
 # game/myroom.rpy:671
 translate german sleep_menu_9c019d00:
 
     # alex2 "О нет, кажется я просыпаюсь... Еще бы немного..."
-    alex2 ""
+    alex2 "Oh Oh, ich glaub ich wache auf ... Ein wenig noch ..."
 
 # game/myroom.rpy:676
 translate german sleep_menu_0d0cdfbd:
 
     # alex2 "Это было довольно любопытно. Я никогда не задумывалась, что чувствуют мужчины, когда трогают свой член."
-    alex2 ""
+    alex2 "Ich war neugierig wie sich Kerle dabei fühlen ihren Schwanz zu streicheln."
 
 # game/myroom.rpy:677
 translate german sleep_menu_7e0bd6da:
 
     # alex2 "Я никогда этого не узнаю. Да и надо ли оно мне?"
-    alex2 ""
+    alex2 "Aber ich werd's wohl nie wissen. Brauch ich das überhaupt?"
 
 # game/myroom.rpy:682
 translate german sleep_menu_9e4f03ea:
 
     # alex2 "Блин, кажется, этот сон меня сильно возбудил..."
-    alex2 ""
+    alex2 "Verdammt, der Traum hat mich scharf gemacht ..."
 
 # game/myroom.rpy:683
 translate german sleep_menu_405dc5f9:
 
     # alex2 "Я не смогла потрогать член во сне, зато смогу потрогать себя сейчас."
-    alex2 ""
+    alex2 "Ich konnte meinen Penis um Traum nicht anfassen, aber nichts hindert mich daran meine Muschi zu liebkosen."
 
 # game/myroom.rpy:690
 translate german sleep_menu_ce89dd47:
 
     # alex2 "Приснится же такое... Это, конечно, смешно, но я должна проверить..."
-    alex2 ""
+    alex2 "So ein seltsamer Traum ... Es is natürlich lachhaft, aber ich muss doch mal nachsehen ..."
 
 # game/myroom.rpy:695
 translate german sleep_menu_5131d4e5:
 
     # alex2 "Кажется, все в порядке, теперь я точно проснулась. А еще я зверски возбудилась..."
-    alex2 ""
+    alex2 "Alles schein in Ordnung zu sein, jetzt bin ich definitv wach. Ich war so scharf ..."
 
 translate german strings:
 
     # game/myroom.rpy:230
     old "{b}Анальная тренировка{/b}"
-    new ""
+    new "{b}Anales Workout{/b}"
 
     # game/myroom.rpy:230
     old "{color=#8c8c8d}{b}Анальная тренировка{/b}{/color}"
-    new ""
+    new "{color=#8c8c8d}{b}Anales Workout{/b}{/color}"
 
     # game/myroom.rpy:230
     old "{#image=cour_h}{color=#8c8c8d}{b}Снять видео{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Mach ein Video{/b}{/color}"
 
     # game/myroom.rpy:230
     old "{#image=cour}{b}Снять видео{/b}"
-    new ""
+    new "{#image=cour}{b}Mach ein Video{/b}"
 
     # game/myroom.rpy:658
     old "Потрогать член"
-    new ""
+    new "Schwanz anfassen"
 
     # game/myroom.rpy:658
     old "Проснуться"
-    new ""
+    new "Aufwachen"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1852,45 +1852,45 @@ translate german strings:
 translate german sleep_menu_9017cc8c:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
-    gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
+    gg sad "Ginge ich jetzt schlafen, könnte ich mein Konzert verpennen."
 
 # game/myroom.rpy:385
 translate german sleep_menu_9017cc8c_1:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
-    gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
+    gg sad "Ginge ich jetzt schlafen, könnte ich mein Konzert verpennen."
 
 # game/myroom.rpy:438
 translate german sleep_menu_9017cc8c_2:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
-    gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
+    gg sad "Ginge ich jetzt schlafen, könnte ich mein Konzert verpennen."
 
 # game/myroom.rpy:498
 translate german sleep_menu_9017cc8c_3:
 
     # gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
-    gg sad "Если я сейчас лягу спать, то могу опоздать на концерт."
+    gg sad "Ginge ich jetzt schlafen, könnte ich mein Konzert verpennen."
 
 translate german strings:
 
     # game/myroom.rpy:181
     old "Пообщаться с другими людьми"
-    new "Пообщаться с другими людьми"
+    new "Mit Leuten reden"
 
     # game/myroom.rpy:238
     old "{b}Подремать 1 час{/b}"
-    new "{b}Подремать 1 час{/b}"
+    new "{b}1 Stunde ein Nickerchen halten{/b}"
 
     # game/myroom.rpy:238
     old "{b}Подремать 2 часа{/b}"
-    new "{b}Подремать 2 часа{/b}"
+    new "{b}3 Stunden ein Nickerchen halten{/b}"
 
     # game/myroom.rpy:238
     old "{b}Спать 4 часа{/b}"
-    new "{b}Спать 4 часа{/b}"
+    new "{b}4 Stunden schlafen{/b}"
 
     # game/myroom.rpy:238
     old "{b}Спать 8 часов{/b}"
-    new "{b}Спать 8 часов{/b}"
+    new "{b}8 Stunden schlafen{/b}"
 

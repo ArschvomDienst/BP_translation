@@ -10191,7 +10191,7 @@ translate german dia_rada_68788fd8:
 translate german dia_rada_4dab377d:
 
     # rada "Начинала работать в Комнате Славы, да? Не смущайся, к ней почти все так попадают."
-    rada "Du hast in der Hall of Fame angefangen, richtig? Keine Sorge, fast jede von uns lernt sie so kennen."
+    rada "Du hast in der Ruhmeshalle angefangen, richtig? Keine Sorge, fast jede von uns lernt sie so kennen."
 
 # game/DIA.rpy:4335
 translate german dia_rada_fbe45315:

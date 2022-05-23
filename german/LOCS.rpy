@@ -4,7 +4,7 @@
 translate german dvor_8f8fac06:
 
     # gg zadum "Нет, звуки явно доносятся из нашей квартиры!"
-    gg zadum "Nein, die Geräusche kommen eindeutig aus dieser Wohnung!"
+    gg zadum "Nein, die Geräusche kommen eindeutig aus unserer Wohnung!"
 
 # game/LOCS.rpy:118
 translate german flat_11bb2e58:
@@ -7306,59 +7306,59 @@ translate german owl_home_a50c0870:
 translate german hot_arctic_d9a079b3:
 
     # gg smile "Кажется, шоу-программа уже началась, я немного опоздала. Приду в другой раз."
-    gg smile ""
+    gg smile "Die Show hat wohl schon angefangen. Ich komm dann ein anderes Mal wieder."
 
 # game/LOCS.rpy:5709
 translate german hot_arctic_b762c0e8:
 
     # paris "Алекс, познакомься, это Рада. Она будет прибирать за вами после работы. Аманда мне долго жаловалась, и я попросила Хозяйку о помощи."
-    paris ""
+    paris "Alex, das ist Rada. Sie ist unsere Reinigungsfrau. Amanda hat mir lange in den Ohren gelegen und ich hab Chefin um Hilfe ersucht."
 
 # game/LOCS.rpy:5710
 translate german hot_arctic_e54f79c5:
 
     # gg zadum "Такая красивая девушка работает уборщицей?"
-    gg zadum ""
+    gg zadum "So eine hübsche Frau arbeitet als Reinungskraft?"
 
 # game/LOCS.rpy:5711
 translate german hot_arctic_74be8100:
 
     # paris "У Хозяйки не бывает некрасивых."
-    paris ""
+    paris "Chefin hat nur hübsche Mitarbeiter."
 
 # game/LOCS.rpy:5712
 translate german hot_arctic_98afb116:
 
     # rada "Спасибо за комплимент, Алекс. И приятно познакомиться."
-    rada ""
+    rada "Danke Dir, Alex. Freut mich, dich zu treffen."
 
 # game/LOCS.rpy:5713
 translate german hot_arctic_b0bda6f7:
 
     # paris "Рада также будет держать бар в чистоте в дневное время, так что если будут вопросы, ты всгда найдешь ее здесь. Кроме выходных, разумеется."
-    paris ""
+    paris "Rada hält die Bar auch tagsüber sauber, also wenn du fragen hast kannst du sie hier finden."
 
 # game/LOCS.rpy:5714
 translate german hot_arctic_5f635230:
 
     # gg smile "Добро пожаловать, Рада!"
-    gg smile ""
+    gg smile "Willkommen Rada."
 
 # game/LOCS.rpy:5728
 translate german hot_arctic_a54aa528:
 
     # "Бар закрывается."
-    ""
+    "Die Bar schließt."
 
 translate german strings:
 
     # game/LOCS.rpy:1022
     old "{b}Я помогу тебе{/b}"
-    new ""
+    new "{b}Ich helf dir/b}"
 
     # game/LOCS.rpy:1022
     old "{b}Мне некогда{/b}"
-    new ""
+    new "{b}Keine Zeit{/b}"
 
 # TODO: Translation updated at 2022-02-16 13:31
 
@@ -7366,7 +7366,7 @@ translate german strings:
 
     # game/LOCS.rpy:3873
     old "Костюмы"
-    new ""
+    new "Kostüme"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -7374,37 +7374,37 @@ translate german strings:
 translate german boutique_2c65c09f:
 
     # alisa "Выбирай пока, а я в машине подожду."
-    alisa "Выбирай пока, а я в машине подожду."
+    alisa "Such dir was aus, ich warte schonmal im Wagen."
 
 # game/LOCS.rpy:2476
 translate german repet_d87c5e50:
 
     # gg smile "Зайду в другой день"
-    gg smile "Зайду в другой день"
+    gg smile "Ich komm einen anderen Tag."
 
 translate german strings:
 
     # game/LOCS.rpy:410
     old "Посмотреть еще {image=fem_plus}"
-    new "Посмотреть еще {image=fem_plus}"
+    new "Sieh näher hin {image=fem_plus}"
 
     # game/LOCS.rpy:1465
     old "Поиграть в теннис (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Поиграть в теннис (Пн,Вт,Чт,Пт 14:00-16:00)"
+    new "Tennis spielen (Mo, Die, Do, Fr 14:00-16:00)"
 
     # game/LOCS.rpy:2656
     old "Получить вещи Джилл ({image=sharm0_.png}66([allsharm]) или {image=ritor0_.png} 40([ritor]))"
-    new "Получить вещи Джилл ({image=sharm0_.png}66([allsharm]) или {image=ritor0_.png} 40([ritor]))"
+    new "Jills Zeug nehmen ({image=sharm0_.png}66([allsharm]) или {image=ritor0_.png} 40([ritor]))"
 
     # game/LOCS.rpy:3081
     old "{#image=sharm}{color=#00ff00}{b}Я хочу петь в рок-группе{/b}{/color}"
-    new "{#image=sharm}{color=#00ff00}{b}Я хочу петь в рок-группе{/b}{/color}"
+    new "{#image=sharm}{color=#00ff00}{b}Ich will in einer Rockband singen{/b}{/color}"
 
     # game/LOCS.rpy:3979
     old "Зайти к Барбаре (23:00 - 1:00)"
-    new "Зайти к Барбаре (23:00 - 1:00)"
+    new "Besuche Barbara (23:00 - 1:00)"
 
     # game/LOCS.rpy:4322
     old "Накраситься и вернуться на шоссе в дождливую погоду днем ({image=smel_.png} 16([allsmel]))"
-    new "Накраситься и вернуться на шоссе в дождливую погоду днем ({image=smel_.png} 16([allsmel]))"
+    new "Schmink dich und geh zum Highway an einem regnerischen Nachmittag ({image=smel_.png} 16([allsmel]))"
 

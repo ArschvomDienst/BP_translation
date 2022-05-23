@@ -1184,15 +1184,15 @@ translate german strings:
 
     # renpy/common/00preferences.rpy:471
     old "system cursor"
-    new ""
+    new "Systemcursor"
 
     # renpy/common/00preferences.rpy:480
     old "renderer menu"
-    new ""
+    new "Rendermenü"
 
     # renpy/common/00preferences.rpy:483
     old "accessibility menu"
-    new ""
+    new "Bedürfnissgerechtes Menü"
 
     # renpy/common/00gltest.rpy:100
     old "Force GL Renderer"
@@ -1220,27 +1220,27 @@ translate german strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new ""
+    new "Einschalten (Keine Blockliste)"
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new ""
+    new "Dieses Spiel braucht die Benutzung von GL2, dass kann aber nicht initialisiert werden."
 
     # renpy/common/00gltest.rpy:259
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new ""
+    new "Die {a=edit:1:log.txr}log.txt{/a} Datei enthält möglicherweise Informationen die helfen können, das Problem deines Computers zu erkennen."
 
     # renpy/common/00gltest.rpy:264
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new ""
+    new "Mehr Deteils wie das Problem behoben werden kann findest du in der {a=[url]}documentation{/a}"
 
     # renpy/common/00gltest.rpy:281
     old "Change render options"
-    new ""
+    new "Render Optionen ändern"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new ""
+    new "Drücke oder Halte '[control!s]' [kind]"
 
 # TODO: Translation updated at 2022-02-08 18:00
 
@@ -1248,9 +1248,9 @@ translate german strings:
 
     # renpy/common/00accessibility.rpy:180
     old "High Contrast Text"
-    new ""
+    new "Text mit hohem Contrast"
 
     # renpy/common/00preferences.rpy:493
     old "high contrast text"
-    new ""
+    new "Text mit hohem Contrast"
 

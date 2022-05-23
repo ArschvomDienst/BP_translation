@@ -1762,485 +1762,485 @@ translate german gloryroom_work_346deb12:
 translate german martina_mist_dp_27ef8279:
 
     # gg zadum "Ой, я не вовремя? А Хозяйки нет?"
-    gg zadum "Ой, я не вовремя? А Хозяйки нет?"
+    gg zadum "Schlechter Zeitpunkt? Ist die Chefin hier?"
 
 # game/RED.rpy:1011
 translate german martina_mist_dp_13534c25:
 
     # martina "Мы тут не знает слова \"не вовремя\". Франческа отошла, а я пытаюсь убедить Ванессу, сесть на мой член."
-    martina "Мы тут не знает слова \"не вовремя\". Франческа отошла, а я пытаюсь убедить Ванессу, сесть на мой член."
+    martina "Es gibt keinen \"schlechten Zeitpunkt\", Schätzchen. Franceska ist gerade nicht da, und ich versuche Vanessa zu überreden sich auf meinen Schwanz zu setzen."
 
 # game/RED.rpy:1012
 translate german martina_mist_dp_e67f263a:
 
     # martina "Но ей резиновые нравятся больше."
-    martina "Но ей резиновые нравятся больше."
+    martina "Aber die aus Gummi sind ihr lieber ..."
 
 # game/RED.rpy:1015
 translate german martina_mist_dp_49bebd78:
 
     # aut "Ванесса оседлала секс-куклу, которую я раньше видела на камине, и без стеснения насаживала себя на огромный искусственный член."
-    aut "Ванесса оседлала секс-куклу, которую я раньше видела на камине, и без стеснения насаживала себя на огромный искусственный член."
+    aut "Vanessa saß auf der Sexpuppe die ich vorher am Kamin gesehen hatte. Ohne zu zögern pfählte sie sich fast auf dem großen Gummischwanz."
 
 # game/RED.rpy:1017
 translate german martina_mist_dp_a85f1114:
 
     # van "Потому что ты хочешь трахнуть меня в задницу."
-    van "Потому что ты хочешь трахнуть меня в задницу."
+    van "Weil du nur meinen Arsch ficken willst."
 
 # game/RED.rpy:1018
 translate german martina_mist_dp_c34dc104:
 
     # aut "У Ванессы сбивалось дыхание, но она старалась поддерживать беседу."
-    aut "У Ванессы сбивалось дыхание, но она старалась поддерживать беседу."
+    aut "Vanessa war ganz außer Atem, aber trotzdem versuchte sie die Unterhaltung am Laufen zu halten."
 
 # game/RED.rpy:1021
 translate german martina_mist_dp_4c27d072:
 
     # martina "Конечно! Я бось потерять член в твоей огроной вагине."
-    martina "Конечно! Я бось потерять член в твоей огроной вагине."
+    martina "Natürlich! Ich hab Angst das mein Schwanz sich in der weitläufigen Muschi verläuft!"
 
 # game/RED.rpy:1022
 translate german martina_mist_dp_ca22b328:
 
     # martina "когда-нибудь ты растянешь ее так, что она начнет всасывать вселенную."
-    martina "когда-нибудь ты растянешь ее так, что она начнет всасывать вселенную."
+    martina "Eines Tages ist dein Loch weit genug, dass du Sterne siehst."
 
 # game/RED.rpy:1024
 translate german martina_mist_dp_743e3d24:
 
     # van "Сучка, не смеши, я пытаюсь кончить..."
-    van "Сучка, не смеши, я пытаюсь кончить..."
+    van "Bring mich nicht zum lachen, Schlampe. Ich versuche zu kommen ..."
 
 # game/RED.rpy:1027
 translate german martina_mist_dp_0f3ddb1d:
 
     # aut "В самом деле, чтобы принять в себя такого монстра, нужны долгие тренировки, а Ванесса садилась на него с невероятной легкостью."
-    aut "В самом деле, чтобы принять в себя такого монстра, нужны долгие тренировки, а Ванесса садилась на него с невероятной легкостью."
+    aut "Um so ein Monster zu verkraften braucht es viel Training und Erfahrung. Aber Vanessa hat es leicht geschafft, also hat sie wohl Beides."
 
 # game/RED.rpy:1030
 translate german martina_mist_dp_63184cf0:
 
     # martina "Да и вообще, я на ваши пилотки на работе насмотрелась, а вот хорошую тесную попку я бы сейчас с радостью отымела."
-    martina "Да и вообще, я на ваши пилотки на работе насмотрелась, а вот хорошую тесную попку я бы сейчас с радостью отымела."
+    martina "Wie auch immer, ich hab genug Muschis bei der Arbeit gesehen, mir steht der Sinn nach einem knackigen Arsch."
 
 # game/RED.rpy:1031
 translate german martina_mist_dp_2a86bbbb:
 
     # martina "Что ты думаешь по этому поводу, Алекс? Хочешь присесть своей упругой задницей на мой член?"
-    martina "Что ты думаешь по этому поводу, Алекс? Хочешь присесть своей упругой задницей на мой член?"
+    martina "Was hälst du von der Idee, Alex? Warte doch auf die Chefin auf meinem Schwanz."
 
 # game/RED.rpy:1033
 translate german martina_mist_dp_317f2b44:
 
     # aut "Я невольно посмотрела на ее член и неосознанно представила, войдет ли он в мою попку."
-    aut "Я невольно посмотрела на ее член и неосознанно представила, войдет ли он в мою попку."
+    aut "Ich schaute näher auf ihren Schwanz und fragte mich unwillkürlich ob der wohl in meinen Arsch passen würde."
 
 # game/RED.rpy:1035
 translate german martina_mist_dp_002b8934:
 
     # aut "Мартина заметила мой взгляд, и это явно возбудило ее."
-    aut "Мартина заметила мой взгляд, и это явно возбудило ее."
+    aut "Martina viel der Blick auf und er gefiel ihr offenbar."
 
 # game/RED.rpy:1036
 translate german martina_mist_dp_8d31dd99:
 
     # martina "Я вижу, что он тебе нравится. ТЫ ему тоже приглянулась. Предлагаю перестать играть в препода и первокурсницу."
-    martina "Я вижу, что он тебе нравится. ТЫ ему тоже приглянулась. Предлагаю перестать играть в препода и первокурсницу."
+    martina "Ich sehe er gefällt dir. Du gefällst ihm auch. Jetzt zier dich doch nicht so."
 
 # game/RED.rpy:1037
 translate german martina_mist_dp_ce5d1312:
 
     # martina "Раздевайся и иди ко мне."
-    martina "Раздевайся и иди ко мне."
+    martina "Zieh dich aus und setz dich."
 
 # game/RED.rpy:1045
 translate german martina_mist_dp_488dc162:
 
     # gg hit "Я ведь теперь часть вашего общества. Почему я не могу просто расслабиться и зависнуть с подругами?"
-    gg hit "Я ведь теперь часть вашего общества. Почему я не могу просто расслабиться и зависнуть с подругами?"
+    gg hit "Ich bin jetzt Teil des Teams. Warum sollte ich mit meinen Freunden nicht abhängen?"
 
 # game/RED.rpy:1046
 translate german martina_mist_dp_6c96582a:
 
     # martina "Это правильный настрой."
-    martina "Это правильный настрой."
+    martina "Weise Entscheidung."
 
 # game/RED.rpy:1047
 translate german martina_mist_dp_2e0a58a7:
 
     # aut "Весь этот диалог сопровождался стонами Ванессы и громкими хлюпающими звуками."
-    aut "Весь этот диалог сопровождался стонами Ванессы и громкими хлюпающими звуками."
+    aut "Das ganze Gespräch über waren Vanessa's Stöhnen und laute Sexgeräusche zu hören."
 
 # game/RED.rpy:1050
 translate german martina_mist_dp_d4e00654:
 
     # aut "Тем временем член Мартины пришел в полную боевую готовность."
-    aut "Тем временем член Мартины пришел в полную боевую готовность."
+    aut "Inzwischen stand Martina schon in Habachtstellung."
 
 # game/RED.rpy:1051
 translate german martina_mist_dp_df9fec39:
 
     # martina "Я хотела тебя трахнуть еще при первой встрече, но Франческа строго запретила мне тыкать членом в новеньких."
-    martina "Я хотела тебя трахнуть еще при первой встрече, но Франческа строго запретила мне тыкать членом в новеньких."
+    martina "Ich wollte dich schon bei unserem ersten Treffen ficken, aber Franceska hat mir verboten die neuen Mädchen mit meinem Schwanz zu verschrecken."
 
 # game/RED.rpy:1052
 translate german martina_mist_dp_7084a976:
 
     # martina "Наконец я добралась до тебя. Подожди секунду."
-    martina "Наконец я добралась до тебя. Подожди секунду."
+    martina "Aber jetzt kann ich. Wart kurz."
 
 # game/RED.rpy:1055
 translate german martina_mist_dp_7e33108d:
 
     # aut "Мартина достала презерватил и надела на свой стояк."
-    aut "Мартина достала презерватил и надела на свой стояк."
+    aut "Martina holte ein Kondom raus und legte es an."
 
 # game/RED.rpy:1056
 translate german martina_mist_dp_84463dfc:
 
     # martina "В отличие от моих подруг, я забочусь о гигиене."
-    martina "В отличие от моих подруг, я забочусь о гигиене."
+    martina "Anders als einige meiner Freunde achte ich auf Gesundheit."
 
 # game/RED.rpy:1058
 translate german martina_mist_dp_5f274897:
 
     # martina "Ванесса, не отвлечешься на минутку? Надо подготовить к аналу одну красотку."
-    martina "Ванесса, не отвлечешься на минутку? Надо подготовить к аналу одну красотку."
+    martina "Vanessa, könntest du dich kurz loseisen? Eine Schönheit muss auf Anal vorbereitet werden."
 
 # game/RED.rpy:1059
 translate german martina_mist_dp_6c78aa64:
 
     # gg zadum "В каком смысле подго..."
-    gg zadum "В каком смысле подго..."
+    gg zadum "Was meinst ..."
 
 # game/RED.rpy:1064
 translate german martina_mist_dp_4d07c81b:
 
     # aut "Но мне не дали договорить. Ванесса толкнула меня вперед, и я чуть не упала на Мартину."
-    aut "Но мне не дали договорить. Ванесса толкнула меня вперед, и я чуть не упала на Мартину."
+    aut "Sie haben mich nicht aussprechen lassen. Vanessa schubste mich ohne Vorwarnung nach vorne, so dass ich fast auf Martina fiel."
 
 # game/RED.rpy:1065
 translate german martina_mist_dp_142d47a9:
 
     # aut "Вдруг я почувствовала, как кто-то вылизывает мой анус."
-    aut "Вдруг я почувствовала, как кто-то вылизывает мой анус."
+    aut "Plötzlich fühlte ich eine Zunge an meinem Anus."
 
 # game/RED.rpy:1066
 translate german martina_mist_dp_c816add1:
 
     # aut "Ванесса буквально трахала меня языком, делая мою попку влажной и послушной."
-    aut "Ванесса буквально трахала меня языком, делая мою попку влажной и послушной."
+    aut "Vanessa fickte mich fast mit ihrer Zunge und machte mein Loch schön feucht und gefügig."
 
 # game/RED.rpy:1067
 translate german martina_mist_dp_3099692a:
 
     # martina "Спасибо, Ванесса, а ты, Алекс, иди ко мне."
-    martina "Спасибо, Ванесса, а ты, Алекс, иди ко мне."
+    martina "Danke Vanessa. Komm, Alex."
 
 # game/RED.rpy:1078
 translate german martina_mist_dp_47219d20:
 
     # aut "Мартина плавно насадила меня на свой член, медленно растягивая мою попку."
-    aut "Мартина плавно насадила меня на свой член, медленно растягивая мою попку."
+    aut "Martina führte ihren Schwanz ganz langsam ein und weitete mein Arschloch."
 
 # game/RED.rpy:1079
 translate german martina_mist_dp_e9edf2e3:
 
     # aut "Стояк пульсировал во мне, становясь еще больше и тверже."
-    aut "Стояк пульсировал во мне, становясь еще больше и тверже."
+    aut "Er pulsierte in mir und wurde dabei noch größer und härter."
 
 # game/RED.rpy:1084
 translate german martina_mist_dp_2fb43001:
 
     # aut "Боли не было совсем, только приятное тепло, которое разливалось по моим бедрам и спине."
-    aut "Боли не было совсем, только приятное тепло, которое разливалось по моим бедрам и спине."
+    aut "Es tat überhaupt nicht weh, ich fühlte nur reine Lust bei jeder Bewegung."
 
 # game/RED.rpy:1085
 translate german martina_mist_dp_3266ca83:
 
     # aut "С каждым толчком я возбуждалась все больше."
-    aut "С каждым толчком я возбуждалась все больше."
+    aut "Jeder Stoß brachte mir noch mehr Vergnügen."
 
 # game/RED.rpy:1097
 translate german martina_mist_dp_49c78c5f:
 
     # mist "Я смотрю, вы тут без меня времени не теряли..."
-    mist "Я смотрю, вы тут без меня времени не теряли..."
+    mist "Ich sehe du hast keine Zeit verschwendet ..."
 
 # game/RED.rpy:1098
 translate german martina_mist_dp_ac3ed036:
 
     # aut "Я открыла глаза и увидела голую Хозяйку."
-    aut "Я открыла глаза и увидела голую Хозяйку."
+    aut "Ich öffnete die Augen und sah die Cheffin. Nackt und Bereit."
 
 # game/RED.rpy:1099
 translate german martina_mist_dp_7506ac39:
 
     # martina "Хочешь присоединиться."
-    martina "Хочешь присоединиться."
+    martina "Willst du mitmachen?"
 
 # game/RED.rpy:1110
 translate german martina_mist_dp_2fe1fe14:
 
     # mist "Это я и собираюсь сделать."
-    mist "Это я и собираюсь сделать."
+    mist "Das ist genau, was ich vorhatte."
 
 # game/RED.rpy:1111
 translate german martina_mist_dp_0f07e0d3:
 
     # alex "В каком... в каком смысле?.."
-    alex "В каком... в каком смысле?.."
+    alex "Was meinst du?..."
 
 # game/RED.rpy:1113
 translate german martina_mist_dp_94ad6240:
 
     # mist "Должна же я что-то с этим сделать. А в тебе еще осталось место."
-    mist "Должна же я что-то с этим сделать. А в тебе еще осталось место."
+    mist "Ich brauche Entlastung. Und du hast noch Platz ..."
 
 # game/RED.rpy:1114
 translate german martina_mist_dp_774ef8b6:
 
     # alex "Вы хотите меня разорвать?"
-    alex "Вы хотите меня разорвать?"
+    alex "Das passt doch nie!"
 
 # game/RED.rpy:1115
 translate german martina_mist_dp_04efc5cb:
 
     # mist "Я уверена, ты справишься. Надо только разместиться поудобнее."
-    mist "Я уверена, ты справишься. Надо только разместиться поудобнее."
+    mist "Ich bin sicher du schaffst das. Wir müssen dich nur angenehmer hinlegen."
 
 # game/RED.rpy:1126
 translate german martina_mist_dp_09b7c618:
 
     # aut "Мы переместились на ковер, и Мартина смогла войти в меня еще глубже."
-    aut "Мы переместились на ковер, и Мартина смогла войти в меня еще глубже."
+    aut "Wir gingen zum Teppich über, und Martina drang noch tiefer ein als zuvor."
 
 # game/RED.rpy:1127
 translate german martina_mist_dp_1474064f:
 
     # mist "Какой шикарный вид... Раздвинь ножки пошире."
-    mist "Какой шикарный вид... Раздвинь ножки пошире."
+    mist "Was für ein schöner Anblick ...Spreiz die Beine noch etwas."
 
 # game/RED.rpy:1133
 translate german martina_mist_dp_90bec2b4:
 
     # alex "Я все еще не уверена... Они такие большие..."
-    alex "Я все еще не уверена... Они такие большие..."
+    alex "Welch schöner Anblick ...So weit ..."
 
 # game/RED.rpy:1134
 translate german martina_mist_dp_3f457bc8:
 
     # mist "Скажи, если будет больно"
-    mist "Скажи, если будет больно"
+    mist "Sag mir, wenn es weh tut."
 
 # game/RED.rpy:1140
 translate german martina_mist_dp_9560d9d7:
 
     # aut "Мартина глубоко вошла в меня и остановилась."
-    aut "Мартина глубоко вошла в меня и остановилась."
+    aut "Martinas Schwanz drang ganz tief ein und stoppte da."
 
 # game/RED.rpy:1141
 translate german martina_mist_dp_aa271f54:
 
     # aut "Хозяйка начала медленно входить."
-    aut "Хозяйка начала медленно входить."
+    aut "Die Chefin drang langsam ein."
 
 # game/RED.rpy:1142
 translate german martina_mist_dp_dee59f02:
 
     # aut "Казалось, члены полностью заполнили меня изнутри."
-    aut "Казалось, члены полностью заполнили меня изнутри."
+    aut "Es schien, die zwei Schwänze füllten mich komplett."
 
 # game/RED.rpy:1154
 translate german martina_mist_dp_30952ffd:
 
     # aut "Но Франческа продолжала проталкивать его все глубже."
-    aut "Но Франческа продолжала проталкивать его все глубже."
+    aut "Aber Franceska drang immer tiefer ein."
 
 # game/RED.rpy:1155
 translate german martina_mist_dp_7d1f0202:
 
     # aut "Ты гораздо способнее, чем думаешь. Расслабься."
-    aut "Ты гораздо способнее, чем думаешь. Расслабься."
+    aut "Du verträgst mehr als du glaubst. Entspann dich."
 
 # game/RED.rpy:1161
 translate german martina_mist_dp_4ae82dc2:
 
     # mist "Ну вот, я же говорила. Посмотри..."
-    mist "Ну вот, я же говорила. Посмотри..."
+    mist "Ich hab's dir doch gesagt. Schau ..."
 
 # game/RED.rpy:1162
 translate german martina_mist_dp_86992606:
 
     # aut "Я опустила голову и увидела, что член Хозяйки почти полностью вошел в меня."
-    aut "Я опустила голову и увидела, что член Хозяйки почти полностью вошел в меня."
+    aut "Ich schaute nach unten und vom Schwanz der Chefin war fast nichts mehr zu sehen."
 
 # game/RED.rpy:1174
 translate german martina_mist_dp_c908cfde:
 
     # alex "Блять, это так приятно! Только не останавливайтесь!"
-    alex "Блять, это так приятно! Только не останавливайтесь!"
+    alex "Oh ja, das fühlt sich so gut an! Hört blos nicht auf!"
 
 # game/RED.rpy:1175
 translate german martina_mist_dp_0fe462e0:
 
     # mist "Мы только начали."
-    mist "Мы только начали."
+    mist "Aufhören? Wir haben doch erst angefangen."
 
 # game/RED.rpy:1176
 translate german martina_mist_dp_ceaef1ad:
 
     # aut "Оба члена синхронно двигались во мне, постепенно ускоряясь."
-    aut "Оба члена синхронно двигались во мне, постепенно ускоряясь."
+    aut "Beide Schwänze bewegten sich synchron in mir. Und Beide wurden schneller."
 
 # game/RED.rpy:1187
 translate german martina_mist_dp_09ebb2ee:
 
     # martina "У этой девочки просто шикарная попка. Редкий экземпляр. Ты обязана попробовать, сестра."
-    martina "У этой девочки просто шикарная попка. Редкий экземпляр. Ты обязана попробовать, сестра."
+    martina "Das Mädel hat einen geilen Arsch. Eine echte Seltenheit. Den musst du auch probieren Schwesterchen."
 
 # game/RED.rpy:1188
 translate german martina_mist_dp_0ccad1ee:
 
     # mist "Ты меня заинтриговала. Давай перевернем ее."
-    mist "Ты меня заинтриговала. Давай перевернем ее."
+    mist "Du hast mich neugierig gemacht. Lass uns wechseln."
 
 # game/RED.rpy:1194
 translate german martina_mist_dp_112b989c:
 
     # aut "Моего разрешения уже никто не спрашивал."
-    aut "Моего разрешения уже никто не спрашивал."
+    aut "Keine der Beiden hat auch nur gefragt."
 
 # game/RED.rpy:1195
 translate german martina_mist_dp_c342b34e:
 
     # aut "Хозяйка сильным движением перевернула меня лицом вниз и больно заломала мне руку."
-    aut "Хозяйка сильным движением перевернула меня лицом вниз и больно заломала мне руку."
+    aut "Die Chefin drehte mein Gesicht nach unten und verdrehte mir schmerzhaft den Arm."
 
 # game/RED.rpy:1199
 translate german martina_mist_dp_394ec09d:
 
     # aut "Нежность осталась в прошлом."
-    aut "Нежность осталась в прошлом."
+    aut "Sanftheit ist Vorbei."
 
 # game/RED.rpy:1200
 translate german martina_mist_dp_c581668f:
 
     # aut "Эффектные сестры безжалостно трахали меня большими твердыми членами."
-    aut "Эффектные сестры безжалостно трахали меня большими твердыми членами."
+    aut "Die Schwestern fickten mich mit harten, großen Schwänzen und ohne Rücksicht."
 
 # game/RED.rpy:1201
 translate german martina_mist_dp_19a94084:
 
     # aut "Но именно это мне и было нужно."
-    aut "Но именно это мне и было нужно."
+    aut "Aber das war genau was ich brauchte."
 
 # game/RED.rpy:1213
 translate german martina_mist_dp_d09bb625:
 
     # aut "Все, кроме этих двух членов перестало для меня существовать."
-    aut "Все, кроме этих двух членов перестало для меня существовать."
+    aut "Alles außer diesen zwei Schwänzen war bedeutungslos."
 
 # game/RED.rpy:1214
 translate german martina_mist_dp_2cbc02cd:
 
     # aut "Не успела я кончить один раз, как на меня накатила новая волна оргазма."
-    aut "Не успела я кончить один раз, как на меня накатила новая волна оргазма."
+    aut "Ich hatte gerade meinen Höhepunkt, da rollte schon der zweite Orgasmus heran."
 
 # game/RED.rpy:1215
 translate german martina_mist_dp_517ae829:
 
     # martina "Какая же она мокрая! Я сейчас кончу!"
-    martina "Какая же она мокрая! Я сейчас кончу!"
+    martina "Wie naß sie ist! Ich komme!"
 
 # game/RED.rpy:1217
 translate german martina_mist_dp_00ebdb8e:
 
     # aut "Член Мартины запульсировал с невероятной силой."
-    aut "Член Мартины запульсировал с невероятной силой."
+    aut "Martinas Schwanz bebte stark in mir."
 
 # game/RED.rpy:1218
 translate german martina_mist_dp_8497bb64:
 
     # aut "Бразки спермы внутри меня не прекращались. Казалось, меня нполняют из шланга"
-    aut "Бразки спермы внутри меня не прекращались. Казалось, меня нполняют из шланга"
+    aut "Das Sperma hörte gar nicht auf zu fließen. Es fühlte sich an als würde sie es mit einem Schlauch verteilen."
 
 # game/RED.rpy:1231
 translate german martina_mist_dp_ffba0ea3:
 
     # aut "Когда Мартина вышла из меня, я вспомнила, что на ней был презерватив."
-    aut "Когда Мартина вышла из меня, я вспомнила, что на ней был презерватив."
+    aut "Als Martina herauszog erinnerte ich mich daran, dass sie ein Kondom trug."
 
 # game/RED.rpy:1232
 translate german martina_mist_dp_499d5a57:
 
     # aut "Количество белой жидкости в нем поражало. Неужели столько за один раз может вылиться из человека?"
-    aut "Количество белой жидкости в нем поражало. Неужели столько за один раз может вылиться из человека?"
+    aut "Die Menge weißer Flüssigkeit darin war enorm. Das kam Alles aus ihr?"
 
 # game/RED.rpy:1244
 translate german martina_mist_dp_a3200fe4:
 
     # mist "Отличная работа, сестра. Надо как-нибудь устроить соревнование на количество спермы."
-    mist "Отличная работа, сестра. Надо как-нибудь устроить соревнование на количество спермы."
+    mist "Gut gemacht, Schwesterchen. Wir müssten irgendwann mal austesten, wer mehr Sperma schießen kann."
 
 # game/RED.rpy:1245
 translate german martina_mist_dp_ecd3375b:
 
     # martina "Можем сделать это прямо сейчас. Дать презерватив?"
-    martina "Можем сделать это прямо сейчас. Дать презерватив?"
+    martina "Können wir gleich machen. Brauchst du ein Kondom?"
 
 # game/RED.rpy:1246
 translate german martina_mist_dp_c06aa23d:
 
     # mist "В другой раз. Сейчас я хочу просто обкончать это юное тело."
-    mist "В другой раз. Сейчас я хочу просто обкончать это юное тело."
+    mist "Nicht heute. Jetzt will ich diesen jungen, geilen Körper erst einmal weiß anmalen."
 
 # game/RED.rpy:1258
 translate german martina_mist_dp_73f2b404:
 
     # aut "Я молча откинула голову, покорно ожидая оргазма Франчески."
-    aut "Я молча откинула голову, покорно ожидая оргазма Франчески."
+    aut "Leise warf ich meinen Kopf zurück, und erwartete Franceska's Orgasmus geduldig."
 
 # game/RED.rpy:1259
 translate german martina_mist_dp_959dbd4b:
 
     # aut "Хозяйка быстро дрочила каменный членс толстыми венами, а ее большие яйца покачивались перед моим лицом."
-    aut "Хозяйка быстро дрочила каменный членс толстыми венами, а ее большие яйца покачивались перед моим лицом."
+    aut "Die Chefin wichste ihren harten, mit dicken Venen versehenen Schwanz. Immer die prallen, tanzenden Eier vor Augen."
 
 # game/RED.rpy:1271
 translate german martina_mist_dp_84a5c6c3:
 
     # aut "Наконец первая струя вырвалась на волю, и я едва успела закрыть глаза."
-    aut "Наконец первая струя вырвалась на волю, и я едва успела закрыть глаза."
+    aut "Endlich fühlte ich den ersten Strom. Ich hatte gerade genug Zeit die Augen zu schließen."
 
 # game/RED.rpy:1272
 translate german martina_mist_dp_deb8793e:
 
     # aut "Горячая сперма покрывала лицо и стекала по моему животу."
-    aut "Горячая сперма покрывала лицо и стекала по моему животу."
+    aut "Heißes Sperma bedeckte mein Gesicht und tropfte herunter auf meinen Bauch."
 
 # game/RED.rpy:1273
 translate german martina_mist_dp_0f84c832:
 
     # aut "А я просто улыбалась и думала о том, что тренировка с анальными шариками была одной из лучших идей с моей жизни."
-    aut "А я просто улыбалась и думала о том, что тренировка с анальными шариками была одной из лучших идей с моей жизни."
+    aut "Und ich lächelte nur bei dem Gedanken, dass das Training mit den Analkugeln die beste Idee meines Lebens war."
 
 # game/RED.rpy:1291
 translate german martina_mist_dp_f539579b:
 
     # gg zadum "Эм... Может в другой раз?"
-    gg zadum "Эм... Может в другой раз?"
+    gg zadum "Okay...Wollen wir das irgendwann mal wiederholen?"
 
 # game/RED.rpy:1292
 translate german martina_mist_dp_b82875d7:
 
     # martina "Ну, как знаешь..."
-    martina "Ну, как знаешь..."
+    martina "Das liegt ganz an dir..."
 
 translate german strings:
 
     # game/RED.rpy:1038
     old "{b}Согласиться{/b}"
-    new "{b}Согласиться{/b}"
+    new "{b}Zustimmen{/b}"
 

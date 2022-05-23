@@ -1237,37 +1237,37 @@ translate german strings:
 translate german owl_mes_291f1871:
 
     # gg smile "О, счастливая обладательница новой машины что-то мне написала."
-    gg smile ""
+    gg smile "Oh, der glückliche Besitzer des neuen Wagens hat mir was geschrieben."
 
 # game/PHONE.rpy:1004
 translate german owl_mes_5502eda9:
 
     # "{#l=Алекс, завтра в 15:00 у вас эфир на радио Top-RockZ. Будь готова за час. Майкл заедет зо тобой <<smile>>}"
-    ""
+    "{#l=Alex wir haben morgen um 15 Uhr einen Termin bei Top-Rock Radio. Sei in einer Stunde fertig, Michael holt dich ab <<smile>>}"
 
 # game/PHONE.rpy:1005
 translate german owl_mes_f11f89ed:
 
     # "{#r=<<scream>><<scream>><<scream>>}"
-    ""
+    "{#r=<<scream>><<scream>><<scream>>}"
 
 # game/PHONE.rpy:1006
 translate german owl_mes_d71fce73:
 
     # "{#r=И ты об этом так спокойно пишешь?!<<open>> Это же мое любимое радио и меня туда приглашают!!!<<scream>>}"
-    ""
+    "{#r=Und das schreibst du so ruhig?!<<open>> Das ist mein Lieblingssender und ich bin eingeladen!!!<<scream>>}"
 
 # game/PHONE.rpy:1007
 translate german owl_mes_246c26dd:
 
     # "{#l=Привыкай, звезда<<wink>> Постарайся на напиться от радости<<sweet>>}"
-    ""
+    "{#l=Gewöhn dich dran<<wink>> Flipp nicht komplett aus<<sweet>>}"
 
 # game/PHONE.rpy:1008
 translate german owl_mes_ec39120d:
 
     # "{#r=Да уж постараюсь <<tongue>>}"
-    ""
+    "#{r=Ich versuchs <<tongue>>}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1275,97 +1275,97 @@ translate german owl_mes_ec39120d:
 translate german alisa_mes_d4dd6ecb:
 
     # gg2 happy "Это же сообщение от Алисы!"
-    gg2 happy "Это же сообщение от Алисы!"
+    gg2 happy "Eine Nachricht von Alisa!"
 
 # game/PHONE.rpy:1148
 translate german alisa_mes_18440f21:
 
     # "{#l=Привет, звезда! Как поживаешь?}"
-    "{#l=Привет, звезда! Как поживаешь?}"
+    "{#l=Hallo Star! Wie gehts dir?}"
 
 # game/PHONE.rpy:1149
 translate german alisa_mes_748be7c7:
 
     # "{#r=Только что на радио были с группой. Так здорово!<<sweet>><<sweet>><<sweet>>}"
-    "{#r=Только что на радио были с группой. Так здорово!<<sweet>><<sweet>><<sweet>>}"
+    "{#r=Die Band wurde gerade zum Radio eingeladen. So cool!<<sweet>><<sweet>><<sweet>>}"
 
 # game/PHONE.rpy:1150
 translate german alisa_mes_714f4879:
 
     # "{#l=Хороший темп взяли, поздравляю.<<smile>>}"
-    "{#l=Хороший темп взяли, поздравляю.<<smile>>}"
+    "{#l=Ist der nächste Schritt. Glückwunsch!<<smile>>}"
 
 # game/PHONE.rpy:1151
 translate german alisa_mes_6b1226fe:
 
     # "{#l=У нас тут концерт намечается в Легранд Арене. Хотела тебя пригласить.}"
-    "{#l=У нас тут концерт намечается в Легранд Арене. Хотела тебя пригласить.}"
+    "{#l=Wir haben ein Konzert in der Legrand Arena und ich wollte dich einladen.}"
 
 # game/PHONE.rpy:1152
 translate german alisa_mes_d617d3c7:
 
     # "{#r=Ух ты! Спасибо!<<scream>> Я и сама хотела сходить.}"
-    "{#r=Ух ты! Спасибо!<<scream>> Я и сама хотела сходить.}"
+    "{#r=Wow! Danke!<<scream>> Wollte schon lange zu euch!}"
 
 # game/PHONE.rpy:1153
 translate german alisa_mes_51c764bc:
 
     # "{#l=Надеюсь, ты еще не купила билет. Я внесла в список тебя и твою сестру. Ты говорила, что она тоже любит нас слушать.}"
-    "{#l=Надеюсь, ты еще не купила билет. Я внесла в список тебя и твою сестру. Ты говорила, что она тоже любит нас слушать.}"
+    "{#l=Ich hoffe du hast noch kein Ticket gekauft. Ich hab dich und deine Schwester auf die Liste gesetzt. Du hast doch gesagt, ihr gefällt die Musik.}"
 
 # game/PHONE.rpy:1154
 translate german alisa_mes_8c3dee9f:
 
     # "{#r=Да, она будет в восторге!<<open>>}"
-    "{#r=Да, она будет в восторге!<<open>>}"
+    "{#r=Sie wird ganz aus dem Häsuchen sein!<<open>>}"
 
 # game/PHONE.rpy:1155
 translate german alisa_mes_e14a32ee:
 
     # "{#l=Только приезжайте пораньше, по спискам пройдете раньше всех, займете лучшие места.}"
-    "{#l=Только приезжайте пораньше, по спискам пройдете раньше всех, займете лучшие места.}"
+    "{#l=Seid einfach früh da. Damit kommt ihr vor allen Anderen rein und könnt euch die besten Plätze aussuchen.}"
 
 # game/PHONE.rpy:1156
 translate german alisa_mes_ffc9d60f:
 
     # "{#r=Я не знаю, что сказать! Это так круто! Спасииибооо!!!<<kiss>><<kiss>><<kiss>>}"
-    "{#r=Я не знаю, что сказать! Это так круто! Спасииибооо!!!<<kiss>><<kiss>><<kiss>>}"
+    "{#r=Ich weiß gar nicht, was ich sagen soll! Das ist so cool! Danke!!!<<kiss>><<kiss>><<kiss>>}"
 
 # game/PHONE.rpy:1157
 translate german alisa_mes_eed40cfb:
 
     # "{#l=Смотри не зацелуй меня до смерти<<smile>> Буду рада увидеть вас обеих. Начало концерта в субботу в 18:00. Удачи.}"
-    "{#l=Смотри не зацелуй меня до смерти<<smile>> Буду рада увидеть вас обеих. Начало концерта в субботу в 18:00. Удачи.}"
+    "{#l=Lass mich leben<<smile>> Ich freu mich auf euch beide. Das Konzert startet Samstag um 18 Uhr. Bis dann.}"
 
 # game/PHONE.rpy:1158
 translate german alisa_mes_e23c6c99:
 
     # "{#r=Покааа!<<kiss>>}"
-    "{#r=Покааа!<<kiss>>}"
+    "{#r=Wiedersehn!<<kiss>>}"
 
 # game/PHONE.rpy:1161
 translate german alisa_mes_f4bf5b24:
 
     # aut "Как здорово! Надо срочно обрадовать Таню!"
-    aut "Как здорово! Надо срочно обрадовать Таню!"
+    aut "Wie cool! Ich muss gleich Tanja Bescheid sagen!"
 
 # game/PHONE.rpy:1166
 translate german alisa_mes_3dd41ba6:
 
     # "{#r=Сестренка! Угадай, кто мне только что написал?<<smile>>}"
-    "{#r=Сестренка! Угадай, кто мне только что написал?<<smile>>}"
+    "{#r=Schwesterchen! Rate mal wer mir gerade geschrieben hat.<<smile>>}"
 
 # game/PHONE.rpy:1167
 translate german alisa_mes_ad802c6c:
 
     # "{#l=Все равно ведь не угадаю. Пусть будет Майкл Джексон.}"
-    "{#l=Все равно ведь не угадаю. Пусть будет Майкл Джексон.}"
+    "{#l=Werd ich eh nicht erraten. Michael Jackson?}"
 
 # game/PHONE.rpy:1168
 translate german alisa_mes_b2a09a58:
 
     # "{#r=Мне написала Алиса Дарк и пригласила нас с тобой на свой концерт, представляешь?!<<scream>>}"
-    "{#r=Мне написала Алиса Дарк и пригласила нас с тобой на свой концерт, представляешь?!<<scream>>}"
+    "{#r=Alisa Dark hat mir geschrieben und uns beide auf ihr Konzert eingeladen. Kannst du das glauben?!<<scream>>}"
 
 # game/PHONE.rpy:1169
 translate german alisa_mes_ada085b8:
@@ -1377,7 +1377,7 @@ translate german alisa_mes_ada085b8:
 translate german alisa_mes_30d13348:
 
     # "{#r=Я знала, что ты заценишь<<wink>>}"
-    "{#r=Я знала, что ты заценишь<<wink>>}"
+    "{#r=Ich wusste dir gefällts<<wink>>}"
 
 # game/PHONE.rpy:1171
 translate german alisa_mes_ada085b8_1:
@@ -1389,13 +1389,13 @@ translate german alisa_mes_ada085b8_1:
 translate german alisa_mes_eab9391e:
 
     # "{#l=Это ж надо какие-то рокерские шмотки достать! Косметичку обновить! Столько дел, столько дел!<<scream>>}"
-    "{#l=Это ж надо какие-то рокерские шмотки достать! Косметичку обновить! Столько дел, столько дел!<<scream>>}"
+    "{#l=Ich brauch schnell Rockerklamotten! Ich brauch neue Schminke! Ich hab noch so viel zu tun!<<scream>>}"
 
 # game/PHONE.rpy:1173
 translate german alisa_mes_26b82044:
 
     # "{#r=Жду тебя у себя в субботу в 16:00.}"
-    "{#r=Жду тебя у себя в субботу в 16:00.}"
+    "{#r=Ich warte auf dich am Samstag um 16 Uhr.}"
 
 # game/PHONE.rpy:1174
 translate german alisa_mes_ada085b8_2:
@@ -1407,15 +1407,15 @@ translate german alisa_mes_ada085b8_2:
 translate german alisa_mes_52f79000:
 
     # aut "Кстати, насчет наряда я не подумала. Думаю, мой сценический прикид хорошо подойдет для концерта."
-    aut "Кстати, насчет наряда я не подумала. Думаю, мой сценический прикид хорошо подойдет для концерта."
+    aut "Ich hab gar nicht über Klamotten nachgedacht. Ich glaub mein Bühnenoutfit ist gut geeignet für ein Konzert."
 
 translate german strings:
 
     # game/PHONE.rpy:970
     old "Продолжить уроки у Майкла([guitar_skill]/15)"
-    new "Продолжить уроки у Майкла([guitar_skill]/15)"
+    new "Mit Michael weiter üben([guitar_skill]/15)"
 
     # game/PHONE.rpy:1178
     old "Дождаться субботы"
-    new "Дождаться субботы"
+    new "Warte bis Samstag"
 

@@ -1262,7 +1262,7 @@ translate english owl_mes_d71fce73:
 translate english owl_mes_246c26dd:
 
     # "{#l=Привыкай, звезда<<wink>> Постарайся на напиться от радости<<sweet>>}"
-    "{#l=You should get used to it, star<<wink>> Try to get drunk with joy<<sweet>>}"
+    "{#l=You should get used to it, star<<wink>> Try not to get drunk with joy<<sweet>>}"
 
 # game/PHONE.rpy:1008
 translate english owl_mes_ec39120d:
