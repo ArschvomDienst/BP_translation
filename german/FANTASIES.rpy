@@ -688,5 +688,5 @@ translate german strings:
 
     # game/FANTASIES.rpy:18
     old "Зарегистрироваться на ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
-    new "Зарегистрироваться на ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
+    new "Registrieren auf ourfantasies.bp ({image=smel_.png} 11([allsmel]))"
 
