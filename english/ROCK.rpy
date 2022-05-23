@@ -1687,7 +1687,7 @@ translate english kian_tina_event_0dcc09c5:
 translate english kian_tina_event_1bb419ad:
 
     # aut "Киан махнул рукой в сторону рамки с фотографией. На ней была изображена милая юная девушка. Жена?"
-    aut "Cian waved his hand in the direction of the photo frame. It depicted a cute young girl. A wife?"
+    aut "Kian waved his hand in the direction of the photo frame. It depicted a cute young girl. A wife?"
 
 # game/ROCK.rpy:1125
 translate english kian_tina_event_e221d2ab:
@@ -1783,8 +1783,7 @@ translate english kian_tina_event_dda34615:
 translate english kian_tina_event_3ffbe433:
 
     # carmen "Что ты там ищешь?!"
-    carmen "I'll show you now..."
-
+    carmen "What are you looking for?!
 # game/ROCK.rpy:1148
 translate english kian_tina_event_30e67f8a:
 
@@ -1807,7 +1806,7 @@ translate english kian_tina_event_63380ed8:
 translate english kian_tina_event_08016416:
 
     # aut "Тина развернула ноутбук, демонстрируя всем качественное порно с женой Киана в главной роли."
-    aut "Tina unfolded her laptop, showing everyone high-quality porn with Kian's wife in the maim role."
+    aut "Tina unfolded her laptop, showing everyone high-quality porn with Kian's wife in the main role."
 
 # game/ROCK.rpy:1153
 translate english kian_tina_event_7a09cb3e:
@@ -1819,7 +1818,7 @@ translate english kian_tina_event_7a09cb3e:
 translate english kian_tina_event_eeb76dcb:
 
     # aut "Киан смотрел на это с открытым ртом. Внезапно он заговорил спокойным тихим голосом:"
-    aut "Cian watched with his mouth open. Suddenly, he spoke in a calm, quiet voice:"
+    aut "Kian watched with his mouth open. Suddenly, he spoke in a calm, quiet voice:"
 
 # game/ROCK.rpy:1156
 translate english kian_tina_event_7fd413a6:
@@ -1867,7 +1866,7 @@ translate english kian_tina_event_b05834d9:
 translate english kian_tina_event_bbeec490:
 
     # tina "Она вообще не чуствует себя виноватой, Киан!"
-    tina "She doesn't feel guilty at all, Cian!"
+    tina "She doesn't feel guilty at all, Kian!"
 
 # game/ROCK.rpy:1166
 translate english kian_tina_event_c9be5b1e:
@@ -1999,7 +1998,7 @@ translate english kian_tina_event_6154b10f:
 translate english kian_tina_event_fb9f118a:
 
     # aut "На репетиции Киан старался сосердоточиться на работе, но у него плохо получалось. Он был рассеянным и часто лажал, что на него было не похоже."
-    aut "During the rehearsal, Cian tried to focus on his work, but he couldn't perform well. He was absent-minded and often screwed up, which was not like him."
+    aut "During the rehearsal, Kian tried to focus on his work, but he couldn't perform well. He was absent-minded and often screwed up, which was not like him."
 
 # game/ROCK.rpy:1195
 translate english kian_tina_event_44a40143:
@@ -2011,7 +2010,7 @@ translate english kian_tina_event_44a40143:
 translate english kian_tina_event_aa59798e:
 
     # aut "Не знаю почему, но я поплелась за Кианом обратно. Не хотелось оставлять его одного."
-    aut "I don't know why, but I followed Cian back. I didn't want to leave him alone."
+    aut "I don't know why, but I followed Kian back. I didn't want to leave him alone."
 
 # game/ROCK.rpy:1198
 translate english kian_tina_event_6088698a:
@@ -2089,7 +2088,7 @@ translate english kian_tina_event_fc5bb3fb:
 translate english kian_tina_event_426f443d:
 
     # aut "Киан побежал к лифту, а я последовала за ним. Тревожные предчувствия появились и у меня тоже."
-    aut "Cian ran to the elevator, and I followed him. I also had uneasy premonitions."
+    aut "Kian ran to the elevator, and I followed him. I also had uneasy premonitions."
 
 # game/ROCK.rpy:1215
 translate english kian_tina_event_2354c439:
@@ -2101,7 +2100,7 @@ translate english kian_tina_event_2354c439:
 translate english kian_tina_event_0cda820d:
 
     # aut "Она была обсолютно голая и неподвижно смотрела вдаль. Киан медленно поднялся к ней."
-    aut "She was completely naked and motionless looking into the distance. Cian slowly climbed up to her."
+    aut "She was completely naked and motionless looking into the distance. Kian slowly climbed up to her."
 
 # game/ROCK.rpy:1219
 translate english kian_tina_event_f132ffc1:
@@ -2131,7 +2130,7 @@ translate english kian_tina_event_7480c178:
 translate english kian_tina_event_509d0117:
 
     # tina "Зачем ты пришел? Это только все усложнит! Я все для себя решила!"
-    tina "Why did you come? You'd only made things harder.! I've decided everything for myself!"
+    tina "Why did you come? You'd only made things harder! I've decided everything for myself!"
 
 # game/ROCK.rpy:1228
 translate english kian_tina_event_712db30c:
@@ -2173,7 +2172,7 @@ translate english kian_tina_event_bc14ce9e:
 translate english kian_tina_event_26933334:
 
     # tina "Я выросла, Киан Берч... Я работала над собой, училась... У меня два высших образования! А я работаю секретаршей!"
-    tina "I've grown up, Cian Birch... I worked on myself, studied... I have two higher educations! And I work as a secretary!"
+    tina "I've grown up, Kian Birch... I worked on myself, studied... I have two higher educations! And I work as a secretary!"
 
 # game/ROCK.rpy:1241
 translate english kian_tina_event_9bbbc6cd:
@@ -2209,7 +2208,7 @@ translate english kian_tina_event_5a46f05c:
 translate english kian_tina_event_304c01f8:
 
     # aut "Киан подошел вплотную и подхватил Тину. Девушка сразу обмякла в его объятиях."
-    aut "Cian came close and picked up Tina. The girl immediately went limp in his arms."
+    aut "Kian came close and picked up Tina. The girl immediately went limp in his arms."
 
 # game/ROCK.rpy:1248
 translate english kian_tina_event_fc88312e:
