@@ -9723,743 +9723,743 @@ translate german strings:
 translate german glamour_choise_menu_0bb2a2cc:
 
     # gg smile "Мне не нужно к парикмахеру."
-    gg smile ""
+    gg smile "Ich glaube nicht, dass ich zum Frisör muss."
 
 # game/DIA.rpy:579
 translate german glamour_choise_menu_1d9064fc:
 
     # alex "Самое время подровнять кончики."
-    alex ""
+    alex "Es ist Zeit die Spitzen zu schneiden."
 
 # game/DIA.rpy:599
 translate german glamour_choise_menu_ea98f4ab:
 
     # gg zadum "Думаю, не стоит перебарщивать с солярием."
-    gg zadum ""
+    gg zadum "Mann sollte besser vorsichtig sein mit dem Solarium."
 
 # game/DIA.rpy:603
 translate german glamour_choise_menu_a9e6d527:
 
     # gg zadum "На сегодня хватит."
-    gg zadum ""
+    gg zadum "Das reicht für heute."
 
 # game/DIA.rpy:694
 translate german dia_naru_5a800774:
 
     # gg smile "У вас новая прическа?"
-    gg smile ""
+    gg smile "Hast du eine neue Frisur?"
 
 # game/DIA.rpy:695
 translate german dia_naru_cd5bb3c9:
 
     # naru "Похоже, вы перепутали меня с моей сестрой. Меня зовут Нару, добро пожаловать."
-    naru ""
+    naru "Ich glaube du verwechselst mich mit meiner Schwester. Mein Name ist Naru, willkommen."
 
 # game/DIA.rpy:696
 translate german dia_naru_5bde506a:
 
     # gg zadum "Ой, неловко получилось."
-    gg zadum ""
+    gg zadum "Oh, tut mir Leid."
 
 # game/DIA.rpy:697
 translate german dia_naru_54fcbcd2:
 
     # naru "Мы, близнецы, привыкли к таким ситуациям, не беспокойтесь."
-    naru ""
+    naru "Das ist schon in Ordnung. Wir sind Zwillinge, da passiert das dauernd. Mach dir keinen Kopf."
 
 # game/DIA.rpy:703
 translate german naru_menu_72c73091:
 
     # gg smile "Где я могу найти студию Жерара? Кажется, он проводит какой-то кастинг."
-    gg smile ""
+    gg smile "Wo ist Gerards Studio? Er scheint eine Art Casting zu haben."
 
 # game/DIA.rpy:704
 translate german naru_menu_a5d3c094:
 
     # claire "Поднимайтесь на третий этаж, там вы легко найдете студию."
-    claire ""
+    claire "Geh in den dritten Stock, das Studio findest du da leicht."
 
 # game/DIA.rpy:705
 translate german naru_menu_74fb16fc:
 
     # gg smile "Спасибо."
-    gg smile ""
+    gg smile "Danke."
 
 # game/DIA.rpy:729
 translate german dia_claire_36748654:
 
     # admin "Меня зовут Клэр Ян, а вы находитесь в студии красоты \"Glamour\"."
-    admin ""
+    admin "Mein Name ist Claire Yan und dies ist das Studio \"Glamour\"."
 
 # game/DIA.rpy:730
 translate german dia_claire_5b6fd704:
 
     # aut "У девушки был слабый, но очень приятный азиатский акцент."
-    aut ""
+    aut "Das Mädchen hatte einen angenehmen asiatischen Akzent."
 
 # game/DIA.rpy:731
 translate german dia_claire_8badf39d:
 
     # claire "Депиляция, перманентный макияж, солярий и множество других косметических процедур."
-    claire ""
+    claire "Enthaarung, Permanent Make-up, Ganzkörperbräunung und andere kosmetische Prozeduren."
 
 # game/DIA.rpy:732
 translate german dia_claire_f4a5d6ed:
 
     # claire "Также у нас есть своя модельная школа и фотостудия."
-    claire ""
+    claire "Wir haben auch eine Model-Schule und ein Fotostudio."
 
 # game/DIA.rpy:733
 translate german dia_claire_b28aab83:
 
     # gg zadum "Ого, как интересно!"
-    gg zadum ""
+    gg zadum "Wow, das klingt interessant."
 
 # game/DIA.rpy:734
 translate german dia_claire_12433c23:
 
     # aut "Кажется, в тот момент я выглядела забавно, только представив, что какой-то специально обученный человек может вместо меня побрить мне ноги... Или не только ноги..."
-    aut ""
+    aut "Ich denke ich muss etwas seltsam ausgesehen haben für einen Moment. Ich hab mir vorgestellt wie ein Profi meine Beine rasierte ... Oder etwas Anderes ..."
 
 # game/DIA.rpy:735
 translate german dia_claire_4a2de9e9:
 
     # gg zadum "Спасибо, я подумаю..."
-    gg zadum ""
+    gg zadum "Danke, ich denk darüber nach."
 
 # game/DIA.rpy:2324
 translate german casino_work_menu1_cb0ecef9:
 
     # molly "Советую сразу познакомиться с Гарри. Он наш охранник и просто душка, тебе понравится."
-    molly ""
+    molly "Ich möchte dir Harry vorstellen. Er ist unser Sicherheitsmann und ein Schatz. Du wirst ihn mögen."
 
 # game/DIA.rpy:2325
 translate german casino_work_menu1_279adcb9:
 
     # molly "А вообще можешь приступать прямо сейчас. Если будут вопросы - подходи."
-    molly ""
+    molly "Eigentlich kannst du sofort anfangen. Wenn du Fragen hast frag einfach."
 
 # game/DIA.rpy:4104
 translate german jill_dia_23ab4063:
 
     # jill "Ну, я готова"
-    jill ""
+    jill "Nun, ich bin bereit."
 
 # game/DIA.rpy:4109
 translate german jill_dia_e6a4fb8b:
 
     # aut "Мы решили долго не искать и зашли в ближайшую кафешку."
-    aut ""
+    aut "Wir hielten uns nicht lange mit der Suche auf und gingen in das nächste Café."
 
 # game/DIA.rpy:4110
 translate german jill_dia_7c9ca1a2:
 
     # jill "Если ты не против, я тебя угощу. Майкл мне оставил кучу денег на карманные расходы, а я даже не знаю, на что их потратить."
-    jill ""
+    jill "Ich zahle, wenn es dir Recht ist. Michael hat mir viel Taschengeld gegeben und ich weiß nicht wofür ich es ausgeben soll."
 
 # game/DIA.rpy:4111
 translate german jill_dia_4db51953:
 
     # alex "Ну, если ты настаиваешь..."
-    alex ""
+    alex "Wenn du darauf bestehst ..."
 
 # game/DIA.rpy:4113
 translate german jill_dia_29b67332:
 
     # aut "Джилл наконец улыбалась. Будто ей удалось на какое-то время забыть о том, что ей довелось пережить."
-    aut ""
+    aut "Jill hat endlich gelächelt. Es war als ob sie für eine Weile vergessen konnte, was ihr passiert ist."
 
 # game/DIA.rpy:4114
 translate german jill_dia_63ac1430:
 
     # aut "Я старалась не ляпнуть лишнего, и мы просто болтали на тему музыки."
-    aut ""
+    aut "Ich versuchte nicht zu forsch zu sein und wir redeten eine Weile über Musik."
 
 # game/DIA.rpy:4119
 translate german jill_dia_f255b15f:
 
     # alex "Интересно, каково это быть дочкой рок-звезды?"
-    alex ""
+    alex "Ich frage mich wie es ist als Tochter eines Rockstars aufzuwachsen."
 
 # game/DIA.rpy:4120
 translate german jill_dia_b23aa17f:
 
     # jill "Я училась в дорогой частной школе. Там были дети гораздо более богатых и статусных родителей, так что я никогда не чувствовала себя особенной."
-    jill ""
+    jill "Ich ging auf eine teure Privatschule. Die Eltern der anderen Kinder waren reicher und hatte mehr Einfluss als meine, darum hab ich mich nie als Besonders gesehen."
 
 # game/DIA.rpy:4121
 translate german jill_dia_c0f5d726:
 
     # jill "Отец часто возил меня с собой на гастроли, потом мне это надоело. Думаю, ты читала об этом в моем дневнике."
-    jill ""
+    jill "Mein Fater nahm mich oft mit auf Tour, aber irgendwann war ich gelangweilt. Ich glaube du hast das in meinem Tagebuch schon gelesen."
 
 # game/DIA.rpy:4122
 translate german jill_dia_53d148f5:
 
     # alex "Да, кстати, прости, что рылась в твоих вещах."
-    alex ""
+    alex "Oh. Verzeih bitte, dass ich rumgeschnüffelt hab."
 
 # game/DIA.rpy:4124
 translate german jill_dia_c2f8d53f:
 
     # jill "Если бы ты не почитала мой дневник, ты бы меня не нашла. Я должна тебя благодарить."
-    jill ""
+    jill "Hättest du es nicht gelesen dann hättest du mich nicht gefunden. Ich sollte dir danken."
 
 # game/DIA.rpy:4125
 translate german jill_dia_179de39c:
 
     # jill "Мне нужно сходить в туалет. Не начинай десерт без меня, ладно?"
-    jill ""
+    jill "Ich muss kurz auf die Toilette. Fang mit dem Nachtisch nicht ohne mich an, okay?"
 
 # game/DIA.rpy:4148
 translate german jill_dia_af8634cf:
 
     # aut "Джилл отошла, а я залипла в телефон. Это была моя ошибка."
-    aut ""
+    aut "Jill ging für eine Weile weg und ich widmete mich meinem Telefon. Das war mein Fehler."
 
 # game/DIA.rpy:4150
 translate german jill_dia_2ac65f4d:
 
     # aut "Что могло случиться с девушкой в туалете полупустой забегаловки?"
-    aut ""
+    aut "Was soll einem Mädel auf der Toilette eines fast leeren Cafés schon passieren?"
 
 # game/DIA.rpy:4152
 translate german jill_dia_0fe704df:
 
     # aut "Дальнейшие события передаю со слов самой Джилл."
-    aut ""
+    aut "Die nächsten Ereignisse wurden von Jill berichtet."
 
 # game/DIA.rpy:4154
 translate german jill_dia_35c25533:
 
     # man "{i}*свистит*{/i}"
-    man ""
+    man "{i}*pfeift*{i}"
 
 # game/DIA.rpy:4155
 translate german jill_dia_28e534cb:
 
     # man "Отличная задница, малышка!"
-    man ""
+    man "Geiler Hintern!"
 
 # game/DIA.rpy:4157
 translate german jill_dia_a2c69fcc:
 
     # jill "Спасибо, сэр."
-    jill ""
+    jill "Danke, Sir."
 
 # game/DIA.rpy:4158
 translate german jill_dia_20b904f5:
 
     # man "Ого! И че, даже не будешь махать руками и кричать, какое я хамло?"
-    man ""
+    man "Wow! Du bölkst mich nichtmal an was für ein Langweiler ich sei?"
 
 # game/DIA.rpy:4159
 translate german jill_dia_e8b5286e:
 
     # jill "Нет, сэр."
-    jill ""
+    jill "Nein, Sir."
 
 # game/DIA.rpy:4160
 translate german jill_dia_337f53ea:
 
     # man "Если ты такая вежливая, может еще и отсосешь мне задаром?"
-    man ""
+    man "Wenn du so höflich bist, wie wäre es wenn du mir einen bläst?"
 
 # game/DIA.rpy:4161
 translate german jill_dia_5ec8b0f9:
 
     # jill "Конечно, сэр."
-    jill ""
+    jill "Sicher, Sir."
 
 # game/DIA.rpy:4163
 translate german jill_dia_c6c13cc5:
 
     # jill "Я готова..."
-    jill ""
+    jill "Ich bin soweit ..."
 
 # game/DIA.rpy:4165
 translate german jill_dia_132be31f:
 
     # man "Ебать... Это че, прикол какой-то?"
-    man ""
+    man "Fuck ... Ist das eine Art Scherz?"
 
 # game/DIA.rpy:4166
 translate german jill_dia_796558d2:
 
     # man "Ты реально собралась мне минет сделать?"
-    man ""
+    man "Willst du mir echt einen Blasen?"
 
 # game/DIA.rpy:4168
 translate german jill_dia_a2004c5a:
 
     # jill "Конечно, сэр. Вы можете воспользоваться мной, если пожелаете."
-    jill ""
+    jill "Natürlich, Sir. Benutz mich wie es dir gefällt."
 
 # game/DIA.rpy:4170
 translate german jill_dia_2de9f0e0:
 
     # man "Вот это я удачно зашел!"
-    man ""
+    man "Hab ich ein Glück!"
 
 # game/DIA.rpy:4172
 translate german jill_dia_a5303056:
 
     # man "Давай, открывай свой ротик пошире!"
-    man ""
+    man "Mach den Mund noch etwas weiter auf!"
 
 # game/DIA.rpy:4174
 translate german jill_dia_6f714542:
 
     # man "Это сон или пранк? Я не верю, что сейчас засуну член ей в ротик."
-    man ""
+    man "Ist das ein Traum oder ein Scherz? Ich kann einfach nicht glauben, dass ich meinen Schwanz in dem Mund versenken darf."
 
 # game/DIA.rpy:4176
 translate german jill_dia_e9c11fdb:
 
     # man "Ооо да! Я хожу сюда 15 лет, но такое со мной впервые!"
-    man ""
+    man "Oh Ja! Ich komm hier seit 15 Jahren her, aber das hier passiert zum ersten Mal!"
 
 # game/DIA.rpy:4179
 translate german jill_dia_9b4c2bd2:
 
     # man "Да, сучка... Ублажи папочку!"
-    man ""
+    man "Ja Schlampe ... Verwöhn deinen Papa!"
 
 # game/DIA.rpy:4180
 translate german jill_dia_20bf4c4c:
 
     # man "Что за ротик! А если поглубже?"
-    man ""
+    man "Was für ein Mund! Was passiert wohl tiefer?"
 
 # game/DIA.rpy:4182
 translate german jill_dia_f2eebc16:
 
     # man "Давай проверим глубину твоего горлышка."
-    man ""
+    man "Testen wir das doch mal."
 
 # game/DIA.rpy:4183
 translate german jill_dia_d8edf8fe:
 
     # man "Я даже встану поудобнее."
-    man ""
+    man "Ich kann mich sogar entspannen."
 
 # game/DIA.rpy:4185
 translate german jill_dia_b5aad3c2:
 
     # man "Ух, сука! У тебя там бездонная глотка что ли? Как легко вошел!"
-    man ""
+    man "Wow Schlampe! Hast du überhaupt einen Schluckreflex? Wie leicht ich rein bin! "
 
 # game/DIA.rpy:4208
 translate german jill_dia_cf15846c:
 
     # alex2 "Что-то Джилл долго нет. Может стоит проверить?"
-    alex2 ""
+    alex2 "Jill ist aber lange weg. Vielleicht sollte ich mal nachsehen?"
 
 # game/DIA.rpy:4210
 translate german jill_dia_0d4ab76c:
 
     # gg2 zadum "Надеюсь, ей не стало плохо. Блин, где тут туалет?"
-    gg2 zadum ""
+    gg2 zadum "Ich hoffe alles ist in Ordnung. Wo ist die Toilette?"
 
 # game/DIA.rpy:4212
 translate german jill_dia_2cefae4a:
 
     # gg fear "Джилл?! Что происходит? Кто этот тип?!"
-    gg fear ""
+    gg fear "Jill? Was ist hier los? Wer ist der Kerl?"
 
 # game/DIA.rpy:4214
 translate german jill_dia_5df363ea:
 
     # man "Оу, это твоя подружка? Она тоже сосет у всех подряд? День становится все лучше!"
-    man ""
+    man "Oh, ist das deine Freundin? Bläst sie auch Alle hier? Der Tag wird besser und besser!"
 
 # game/DIA.rpy:4216
 translate german jill_dia_88cc87a3:
 
     # jill "Алекс, извини..."
-    jill ""
+    jill "Tut mir Leid Alex ..."
 
 # game/DIA.rpy:4217
 translate german jill_dia_3001fa01:
 
     # gg zlo "Убери от нее свой член, ублюдок!"
-    gg zlo ""
+    gg zlo "Geh runter von ihr und raus hier du Bastard!"
 
 # game/DIA.rpy:4218
 translate german jill_dia_7fb19ea1:
 
     # man "А твоя подружка злая какая-то. Мне такие не нравятся."
-    man ""
+    man "Deine Freundin ist wohl eine Domina. Mag ich irgendwie nicht."
 
 # game/DIA.rpy:4225
 translate german jill_wc_menu_3c64067f:
 
     # gg zlo "Убери. От нее. Свой. Член!"
-    gg zlo ""
+    gg zlo "Nimm den Schwanz da weg, wenn du ihn behalten willst!"
 
 # game/DIA.rpy:4275
 translate german jill_wc_menu_81cdef65:
 
     # man "Ай бля..."
-    man ""
+    man "Ah fuck ..."
 
 # game/DIA.rpy:4277
 translate german jill_wc_menu_69e4b9e8:
 
     # man "Ты че, совсем ебанутая?! Она вообще-то сама согласилась!"
-    man ""
+    man "Bist du von Sinnen? Sie hat Ja gesagt!"
 
 # game/DIA.rpy:4278
 translate german jill_wc_menu_d91e6b1e:
 
     # man "Ладно, сука психованная, я уже ухожу."
-    man ""
+    man "Okay du verrückte Kuh, ist ja gut."
 
 # game/DIA.rpy:4281
 translate german jill_wc_menu_5b182be1:
 
     # gg zlo "Я сейчас охрану позову! А если надо, то и полицию!"
-    gg zlo ""
+    gg zlo "Ich rufe die Wache! Und die Polizei wenn's sein muss!"
 
 # game/DIA.rpy:4283
 translate german jill_wc_menu_2561b1b4:
 
     # man "Вообще-то она сама согласилась! Бля... Никогда меня еще так не обламывали."
-    man ""
+    man "Sie wollte das doch! Fuck ... mir tut Alles weh."
 
 # game/DIA.rpy:4284
 translate german jill_wc_menu_2d25a0da:
 
     # man "Ладно, сука, не ори, уже ухожу."
-    man ""
+    man "Okay du blöde Kuh, ich geh ja schon."
 
 # game/DIA.rpy:4297
 translate german jill_wc_menu_f3fad68b:
 
     # alex "Джилл, ты как? Кто это был? Ты его знаешь?"
-    alex ""
+    alex "Jill, bist du Okay? Wer war das? Kanntest du den etwa?"
 
 # game/DIA.rpy:4298
 translate german jill_wc_menu_a5e12dd3:
 
     # jill "Алекс, прости... Я не смогла ему отказать. Я знала, что он мне ничего не сделает, но... Но я боюсь говорить \"нет\". Я привыкла, что отказы стоят дорого."
-    jill ""
+    jill "Verzeih mir Alex ... Ich konnte einfach nicht Nein sagen. Er hätte mir wahrscheinlich nichts getan, aber ... Ich habe Angst \"Nein\" zu sagen. Ich bin es gewohnt, dass das Wort Konsequenzen hat."
 
 # game/DIA.rpy:4299
 translate german jill_wc_menu_7236cbf5:
 
     # jill "Прости!"
-    jill ""
+    jill "Verzeihung!"
 
 # game/DIA.rpy:4300
 translate german jill_wc_menu_3b99570a:
 
     # alex "Это ты меня прости, что оставила одну! Обещаю, больше я тебя в обиду не дам."
-    alex ""
+    alex "Nein, verzeih mir dass ich dich alleine gelassen habe! Ich werde dich beschützen, versprochen!"
 
 # game/DIA.rpy:4301
 translate german jill_wc_menu_d61ce715:
 
     # alex "Все хорошо, я рядом. Пойдем домой..."
-    alex ""
+    alex "Es ist okay, ich bin ja da. Komm, lass uns nach Hause gehen ..."
 
 # game/DIA.rpy:4315
 translate german jill_wc_menu_47d5d67d:
 
     # aut "Десерты так и остались нетронутыми. Я отвела Джилл домой, в душе ругая себя за то, что оставила ее одну."
-    aut ""
+    aut "Der Nachtisch blieb unangetastet. Ich brachte Jill heim, und hätte mich selbst schlagen können weil ich sie alleine gelassen hab."
 
 # game/DIA.rpy:4316
 translate german jill_wc_menu_1560e433:
 
     # aut "Я решила, что обязательно помогу ей вернуться к нормальной жизни."
-    aut ""
+    aut "Ich wollte ihr definitiv helfen ins Leben zurückzufinden."
 
 # game/DIA.rpy:4332
 translate german dia_rada_0c9cc47e:
 
     # rada "У нас не было возможности пообщаться. Хозяйка хорошо о тебе отзывалась. Как ты с ней познакомилась?"
-    rada ""
+    rada "Wir hatte noch keine Gelegenheit uns zu unterhalten. Die Chefin hat viel Gutes über dich erzählt. Wie hast du sie getroffen?"
 
 # game/DIA.rpy:4333
 translate german dia_rada_68788fd8:
 
     # gg sad "Ну... Это долгая история..."
-    gg sad ""
+    gg sad "Naja ... Das ist eine lange Geschichte ..."
 
 # game/DIA.rpy:4334
 translate german dia_rada_4dab377d:
 
     # rada "Начинала работать в Комнате Славы, да? Не смущайся, к ней почти все так попадают."
-    rada ""
+    rada "Du hast in der Hall of Fame angefangen, richtig? Keine Sorge, fast jede von uns lernt sie so kennen."
 
 # game/DIA.rpy:4335
 translate german dia_rada_fbe45315:
 
     # gg smile "А что насчет тебя?"
-    gg smile ""
+    gg smile "Du auch?"
 
 # game/DIA.rpy:4336
 translate german dia_rada_5bb44b70:
 
     # rada "У меня немного другая история. Хозяйка когда-то спасла мне жизнь, и я решила у нее остаться."
-    rada ""
+    rada "Ich hab eine etwas andere Geschichte. Die Chefin hat mir das Leben gerettet und dafür blieb ich bei ihr."
 
 # game/DIA.rpy:4337
 translate german dia_rada_e9369e45:
 
     # gg zadum "Ого... А как это произошло?"
-    gg zadum ""
+    gg zadum "Wow ... Was ist passiert?"
 
 # game/DIA.rpy:4338
 translate german dia_rada_78c3788d:
 
     # rada "Мне не хочется это вспоминать. Может быть в другой раз..."
-    rada ""
+    rada "Ich möchte nicht darüber reden. Ein anderes Mal vielleicht ..."
 
 # game/DIA.rpy:4343
 translate german rada_menu_a59e70ba:
 
     # gg zadum "Я все хотела спросить... У Хозяйки в Красном Квартале есть много разной работы. Почему ты выбрала именно эту?"
-    gg zadum ""
+    gg zadum "Eines wollte ich dich noch fragen ... Es gibt eine Menge jobs im Roten Viertel. Warum hast du den gewählt?"
 
 # game/DIA.rpy:4344
 translate german rada_menu_9fccb1f7:
 
     # rada "Да, у Хозяйки не так много вакансий, где не нужно раздеваться. Но эту тоже нужно кому-то делать. Почему бы и нет?"
-    rada ""
+    rada "Naja, die Chefin hat nicht viele freie Stellen bei denen man sich nicht ausziehen muss. Dieser hier muss von jemandem gemacht werden, also dachte ich mir "Warum eigentlich nicht?""
 
 # game/DIA.rpy:4345
 translate german rada_menu_700d2116:
 
     # gg zadum "А чем ты занималась раньше?"
-    gg zadum ""
+    gg zadum "Was hast du vorher gemacht?"
 
 # game/DIA.rpy:4346
 translate german rada_menu_c0c79f86:
 
     # rada "До знакомтсва с Хозяйкой я была моделью в эротических журналах."
-    rada ""
+    rada "Bevor ich sie getroffen hab war ich Model für eines der Erotik Magazine."
 
 # game/DIA.rpy:4347
 translate german rada_menu_6a3b530e:
 
     # gg zadum "..."
-    gg zadum ""
+    gg zadum "..."
 
 # game/DIA.rpy:4348
 translate german rada_menu_a0014894:
 
     # rada "У Аманды было точно такое же выражение лица, когда я рассказала. Это забавно..."
-    rada ""
+    rada "Amanda hat ganz genauso reagiert. Ziemlich lustig ..."
 
 # game/DIA.rpy:4349
 translate german rada_menu_9f2947cd:
 
     # gg zadum "Но тогда я не понимаю..."
-    gg zadum ""
+    gg zadum "Okay, jetzt bin ich eher verwirrt ..."
 
 # game/DIA.rpy:4350
 translate german rada_menu_2336da2e:
 
     # rada "Когда-нибудь я расскажу подробнее, если ты хочешь. Сейчас работы много."
-    rada ""
+    rada "Ich erzähls dir irgendwann genauer, wenn du willst. Aber jetzt liegt erstmal viel Arbeit vor mir."
 
 # game/DIA.rpy:4351
 translate german rada_menu_94526d80:
 
     # gg smile "Хорошо, извини. Не буду мешать."
-    gg smile ""
+    gg smile "Okay, verzeih. Ich stör auch nicht."
 
 translate german strings:
 
     # game/DIA.rpy:288
     old "{color=#00ff00}{b}Мне нужен Киан Берч{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich muß zu Kean Birch{/b}{/color}"
 
     # game/DIA.rpy:296
     old "{#image=ritor}{color=#00ff00}{b}Заткнись!{/b}{/color}"
-    new ""
+    new "{#image=ritor}{color=#00ff00}{b}Halt die Klappe!{/b}{/color}"
 
     # game/DIA.rpy:296
     old "{#image=sharm}{color=#00ff00}{b}Не будь таким строгим{/b}{/color}"
-    new ""
+    new "{#image=sharm}{color=#00ff00}{b}Sei doch nicht so{/b}{/color}"
 
     # game/DIA.rpy:316
     old "{#image=cour}{color=#00ff00}{b}Соблазнить{/b}{/color}"
-    new ""
+    new "{#image=cour}{color=#00ff00}{b}Verführen{/b}{/color}"
 
     # game/DIA.rpy:545
     old "{color=#8c8c8d}Парикмахер (сеанс 170$){/color}"
-    new ""
+    new "{color=#8c8c8d}Friseur (сеанс 170$){/color}"
 
     # game/DIA.rpy:545
     old "{color=#faa8ff}Парикмахер{/color} (сеанс 170$)"
-    new ""
+    new {color=#faa8ff}Friseur{/color} (сеанс 170$)""
 
     # game/DIA.rpy:545
     old "{color=#8c8c8d}Солярий (сеанс 50$){/color}"
-    new ""
+    new "{color=#8c8c8d}Solarium (сеанс 50$){/color}"
 
     # game/DIA.rpy:545
     old "{color=#faa8ff}Солярий{/color} (сеанс 50$)"
-    new ""
+    new "{color=#faa8ff}Solarium{/color} (сеанс 50$)"
 
     # game/DIA.rpy:545
     old "{color=#8c8c8d}Сауна (абонемент на 5 посещений 150$){/color}"
-    new ""
+    new "{color=#8c8c8d}Sauna (5 Besuche für $ 150{/color}"
 
     # game/DIA.rpy:545
     old "{color=#faa8ff}Сауна{/color} (абонемент на 5 посещений 150$)"
-    new ""
+    new "{color=#faa8ff}Sauna{/color} (5 Besuche für $ 150"
 
     # game/DIA.rpy:700
     old "{color=#faa8ff}{b}Выбор услуги{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Einen Service wählen{/b}{/color}"
 
     # game/DIA.rpy:1123
     old "{color=#faa8ff}{b}Я хочу открыть депозитный счет{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Ich will ein Konto eröffnen{/b}{/color}"
 
     # game/DIA.rpy:1221
     old "{b}Конечно, я помогу{/b}"
-    new ""
+    new "{b}Natürlich helfe ich{/b}"
 
     # game/DIA.rpy:1221
     old "{b}У меня нет на это времени{/b}"
-    new ""
+    new "{b}Ich hab leider keine Zeit dafür{/b}"
 
     # game/DIA.rpy:1243
     old "{b}Давай свое письмо{/b}"
-    new ""
+    new "{b}Gib mir einfach den Brief{/b}"
 
     # game/DIA.rpy:1243
     old "{b}Как все прошло?{/b}"
-    new ""
+    new "{b}Wie lief es?{/b}"
 
     # game/DIA.rpy:1243
     old "{b}У меня плохие новости{/b}"
-    new ""
+    new "{b}Ich hab schlechte Neuigkeiten{/b}"
 
     # game/DIA.rpy:1243
     old "{#image=ritor_h}{color=#8c8c8d}{b}Возьми себя в руки!{/b}{/color}"
-    new ""
+    new "{#image=ritor_h}{color=#8c8c8d}{b}Reiß dich zusammen!{/b}{/color}"
 
     # game/DIA.rpy:1243
     old "{#image=ritor}{b}Возьми себя в руки!{/b}"
-    new ""
+    new "{#image=ritor}{b}Reiß dich zusammen!{/b}"
 
     # game/DIA.rpy:1243
     old "{color=#faa8ff}{b}Выпить кофе{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Nimm dir einen Kaffee{/b}{/color}"
 
     # game/DIA.rpy:1243
     old "{color=#faa8ff}{b}Кофе с собой{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Kaffee to go{/b}{/color}"
 
     # game/DIA.rpy:1340
     old "{color=#faa8ff}{b}Класс йоги{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Yoga Untericht{/b}{/color}"
 
     # game/DIA.rpy:1340
     old "{color=#faa8ff}{b}Тренажерный зал{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Fitnesshalle{/b}{/color}"
 
     # game/DIA.rpy:1342
     old "{color=#8c8c8d}5 посещений (80$){/color}"
-    new ""
+    new "{color=#8c8c8d}5 Besuche ($ 80){/color}"
 
     # game/DIA.rpy:1342
     old "{color=#faa8ff}5 посещений{/color} (80$)"
-    new ""
+    new "{color=#faa8ff}5 Besuche{/color} ($ 80)"
 
     # game/DIA.rpy:1342
     old "{color=#8c8c8d}10 посещений (145$){/color}"
-    new ""
+    new "{color=#8c8c8d}10 Besuche ($ 145){/color}"
 
     # game/DIA.rpy:1342
     old "{color=#faa8ff}10 посещений{/color} (145$)"
-    new ""
+    new "{color=#faa8ff}10 Besuche ($ 145){/color}"
 
     # game/DIA.rpy:1342
     old "{color=#8c8c8d}30 посещений (400$){/color}"
-    new ""
+    new "{color=#8c8c8d}30 Besuche ($ 400){/color}"
 
     # game/DIA.rpy:1342
     old "{color=#faa8ff}30 посещений{/color} (400$)"
-    new ""
+    new "{color=#faa8ff}30 Bescheid{/color} ($ 400)"
 
     # game/DIA.rpy:1344
     old "Нужно больше денег (80)"
-    new ""
+    new "Du brauchst mehr Geld (80)"
 
     # game/DIA.rpy:1367
     old "Нужно больше денег (145)"
-    new ""
+    new "Du brauchst mehr Geld (145)"
 
     # game/DIA.rpy:1389
     old "Нужно больше денег (400)"
-    new ""
+    new "Du brauchst mehr Geld (400)"
 
     # game/DIA.rpy:1413
     old "{color=#8c8c8d}5 посещений (100$){/color}"
-    new ""
+    new "{color=#8c8c8d}5 Besuche ($ 100){/color}"
 
     # game/DIA.rpy:1413
     old "{color=#faa8ff}5 посещений{/color} (100$)"
-    new ""
+    new "{color=#faa8ff}5 Besuche{/color} ($ 100)"
 
     # game/DIA.rpy:1413
     old "{color=#8c8c8d}10 посещений (190$){/color}"
-    new ""
+    new "{color=#8c8c8d}10 Besuche ($ 190){/color}"
 
     # game/DIA.rpy:1413
     old "{color=#faa8ff}10 посещений{/color} (190$)"
-    new ""
+    new "{color=#faa8ff}10 Besuche{/color} ($190)"
 
     # game/DIA.rpy:1413
     old "{color=#8c8c8d}30 посещений (500$){/color}"
-    new ""
+    new "{color=#8c8c8d}30 Besuche ($500){/color}"
 
     # game/DIA.rpy:1413
     old "{color=#faa8ff}30 посещений{/color} (500$)"
-    new ""
+    new "{color=#faa8ff}30 Besuche{/color} ($500)"
 
     # game/DIA.rpy:1415
     old "Нужно больше денег (100)"
-    new ""
+    new "Du brauchst mehr Geld (100)"
 
     # game/DIA.rpy:1437
     old "Нужно больше денег (190)"
-    new ""
+    new "Du brauchst mehr Geld (190)"
 
     # game/DIA.rpy:1458
     old "Нужно больше денег (500)"
-    new ""
+    new "Du brauchst mehr Geld (500)"
 
     # game/DIA.rpy:4074
     old "{b}Найти книгу{/b}"
-    new ""
+    new "{b}Finde ein Buch{/b}"
 
     # game/DIA.rpy:4219
     old "{#image=hit_power_h}{color=#8c8c8d}{b}{i}Ударить!{/i}{/b}{/color}"
-    new ""
+    new "{#image=hit_power_h}{color=#8c8c8d}{b}{i}Schlag!{/i}{/b}{/color}"
 
     # game/DIA.rpy:4219
     old "{#image=hit_power}{b}{i}Ударить!{/i}{/b}"
-    new ""
+    new "{#image=hit_power}{b}{i}Schlag!{/i}{/b}"
 
     # game/DIA.rpy:4219
     old "Я позову охрану"
-    new ""
+    new "Ich ruf die Security"
 
     # game/DIA.rpy:4221
     old "Требуется сила удара (10)"
-    new ""
+    new "Schlagkraft nötig (10)
 
     # game/DIA.rpy:4341
     old "{b}Почему именно эта работа?{/b}"
-    new ""
+    new "{b}Warum dieser Job?{/b}"
 
 # TODO: Translation updated at 2022-02-18 11:51
 
@@ -10467,151 +10467,151 @@ translate german strings:
 translate german dia_snake_6021f761:
 
     # aut "Рядом с домом меня кто-то окликнул. Это был гитарист \"Combat Fagots\"."
-    aut ""
+    aut "Jemand rief mich nahe meines Zuhauses. Es war der Gitarrist von \"Combat Fagots\"."
 
 # game/DIA.rpy:4362
 translate german dia_snake_50797722:
 
     # snake "Эй, так ты тут живешь?"
-    snake ""
+    snake "Hier lebst du also?"
 
 # game/DIA.rpy:4363
 translate german dia_snake_41256d65:
 
     # gg smile "Да, прямо в этом доме."
-    gg smile ""
+    gg smile "Ja, hier lebe ich."
 
 # game/DIA.rpy:4364
 translate german dia_snake_3a7d5784:
 
     # gg2 sad "Ой, может не стоило говорить..."
-    gg2 sad ""
+    gg2 sad "Oh, hätte ich wohl nicht sagen sollen ..."
 
 # game/DIA.rpy:4366
 translate german dia_snake_94a155e3:
 
     # snake "А я из соседнего дома. Меня Снейк зовут, если что."
-    snake ""
+    snake "Und ich bin dein Nachbar. Mein Name ist übrigens Snake."
 
 # game/DIA.rpy:4367
 translate german dia_snake_74fee6f7:
 
     # snake "Сова говорила, ты теперь в со звездами выступаешь? А ведь ты недавно ко мне в группу собиралась. Быстро растешь."
-    snake ""
+    snake "Owl sagte du arbeitest mit den Stars jetzt? Dabei wolltest du er vor Kurzem in meine Band. Rasanter Aufstieg!"
 
 # game/DIA.rpy:4368
 translate german dia_snake_44612ed9:
 
     # gg smile "Как-то так получилось... А ты не нашел еще вокалиста?"
-    gg smile ""
+    gg smile "So spielt das Leben manchmal ... Habt ihr schon einen Sänger gefunden?"
 
 # game/DIA.rpy:4370
 translate german dia_snake_e0e0617b:
 
     # snake "Он уже не нужен. Группы больше нет."
-    snake ""
+    snake "Brauchen wir nicht mehr. Die Band hat sich aufgelöst."
 
 # game/DIA.rpy:4371
 translate german dia_snake_8a257fdb:
 
     # gg udiv "Как так?"
-    gg udiv ""
+    gg udiv "Wie das?"
 
 # game/DIA.rpy:4372
 translate german dia_snake_35f743f7:
 
     # snake "Устал от этих ублюдков."
-    snake ""
+    snake "Hatte die Schnauze voll von den Bastarden."
 
 # game/DIA.rpy:4374
 translate german dia_snake_9f1c94cc:
 
     # snake "Я думал, для панк-группы нужно искать максимально отбитых людей. Думал, так будет более трушно. Но я ошибался."
-    snake ""
+    snake "Ich dachte, für eine richtige Punker Band sollte ich dir verrücktesten Leute suchen. Das wäre ehrlicher. Mann lag ich falsch damit."
 
 # game/DIA.rpy:4375
 translate german dia_snake_8cfa81ba:
 
     # gg zadum "Жаль это слышать."
-    gg zadum ""
+    gg zadum "Tut mir Leid zu hören."
 
 # game/DIA.rpy:4376
 translate german dia_snake_a7ecdb42:
 
     # snake "Вообще не жаль. Давно пора было это сделать."
-    snake ""
+    snake "Mir nicht. Es war höchste Zeit das zu tun."
 
 # game/DIA.rpy:4377
 translate german dia_snake_86a31809:
 
     # snake "Я слышал, у тебя красивый голос. Не хочешь зайти? Я поиграю, ты попоешь."
-    snake ""
+    snake "Ich hörte du singst wunderschön. Warum kommst du nicht rein? Ich spiel und du singst."
 
 # game/DIA.rpy:4378
 translate german dia_snake_6663e543:
 
     # aut "Снейк уже не вызывал того чувства, что при первой нашей встрече. Он был спокоен и вежлив. Сложно было отказать."
-    aut ""
+    aut "Snake versprühte nicht mehr das gleiche Gefühl wie bei unserem ersten Treffen. Er war ruhig und höflich. Es war schwer ihm etwas abzuschlagen."
 
 # game/DIA.rpy:4379
 translate german dia_snake_30bc3c9c:
 
     # gg smile "Только если ненадолго."
-    gg smile ""
+    gg smile "Aber nur kurz."
 
 # game/DIA.rpy:4381
 translate german dia_snake_992a8a06:
 
     # aut "На точке был такой же бардак, как и в прошлый раз. Но сегодня мы были тут одни."
-    aut ""
+    aut "Drinnen war dasselbe Durcheinander wie früher. Aber wir waren alleine."
 
 # game/DIA.rpy:4382
 translate german dia_snake_47738988:
 
     # snake "Извини, я не ждал гостей. К следующему разу обещаю прибраться."
-    snake ""
+    snake "Tschuldige, ich hab keinen Besuch erwartet. Ich räum auf das nächste Mal. Versprochen."
 
 # game/DIA.rpy:4384
 translate german dia_snake_c9cc2b10:
 
     # snake "Присядь, я пока гитару подключу."
-    snake ""
+    snake "Setz dich und ich stöpsel die Gitarre ein."
 
 # game/DIA.rpy:4386
 translate german dia_snake_bfbd0486:
 
     # gg sad "Я... не уверена, что хотела бы сидеть на этом стуле..."
-    gg sad ""
+    gg sad "Ich .... äh ... bin mir nicht sicher ob ich mich da hinsetzen möchte ..."
 
 # game/DIA.rpy:4388
 translate german dia_snake_34481a8f:
 
     # snake "Блять, я как-то не подумал... Подожди секунду."
-    snake ""
+    snake "Fuck, da hab ich irgendwie nicht dran gedacht ... Wart kurz."
 
 # game/DIA.rpy:4390
 translate german dia_snake_b7409017:
 
     # snake "Вот. Хранил его для особых случаев. Он тоже не самый новый, но на нем никто не дрочил с голой жопой... Наверно..."
-    snake ""
+    snake "Hier, den hab ich für besondere Gelegenheiten. Ist auch nicht neu, aber keiner hat mit nacktem Arsch draufgewichst ... Wahrscheinlich ..."
 
 # game/DIA.rpy:4401
 translate german dia_snake_8197cfa7:
 
     # aut "Мне все же пришлось приложить некоторый усилия, чтобы преодолеть брезгливость. Но я переступила через бутылки, грязные стаканчики и порно-журналы, разбросанные по полу и села на предложенный стул."
-    aut ""
+    aut "Ich musste mich trotzdem noch Überwinden. Ich trat über Flaschen, schmutzige Becher und Pornohefte und setzte mich auf den angebotenen Stuhl."
 
 # game/DIA.rpy:4402
 translate german dia_snake_31bde87c:
 
     # aut "Оказалось, у нас довольно много общих любимых песен. А Снейк умел не только рвать струны медиатором, но и медленные баллады у него получались здорово."
-    aut ""
+    aut "Es stellte sich heraus Snake und ich hatten viele Lieblingslieder gemein. Und er konnte nicht nur die Gitarre quälen, er spielte auch langsame Balladen großartig."
 
 # game/DIA.rpy:4403
 translate german dia_snake_bd015541:
 
     # aut "Мы приятно провели время и договорились как-нибудь собраться еще раз."
-    aut ""
+    aut "Wir hatten eine tolle Zeit und versprachen, dass irgendwann zu wiederholen."
 
 # TODO: Translation updated at 2022-02-19 16:51
 
@@ -10619,13 +10619,13 @@ translate german dia_snake_bd015541:
 translate german dia_snake_1eb4bda1:
 
     # snake "Сова говорила, ты теперь со звездами выступаешь? А ведь ты недавно ко мне в группу собиралась. Быстро растешь."
-    snake ""
+    snake "Owl sagte du arbeitest mit den Stars jetzt? Dabei wolltest du er vor Kurzem in meine Band. Rasanter Aufstieg!"
 
 # game/DIA.rpy:4407
 translate german dia_snake_55bfbb05:
 
     # aut "Мне все же пришлось приложить некоторый усилия, чтобы преодолеть брезгливость. Но я переступила через бутылки, грязные стаканчики и порно-журналы, разбросанные по полу, и села на предложенный стул."
-    aut ""
+    aut "Ich musste mich trotzdem noch Überwinden. Ich trat über Flaschen, schmutzige Becher und Pornohefte und setzte mich auf den angebotenen Stuhl."
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -10633,615 +10633,615 @@ translate german dia_snake_55bfbb05:
 translate german solarium_menu_a6baf316:
 
     # aut "Своей очереди пришлось подождать."
-    aut "Своей очереди пришлось подождать."
+    aut "Ich musste warten bis ich an der Reihe war."
 
 # game/DIA.rpy:699
 translate german solarium_menu_4090184b:
 
     # aut "Клэр делала массаж мужчине, при этом оба были абсолютно голые."
-    aut "Клэр делала массаж мужчине, при этом оба были абсолютно голые."
+    aut "Claire gab einem Mann eine Massage. Beide waren komplett nackt."
 
 # game/DIA.rpy:700
 translate german solarium_menu_d6619dc2:
 
     # aut "И Клэр, и ее клиент были покрыты блестящим маслом."
-    aut "И Клэр, и ее клиент были покрыты блестящим маслом."
+    aut "Clair und auch der Klient waren mit glänzendem Öl bedeckt."
 
 # game/DIA.rpy:702
 translate german solarium_menu_bc2895f8:
 
     # aut "В массажном столе было два отверстия: одно - в районе лица, второе - ниже пояса."
-    aut "В массажном столе было два отверстия: одно - в районе лица, второе - ниже пояса."
+    aut "Der Massagetisch hatte zwei Löcher: Eines am oberen Ende für den Kopf und eines auf Höhe der Hüfte."
 
 # game/DIA.rpy:703
 translate german solarium_menu_2459275a:
 
     # alex2 "Вид голой девушки может возбуждать клиентов-мужчин. Видимо, для этой цели и нужно специальное отверстие."
-    alex2 "Вид голой девушки может возбуждать клиентов-мужчин. Видимо, для этой цели и нужно специальное отверстие."
+    alex2 "Der Anblick nackter Mädchen kann Männer geil machen. Anscheinend war das Loch für diesen Zweck da."
 
 # game/DIA.rpy:705
 translate german solarium_menu_edfbc2c5:
 
     # aut "Но мое предположение оказалось не совсем верным."
-    aut "Но мое предположение оказалось не совсем верным."
+    aut "Ich lag nicht komplett richtig."
 
 # game/DIA.rpy:706
 translate german solarium_menu_31a36bd7:
 
     # aut "В конце сеанса Клэр опустилась на колени рядом со столом."
-    aut "В конце сеанса Клэр опустилась на колени рядом со столом."
+    aut "Am Ende der Behandlung kniete Clair neben dem Tisch."
 
 # game/DIA.rpy:707
 translate german solarium_menu_331e531b:
 
     # aut "Несложно было догадаться, для какой цели. Она обхватила рукой член мужчины и начала нежно дрочить."
-    aut "Несложно было догадаться, для какой цели. Она обхватила рукой член мужчины и начала нежно дрочить."
+    aut "Es war nicht schwer zu erraten aus welchem Grund. Sie fasste dem Klienten an den Penis und holte ihm einen runter."
 
 # game/DIA.rpy:708
 translate german solarium_menu_9e702e02:
 
     # aut "Со стороны было больше похоже на дойку коровы."
-    aut "Со стороны было больше похоже на дойку коровы."
+    aut "Von Außen betrachtet sah es fast aus, als würde sie eine Kuh melken."
 
 # game/DIA.rpy:710
 translate german solarium_menu_4b327326:
 
     # aut "Милая улыбка не сходила с лица Клэр, но и нельзя было сказать, что она получает от процесса какое-то удовольствие."
-    aut "Милая улыбка не сходила с лица Клэр, но и нельзя было сказать, что она получает от процесса какое-то удовольствие."
+    aut "Es lag zwar ein Lächeln auf ihren Lippen, aber es war offensichtlich dass Claire der Prozedur nicht genoss."
 
 # game/DIA.rpy:711
 translate german solarium_menu_c0538523:
 
     # aut "Девушка потихоньку ускорялась, и мужчина на столе слегка заерзал."
-    aut "Девушка потихоньку ускорялась, и мужчина на столе слегка заерзал."
+    aut "Das Mädchen wurde schneller und der Mann auf dem Tisch verlagerte sich leicht."
 
 # game/DIA.rpy:713
 translate german solarium_menu_00b53ff5:
 
     # aut "Когда стало понятно, что кульминация близка, Клэр залезла под стол, направляя член на свою красивую грудь."
-    aut "Когда стало понятно, что кульминация близка, Клэр залезла под стол, направляя член на свою красивую грудь."
+    aut "Als sein Orgasmus nah war stieg Clair unter den Tisch und zielte mit dem Penis auf ihre Brüste."
 
 # game/DIA.rpy:714
 translate german solarium_menu_eea00e7c:
 
     # aut "Мужчина начал двигать тазом в такт ее движениям."
-    aut "Мужчина начал двигать тазом в такт ее движениям."
+    aut "Der Mann wurde schneller in seinen Bewegungen."
 
 # game/DIA.rpy:716
 translate german solarium_menu_37c3d6e8:
 
     # aut "Клиент обильно кончил на грудь девушки."
-    aut "Клиент обильно кончил на грудь девушки."
+    aut "Der Mann kam viel auf Claires Brüsten."
 
 # game/DIA.rpy:717
 translate german solarium_menu_31a36555:
 
     # aut "Клэр терпеливо дождалась, когда упадет последняя капля."
-    aut "Клэр терпеливо дождалась, когда упадет последняя капля."
+    aut "Sie wartete den letzten Tropfen ab, bevor sie sich bewegte."
 
 # game/DIA.rpy:719
 translate german solarium_menu_6619678c:
 
     # aut "Внезапно она посмотрела в мою сторону."
-    aut "Внезапно она посмотрела в мою сторону."
+    aut "Plötzlich blickte sie in meine Richtung."
 
 # game/DIA.rpy:720
 translate german solarium_menu_85682141:
 
     # claire "Ваша очередь. Вы можете готовиться, а я пока приму душ."
-    claire "Ваша очередь. Вы можете готовиться, а я пока приму душ."
+    claire "Du bist dran. Mach dich schonmal bereit während ich schnell dusche."
 
 # game/DIA.rpy:726
 translate german solarium_menu_d12ace83:
 
     # aut "Увиденное возбудило меня, и я думала, что в конце сеанса меня тоже ожидает бурный оргазм."
-    aut "Увиденное возбудило меня, и я думала, что в конце сеанса меня тоже ожидает бурный оргазм."
+    aut "Was ich gesehen habe hat mich erregt. Ich dachte ich würde auch einen atemberaubenden Orgasmus haben am Ende der Behandlung."
 
 # game/DIA.rpy:731
 translate german solarium_menu_2e4a9b8a:
 
     # aut "Прикосновения Клэр были нежными и сильными одновременно."
-    aut "Прикосновения Клэр были нежными и сильными одновременно."
+    aut "Claires Berührung war gleichzeitig sanft und stark."
 
 # game/DIA.rpy:732
 translate german solarium_menu_3ef5498a:
 
     # aut "Массаж погрузил меня в приятный полусон."
-    aut "Массаж погрузил меня в приятный полусон."
+    aut "Die Massage leitete mich in einen sanften Halbschlaf."
 
 # game/DIA.rpy:743
 translate german solarium_menu_143cb559:
 
     # aut "Девушка массировала мое тело от ушей до кончиков пальцев ног."
-    aut "Девушка массировала мое тело от ушей до кончиков пальцев ног."
+    aut "Cöaire massierte mich von den Ohren bis hinunter zu den Zehenspitzen."
 
 # game/DIA.rpy:744
 translate german solarium_menu_bbac2adb:
 
     # aut "Впрочем было одно место, которого Клэр не коснулась, и бурного оргазма я так и не дождалась."
-    aut "Впрочем было одно место, которого Клэр не коснулась, и бурного оргазма я так и не дождалась."
+    aut "Aber einen Teil berührte sie nicht und ich hatte keinen solchen Orgasmus."
 
 # game/DIA.rpy:755
 translate german solarium_menu_6eadf590:
 
     # aut "Похоже, эта услуга предлагалась только мужчинам."
-    aut "Похоже, эта услуга предлагалась только мужчинам."
+    aut "Es scheint dieser Service war nur für Männer."
 
 # game/DIA.rpy:756
 translate german solarium_menu_82cc2506:
 
     # aut "Не смотря на это, я прекрасно расслабилась и отдохнула, пообещав себе как-нибудь прийти снова."
-    aut "Не смотря на это, я прекрасно расслабилась и отдохнула, пообещав себе как-нибудь прийти снова."
+    aut "Nichtsdestotrotz hat mich die Massage entspannt und erholt, so dass ich mir fest vornahm wiederzukommen."
 
 # game/DIA.rpy:774
 translate german solarium_menu_b9f7b092:
 
     # aut "Что может быть лучше долгого расслабляющего массажа от голой азиатки?"
-    aut "Что может быть лучше долгого расслабляющего массажа от голой азиатки?"
+    aut "Was könnte besser sein als von einer hübschen, nackten Asiating tiefenmassiert zu werden?"
 
 # game/DIA.rpy:779
 translate german solarium_menu_a8051cde:
 
     # aut "Только долгий расслабляющий массаж от голой азиатки, облитой блестящим маслом."
-    aut "Только долгий расслабляющий массаж от голой азиатки, облитой блестящим маслом."
+    aut "Nur eine Tiefenmassage von einer hübschen, nackten Asiatin die mit glitzerndem Öl bedeckt ist."
 
 # game/DIA.rpy:790
 translate german solarium_menu_200f9e01:
 
     # aut "Клэр знала мое тело лучше, чем я сама."
-    aut "Клэр знала мое тело лучше, чем я сама."
+    aut "Claire kannte meinen Körper besser als ich es tat."
 
 # game/DIA.rpy:801
 translate german solarium_menu_bbb74b7b:
 
     # aut "И я могла полностью доверить себя ее умелым нежным ручкам."
-    aut "И я могла полностью доверить себя ее умелым нежным ручкам."
+    aut "Ich konnte mich vertrauensvoll in ihre geschickten Hände begeben."
 
 # game/DIA.rpy:4576
 translate german molly_mast_118903d4:
 
     # gg2 zadum "Ой-ей, чуть не попала в неловкую ситуацию. Охранник Гарри без одежды позирует перед зеркалом."
-    gg2 zadum "Ой-ей, чуть не попала в неловкую ситуацию. Охранник Гарри без одежды позирует перед зеркалом."
+    gg2 zadum "Ohjeh, fast hätte ich mich in eine peinliche Situation begeben. Der Sicherheitschef Harry posierte nackt vor einem Spiegel."
 
 # game/DIA.rpy:4577
 translate german molly_mast_bcbcbbf7:
 
     # gg2 zadum "Может он бодибилдер и готовится к соревнованиям?"
-    gg2 zadum "Может он бодибилдер и готовится к соревнованиям?"
+    gg2 zadum "Vielleicht ist er Bodybuilder und übt für einen Wettkampf?"
 
 # game/DIA.rpy:4578
 translate german molly_mast_1fc745d8:
 
     # gg2 zadum "Мышцы так эффектно перекатываются под его кожей... Он выглядит таким сильным... Наверно, он мог бы просто поднять меня двумя руками, и..."
-    gg2 zadum "Мышцы так эффектно перекатываются под его кожей... Он выглядит таким сильным... Наверно, он мог бы просто поднять меня двумя руками, и..."
+    gg2 zadum "Die Muskeln unter seiner Haut bewegten sich ... Er sah so stark aus ... Wahrscheinlich könnte er mich ganz einfach hochheben und ..."
 
 # game/DIA.rpy:4579
 translate german molly_mast_3e6be28a:
 
     # gg2 sad "Ой, чего это я..."
-    gg2 sad "Ой, чего это я..."
+    gg2 sad "Ohjeh, was mach ich nur ..."
 
 # game/DIA.rpy:4581
 translate german molly_mast_1b4e13e1:
 
     # aut "Гарри принял новую позу, и я увидела его толстый член."
-    aut "Гарри принял новую позу, и я увидела его толстый член."
+    aut "Harry nahm eine neue Pose ein und ich sah seinen dicken Schwanz."
 
 # game/DIA.rpy:4582
 translate german molly_mast_b4e1b0d5:
 
     # gg2 zadum "Он совсем не боится, что кто-то может войти? Хоть бы дверь закрыл."
-    gg2 zadum "Он совсем не боится, что кто-то может войти? Хоть бы дверь закрыл."
+    gg2 zadum "Hat er keine Angst das jemand reinkommt? Wenigstens die Tür hätte er schließen können."
 
 # game/DIA.rpy:4583
 translate german molly_mast_705c783e:
 
     # gg2 zadum "Я уже несколько минут наблюдаю за ним, а он даже не заметил..."
-    gg2 zadum "Я уже несколько минут наблюдаю за ним, а он даже не заметил..."
+    gg2 zadum "Ich beobachte ihn schon ein paar Minuten und er hat es nicht bemerkt ..."
 
 # game/DIA.rpy:4585
 translate german molly_mast_55cc9c4c:
 
     # gg2 zadum "Кажется, он пошел в душ..."
-    gg2 zadum "Кажется, он пошел в душ..."
+    gg2 zadum "Ich denke er ist unter die Dusche ..."
 
 # game/DIA.rpy:4586
 translate german molly_mast_00634a62:
 
     # gg2 podozr "Спасибо! Я наконец смогу переодеться!"
-    gg2 podozr "Спасибо! Я наконец смогу переодеться!"
+    gg2 podozr "Danke! Endlich kann ich meine Klamotten wechseln!"
 
 # game/DIA.rpy:4588
 translate german molly_mast_8d79c2c6:
 
     # gg2 zadum "Какие-то странные звуки... Тут есть кто-то еще?"
-    gg2 zadum "Какие-то странные звуки... Тут есть кто-то еще?"
+    gg2 zadum "Seltsame Geräusche ... Ist da jemand?"
 
 # game/DIA.rpy:4589
 translate german molly_mast_5236e10a:
 
     # gg2 zadum "А это чья-то нога?"
-    gg2 zadum "А это чья-то нога?"
+    gg2 zadum "Ist das ein Bein?"
 
 # game/DIA.rpy:4592
 translate german molly_mast_816225ca:
 
     # gg udiv "Молли?!"
-    gg udiv "Молли?!"
+    gg udiv "Molly?!"
 
 # game/DIA.rpy:4593
 translate german molly_mast_4e78e6af:
 
     # gg2 udiv "Что она делает? Трахает лавку?"
-    gg2 udiv "Что она делает? Трахает лавку?"
+    gg2 udiv "Was macht sie?"
 
 # game/DIA.rpy:4595
 translate german molly_mast_ce472e87:
 
     # molly "А... Алекс?"
-    molly "А... Алекс?"
+    molly "Äh ... Alex?"
 
 # game/DIA.rpy:4596
 translate german molly_mast_11c97555:
 
     # aut "Молли резко остановилась, но ее ноги задрожали."
-    aut "Молли резко остановилась, но ее ноги задрожали."
+    aut "Molly hörte auf, aber ihre Beine wackelten noch."
 
 # game/DIA.rpy:4598
 translate german molly_mast_6ca17347:
 
     # molly "Нет... Не сейчас... Не сейчас..."
-    molly "Нет... Не сейчас... Не сейчас..."
+    molly "Nein ... Nicht jetzt ... Nicht jetzt ..."
 
 # game/DIA.rpy:4599
 translate german molly_mast_28f22143:
 
     # molly "Ох..."
-    molly "Ох..."
+    molly "Oh ..."
 
 # game/DIA.rpy:4601
 translate german molly_mast_0b2c4963:
 
     # aut "Молли привстала, и какое-то время ее продолжало трясти."
-    aut "Молли привстала, и какое-то время ее продолжало трясти."
+    aut "Molly setzte sich auf und für eine Weile zitterte sie noch."
 
 # game/DIA.rpy:4602
 translate german molly_mast_dc587c86:
 
     # aut "Кажется, я ворвалась прямо в момент ее оргазма."
-    aut "Кажется, я ворвалась прямо в момент ее оргазма."
+    aut "Ich denke ich bin direkt in ihren Orgasmus geplatzt."
 
 # game/DIA.rpy:4603
 translate german molly_mast_eceddcca:
 
     # aut "А трахала Молли не лавку, а большой искусственный член, который был на этой лавке закреплен."
-    aut "А трахала Молли не лавку, а большой искусственный член, который был на этой лавке закреплен."
+    aut "Molly hat nicht den Tisch gefickt, sondern den großen Dildo darauf."
 
 # game/DIA.rpy:4605
 translate german molly_mast_89ccfa16:
 
     # aut "Молли села."
-    aut "Молли села."
+    aut "Molly setzte sich."
 
 # game/DIA.rpy:4606
 translate german molly_mast_4f78a6cb:
 
     # molly "Да, Алекс... Умеешь ты кайф обломать..."
-    molly "Да, Алекс... Умеешь ты кайф обломать..."
+    molly "Ja Alex ... Du weißt genau wie du high wirst."
 
 # game/DIA.rpy:4607
 translate german molly_mast_02b5b745:
 
     # gg sad "Прости, я сама не знаю, что заставило меня открыть дверь."
-    gg sad "Прости, я сама не знаю, что заставило меня открыть дверь."
+    gg sad "Verzeihung, ich weiß nicht warum ich die Tür aufgemacht hab."
 
 # game/DIA.rpy:4608
 translate german molly_mast_2f036151:
 
     # gg sad "Тут ходил голый Гарри, и... и это сбило меня с толку."
-    gg sad "Тут ходил голый Гарри, и... и это сбило меня с толку."
+    gg sad "Harry ist nackt hier rumgelaufen und ... es hat mich verwirrt."
 
 # game/DIA.rpy:4610
 translate german molly_mast_7b529faf:
 
     # molly "Так ты тоже за Гарри подглядывала?"
-    molly "Так ты тоже за Гарри подглядывала?"
+    molly "Du hast also auch Harry bespitzelt?"
 
 # game/DIA.rpy:4611
 translate german molly_mast_c49be7fa:
 
     # gg udiv "Что?! Нет! Я просто случайно зашла..."
-    gg udiv "Что?! Нет! Я просто случайно зашла..."
+    gg udiv "Was?! Nein! Ich bin nur zufällig rein ..."
 
 # game/DIA.rpy:4612
 translate german molly_mast_1909cbeb:
 
     # gg podozr "Подожди... В смысле \"тоже\"?"
-    gg podozr "Подожди... В смысле \"тоже\"?"
+    gg podozr "Moment ... Was meinst du mit \"auch\"?"
 
 # game/DIA.rpy:4614
 translate german molly_mast_6541d357:
 
     # molly "Вот так я по-глупому и проболталась..."
-    molly "Вот так я по-глупому и проболталась..."
+    molly "Hab mich wohl verplappert ..."
 
 # game/DIA.rpy:4615
 translate german molly_mast_5bad174f:
 
     # molly "Гарри часто тут позирует. А мне нравится за ним наблюдать. За его телом, за тем, как его большой прибор раскачивается при движении..."
-    molly "Гарри часто тут позирует. А мне нравится за ним наблюдать. За его телом, за тем, как его большой прибор раскачивается при движении..."
+    molly "Harry posiert hier öfter. Und ich mag es ihn zu beobachten. Sein Körper ... wie sein Ding herumwirbelt ..."
 
 # game/DIA.rpy:4616
 translate german molly_mast_d891673d:
 
     # gg zadum "Но почему ты только подглядываешь? Думаю, из вас получилась бы отличная пара."
-    gg zadum "Но почему ты только подглядываешь? Думаю, из вас получилась бы отличная пара."
+    gg zadum "Warum beobachtest du nur? Ihr wäret ein hübsches Paar."
 
 # game/DIA.rpy:4618
 translate german molly_mast_a9e37b8e:
 
     # molly "Это вряд ли. Гарри гей и живет с парнем. Так что мне остается только втихаря наблюдать в щелочку."
-    molly "Это вряд ли. Гарри гей и живет с парнем. Так что мне остается только втихаря наблюдать в щелочку."
+    molly "Ich glaube nicht. Harry ist schwul und lebt mit einem Kerl zusammen. Also bleibt mir nur das Beobachten übrig."
 
 # game/DIA.rpy:4619
 translate german molly_mast_ebbb1860:
 
     # molly "Иногда он так увлекатся, что сам возбуждается от вида своего тела. А несколько раз он даже дрочил на свое отражение. Это было нечто..."
-    molly "Иногда он так увлекатся, что сам возбуждается от вида своего тела. А несколько раз он даже дрочил на свое отражение. Это было нечто..."
+    molly "Manchmal wird er ganz erregt von seinem eigenen Spiegelbild. Und einige Male hat er sich auf sein Spiegelbild einen runter geholt. Ich wünschte, du hättest das sehen können ..."
 
 # game/DIA.rpy:4622
 translate german molly_mast_d0c06e21:
 
     # molly "Но никогда не знаешь, когда у Гарри будет настроение попозировать. По этому мне приходится всегда носить с собой эту штуку."
-    molly "Но никогда не знаешь, когда у Гарри будет настроение попозировать. По этому мне приходится всегда носить с собой эту штуку."
+    molly "Aber man kann nie wissen, wann Harry der Drang überkommt zu posen. Darum hab ich das hier immer dabei."
 
 # game/DIA.rpy:4624
 translate german molly_mast_c86ecdb5:
 
     # gg zadum "Выглядит очень внушительно... И реалистично."
-    gg zadum "Выглядит очень внушительно... И реалистично."
+    gg zadum "Sieht imposant aus ... Und realistisch."
 
 # game/DIA.rpy:4625
 translate german molly_mast_22bf7260:
 
     # molly "И по ощущениям почти как настоящий член. "
-    molly "И по ощущениям почти как настоящий член. "
+    molly "Es fühlt sich fast an wie ein echter Schwanz."
 
 # game/DIA.rpy:4627
 translate german molly_mast_40e4b8fb:
 
     # molly "Забирай, если хочешь, у меня еще есть. Этот почти новый."
-    molly "Забирай, если хочешь, у меня еще есть. Этот почти новый."
+    molly "Nimm ihn wenn du magst. Ich hab den hier. Der ist noch fast neu."
 
 # game/DIA.rpy:4628
 translate german molly_mast_421357dc:
 
     # gg zadum "Ну что ты, не стоит."
-    gg zadum "Ну что ты, не стоит."
+    gg zadum "Das ist doch zuviel!"
 
 # game/DIA.rpy:4629
 translate german molly_mast_0031961a:
 
     # molly "Это моя скромная плата за то, чтобы это все осталось между нами. Он немного липкий сейчас, но это легко смывается."
-    molly "Это моя скромная плата за то, чтобы это все осталось между нами. Он немного липкий сейчас, но это легко смывается."
+    molly "Es ist nur eine kleine Bestechung damit das hier unter uns bleibt. Er ist zwar gerade etwas klebrig, aber das geht leicht ab."
 
 # game/DIA.rpy:4630
 translate german molly_mast_11d19c2f:
 
     # gg2 zadum "\"Немного липкий\" - это мягко сказано. Я даже вижу, как с него капает смазка Молли."
-    gg2 zadum "\"Немного липкий\" - это мягко сказано. Я даже вижу, как с него капает смазка Молли."
+    gg2 zadum "\"Etwas klebrig\" war eine Untertreibung. Man sah noch ihren Saft herunterlaufen."
 
 # game/DIA.rpy:4631
 translate german molly_mast_1f5e5650:
 
     # gg2 hit "Но это даже заводит."
-    gg2 hit "Но это даже заводит."
+    gg2 hit "Aber das machte ihn nur heißer."
 
 # game/DIA.rpy:4632
 translate german molly_mast_08401668:
 
     # gg smile "Ладно, обещаю унести твою тайну в могилу."
-    gg smile "Ладно, обещаю унести твою тайну в могилу."
+    gg smile "Okay, ich werde das Geheimnis wahren."
 
 # game/DIA.rpy:4633
 translate german molly_mast_80166963:
 
     # molly "Спасибо, Алекс. Если ты не против, я бы хотела одеться, пока Гарри из душа не вернулся."
-    molly "Спасибо, Алекс. Если ты не против, я бы хотела одеться, пока Гарри из душа не вернулся."
+    molly "Danke Alex. Wenn du nichts dagegen hast ziehe ich mich dann mal an, bevor Harry mit Duschen fertig ist."
 
 # game/DIA.rpy:4634
 translate german molly_mast_294df4bd:
 
     # gg smile "Конечно. Пока-пока..."
-    gg smile "Конечно. Пока-пока..."
+    gg smile "Natürlich. Wiedersehn ..."
 
 translate german strings:
 
     # game/DIA.rpy:548
     old "{color=#8c8c8d}Массаж (сеанс 200$){/color}"
-    new "{color=#8c8c8d}Массаж (сеанс 200$){/color}"
+    new "{color=#8c8c8d}Massage (Behandlung $ 200){/color}"
 
     # game/DIA.rpy:548
     old "{color=#faa8ff}Массаж{/color} (сеанс 200$)"
-    new "{color=#faa8ff}Массаж{/color} (сеанс 200$)"
+    new "{color=#faa8ff}Massage{/color} (Behandlung $200)"
 
     # game/DIA.rpy:688
     old "Доступно в Пн, Ср, Пт"
-    new "Доступно в Пн, Ср, Пт"
+    new "Geöffnet Montag, Mittwoch, Freitag"
 
     # game/DIA.rpy:1176
     old "{b}Где я могу купить кроссовки?{/b}"
-    new "{b}Где я могу купить кроссовки?{/b}"
+    new "{b}Wo kann ich Sneaker kaufen?{/b}"
 
     # game/DIA.rpy:1176
     old "{b}Мне нужен тренер{/b}"
-    new "{b}Мне нужен тренер{/b}"
+    new "{b}Ich brauche einen Lehrer{/b}"
 
     # game/DIA.rpy:1217
     old "Поговорить о тренажерном зале"
-    new "Поговорить о тренажерном зале"
+    new "Über das Fitnessstudio reden"
 
     # game/DIA.rpy:1298
     old "Принести Кевину плохие новости"
-    new "Принести Кевину плохие новости"
+    new "Kevin die schlechte Neuigkeit geben"
 
     # game/DIA.rpy:1454
     old "Убедить Кевина бороться({image=ritor0_.png} 19([ritor]))"
-    new "Убедить Кевина бороться({image=ritor0_.png} 19([ritor]))"
+    new "Kevin zum Kämpfen drängen({image=ritor0_.png} 19([ritor]))"
 
     # game/DIA.rpy:1812
     old "{color=#00ff00}{b}Где ты работаешь?{/b}{/color}"
-    new "{color=#00ff00}{b}Где ты работаешь?{/b}{/color}"
+    new "{color=#00ff00}{b}Wo arbeitest du?{/b}{/color}"
 
     # game/DIA.rpy:1988
     old "Заплатить Кондору 2000 или уговорить({image=sharm0_.png}70([allsharm]))"
-    new "Заплатить Кондору 2000 или уговорить({image=sharm0_.png}70([allsharm]))"
+    new "Bezahle oder überzeuge Condor({image=sharm0_.png}70([allsharm]))"
 
     # game/DIA.rpy:2175
     old "{color=#00ff00}{b}Уроки вокала{/b}{/color}"
-    new "{color=#00ff00}{b}Уроки вокала{/b}{/color}"
+    new "{color=#00ff00}{b}Gesangskurs{/b}{/color}"
 
     # game/DIA.rpy:2175
     old "{#image=ritor}{color=#00ff00}{b}Обещаю сохранить тайну{/b}{/color}"
-    new "{#image=ritor}{color=#00ff00}{b}Обещаю сохранить тайну{/b}{/color}"
+    new "{#image=ritor}{color=#00ff00}{b}Ich behalte es für mich{/b}{/color}"
 
     # game/DIA.rpy:2190
     old "Уговорить Сову({image=ritor0.png}14([ritor]))"
-    new "Уговорить Сову({image=ritor0.png}14([ritor]))"
+    new "Owl überzeugen ({image=ritor0.png}14([ritor]))"
 
     # game/DIA.rpy:2211
     old "Договориться с Фальцетом ({image=sharm0.png}65([allsharm]))"
-    new "Договориться с Фальцетом ({image=sharm0.png}65([allsharm]))"
+    new "Mit Falsetto verhandeln ({image=sharm0.png}65([allsharm]))"
 
     # game/DIA.rpy:2228
     old "{b}Мне нужна справка от гинеколога{/b}"
-    new "{b}Мне нужна справка от гинеколога{/b}"
+    new "{b}Ich brauche ein Zertifikat vom Gynäkologen{/b}"
 
     # game/DIA.rpy:2428
     old "Устроиться в казино ({image=sharm0_.png} 65([allsharm]), {image=smel_.png} 6([allsmel]))"
-    new "Устроиться в казино ({image=sharm0_.png} 65([allsharm]), {image=smel_.png} 6([allsmel]))"
+    new "Suche einen Job im Casino ({image=sharm0_.png} 65([allsharm]), {image=smel_.png} 6([allsmel]))"
 
     # game/DIA.rpy:2510
     old "Спросить про особенную работу ({image=smel_.png}20([allsmel]))"
-    new "Спросить про особенную работу ({image=smel_.png}20([allsmel]))"
+    new "Frage nach einem speziellen Job ({image=smel_.png}20([allsmel]))"
 
     # game/DIA.rpy:2569
     old "{color=#8c8c8d}{b}Вы проводите курсы?{/b}{/color}"
-    new "{color=#8c8c8d}{b}Вы проводите курсы?{/b}{/color}"
+    new "{color=#8c8c8d}{b}Bieten Sie Kurse an?{/b}{/color}"
 
     # game/DIA.rpy:2569
     old "{b}Вы проводите курсы?{/b}"
-    new "{b}Вы проводите курсы?{/b}"
+    new "{b}Bieten Sie Kurse an?{/b}"
 
     # game/DIA.rpy:2569
     old "{b}Начнем второе занятие{/b}"
-    new "{b}Начнем второе занятие{/b}"
+    new "{b}Fangen wir die zweite Stunde an{/b}"
 
     # game/DIA.rpy:2989
     old "{#image=power_h}{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
-    new "{#image=power_h}{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
+    new "{#image=power_h}{color=#8c8c8d}{b}Ich bin bereit zu lernen!{/b}{/color}"
 
     # game/DIA.rpy:2989
     old "{#image=agility_h}{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
-    new "{#image=agility_h}{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
+    new "{#image=agility_h}{color=#8c8c8d}{b}Ich bin bereit zu lernen!{/b}{/color}"
 
     # game/DIA.rpy:2989
     old "{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
-    new "{color=#8c8c8d}{b}Я готова заниматься!{/b}{/color}"
+    new "{color=#8c8c8d}{b}Ich bin bereit zu lernen!{/b}{/color}"
 
     # game/DIA.rpy:2989
     old "{b}Я готова заниматься!{/b}"
-    new "{b}Я готова заниматься!{/b}"
+    new "{b}Ich bin bereit zu lernen!{/b}"
 
     # game/DIA.rpy:3007
     old "Начать занятия у Рут({image=sila.png}10([power]), {image=agility.png}10([lovk]))"
-    new "Начать занятия у Рут({image=sila.png}10([power]), {image=agility.png}10([lovk]))"
+    new "Starte eine Stunde mit Ruth({image=sila.png}10([power]), {image=agility.png}10([lovk]))"
 
     # game/DIA.rpy:3199
     old "Недостаточный уровень вокала (10)"
-    new "Недостаточный уровень вокала (10)"
+    new "Unzureichende Gesangsfähigkeit (10)"
 
     # game/DIA.rpy:3549
     old "Поработать натурщицей в классе живописи (11:00-13:00) ({image=smel_.png} 8([allsmel]))"
-    new "Поработать натурщицей в классе живописи (11:00-13:00) ({image=smel_.png} 8([allsmel]))"
+    new "Als Model im Kunstunterricht arbeiten (11:00-13:00) ({image=smel_.png} 8([allsmel]))"
 
     # game/DIA.rpy:3775
     old "{b}На картины и кровать (1000$){/b}"
-    new "{b}На картины и кровать (1000$){/b}"
+    new "{b}Für Bilder und ein Bett (1000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}На картины и кровать (1000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}На картины и кровать (1000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Für Bilder und ein Bett (1000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{b}Хочу заказать у Тары несколько картин{/b}"
-    new "{b}Хочу заказать у Тары несколько картин{/b}"
+    new "{b}Ich möchte Bilder von Tara bestellen{/b}"
 
     # game/DIA.rpy:3775
     old "{b}Займемся последней комнатой{/b}"
-    new "{b}Займемся последней комнатой{/b}"
+    new "{b}Am letzten Raum arbeiten{/b}"
 
     # game/DIA.rpy:3775
     old "{b}Мне нужен туалет{/b}"
-    new "{b}Мне нужен туалет{/b}"
+    new "{b}Ich brauche eine Toilette{/b}"
 
     # game/DIA.rpy:3775
     old "{b}На студию и кухню (2000$){/b}"
-    new "{b}На студию и кухню (2000$){/b}"
+    new "{b}Studio und Küche (2000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}На студию и кухню (2000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}На студию и кухню (2000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Studio und Küche (2000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{b}На ремонт туалета (3000$){/b}"
-    new "{b}На ремонт туалета (3000$){/b}"
+    new "{b}Die Toilette reparieren (3000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}На ремонт туалета (3000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}На ремонт туалета (3000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Die Toilette reparieren (3000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{b}Закажите для меня мебель (4000$){/b}"
-    new "{b}Закажите для меня мебель (4000$){/b}"
+    new "{b}Bestell Möbel für mich (4000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}Закажите для меня мебель (4000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Закажите для меня мебель (4000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Bestell Möbel for mich (4000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{#image=ritor_h}{color=#8c8c8d}{b}Сделайте скидку{/b}{/color}"
-    new "{#image=ritor_h}{color=#8c8c8d}{b}Сделайте скидку{/b}{/color}"
+    new "{#image=ritor_h}{color=#8c8c8d}{b}Einen Rabatt kriegen{/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{#image=ritor}{b}Сделайте скидку{/b}"
-    new "{#image=ritor}{b}Сделайте скидку{/b}"
+    new "{#image=ritor}{b}Einen Rabatt kriegen{/b}"
 
     # game/DIA.rpy:3775
     old "{b}Приступайте к работе (3000$){/b}"
-    new "{b}Приступайте к работе (3000$){/b}"
+    new "{b}An die Arbeit (3000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}Приступайте к работе (3000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Приступайте к работе (3000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}An die Arbeit (3000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{b}Займитесь лестницей (2000$){/b}"
-    new "{b}Займитесь лестницей (2000$){/b}"
+    new "{b}Um die Treppe kümmern (2000$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}Займитесь лестницей (2000$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Займитесь лестницей (2000$){/b}{/color}"
+    new "{color=#8c8c8d}{b}Um die Treppe kümmern (2000$){/b}{/color}"
 
     # game/DIA.rpy:3775
     old "{b}Приступайте к работе (2500$){/b}"
-    new "{b}Приступайте к работе (2500$){/b}"
+    new "{b}An die Arbeit (2500$){/b}"
 
     # game/DIA.rpy:3775
     old "{color=#8c8c8d}{b}Приступайте к работе (2500$){/b}{/color}"
-    new "{color=#8c8c8d}{b}Приступайте к работе (2500$){/b}{/color}"
+    new "{color=#8c8c8d}{b}An die Arbeit (2500$){/b}{/color}"
 
     # game/DIA.rpy:4653
     old "Опробовать дилдо с присоской у себя в комнате ночью."
-    new "Опробовать дилдо с присоской у себя в комнате ночью."
+    new "Probiere einen Dildo mit Saugnapf nachts in deinem Zimmer"
 

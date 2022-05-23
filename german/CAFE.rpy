@@ -2208,181 +2208,181 @@ translate german hot_arctic_open_b2ba20c6:
 translate german cafedir_a54aa528:
 
     # "Бар закрывается."
-    ""
+    "Die Bar schließt."
 
 # game/CAFE.rpy:294
 translate german cafewc_a54aa528:
 
     # "Бар закрывается."
-    ""
+    "Die Bar schließt."
 
 # game/CAFE.rpy:1569
 translate german jane_first_meet_9584a40f:
 
     # jane "Алекс! Ты хотела встретиться, пообщаться. Предлагаю увидеться завтра. Если ты не передумала, конечно."
-    jane ""
+    jane "Alex! Du wolltest doch was mit mir bereden. Ich würd vorschlagen wir treffen uns morgen."
 
 # game/CAFE.rpy:1571
 translate german jane_first_meet_2aa958e1:
 
     # gg smile "Что ты! Конечно, я не передумала! А у тебя разве не рабочий день?"
-    gg smile ""
+    gg smile "Sicher doch. Aber musst du nicht arbeiten?"
 
 # game/CAFE.rpy:1573
 translate german jane_first_meet_4439e4a0:
 
     # gg smile "Что ты! Конечно, я не передумала! А во сколько?"
-    gg smile ""
+    gg smile "Sicher doch. Wann passt es dir am Besten?"
 
 # game/CAFE.rpy:1575
 translate german jane_first_meet_7beaa61b:
 
     # jane "Завтра меня Аманда подменит. Отдаст старый должок. Давай в 12 на остановке."
-    jane ""
+    jane "Amanda übernimmt morgen, sie will eine alte Schuld begleichen. Lass uns an der Bushaltestelle um 12 treffen."
 
 # game/CAFE.rpy:1577
 translate german jane_first_meet_28de26f0:
 
     # jane "Давай в 12 на остановке."
-    jane ""
+    jane "Lass uns an der Bushaltestelle um 12 treffen."
 
 # game/CAFE.rpy:1578
 translate german jane_first_meet_78c0e6e5:
 
     # gg2 smile "Отлично! Договорились!"
-    gg2 smile ""
+    gg2 smile "Klasse! Abgemacht!"
 
 # game/CAFE.rpy:1592
 translate german hot_arctic_work_33ce4c7b:
 
     # aut "Первые 2 часа \"Hot Arctic\" был похож на обычный бар."
-    aut ""
+    aut "In den ersten 2 Stunden war das \"Hot Arctic\" eine normale Bar."
 
 # game/CAFE.rpy:1597
 translate german hot_arctic_work_0bf5f30d:
 
     # aut "Если не считать того, что на мне не было трусиков, то мы выполняли роль барменш, наливая напитки и мило улыбаясь."
-    aut ""
+    aut "Abgesehen von meiner Freiheit untenrum agierten wir als normale Bartender. Wir schenkten Drinks aus und Lächelten."
 
 # game/CAFE.rpy:1601
 translate german hot_arctic_work_6612aa18:
 
     # aut "Но примерно в 23:00 Аманда открыла бутылку шампанского и с лукавой улыбкой повернулась к гостям."
-    aut ""
+    aut "Aber um 23 Uhr öffnete Amanda eine Flasche Champagner und grinste zu den Gästen."
 
 # game/CAFE.rpy:1602
 translate german hot_arctic_work_cb4428f2:
 
     # aut "Аманда начала трясти бутылку, а гости одобрительно закричали, зная, что сейчас будет."
-    aut ""
+    aut "Amanda schüttelte die Flasche und die Gäste gröhlten, wussten Sie doch was kommt."
 
 # game/CAFE.rpy:1606
 translate german hot_arctic_work_4ed7518c:
 
     # aut "Через несколько секунд мы мокрые с ног до головы забрались на барную стойку."
-    aut ""
+    aut "Einige Sekunden später, nass bis auf die Haut, kletterten wir auf die Bar."
 
 # game/CAFE.rpy:1608
 translate german hot_arctic_work_10fd6058:
 
     # aut "Публика начала ликовать, и всё в зале пришло в движение."
-    aut ""
+    aut "Das Publikum jubelte" und der ganze Raum bewegte sich.
 
 # game/CAFE.rpy:1613
 translate german hot_arctic_work_53d90631:
 
     # aut "Это можно было сравнить с выступлением на сцене. Энергия из зала заряжала и пьянила."
-    aut ""
+    aut "Das Gefühl war fast wie auf einem Konzert. Gleichzeitig erregend und benebelnd."
 
 # game/CAFE.rpy:1614
 translate german hot_arctic_work_14b9c06c:
 
     # aut "Запрыгнув на барную стойку, я тут же забыла, что на мне из одежды только мокрая прозрачная майка."
-    aut ""
+    aut "Ich bin auch auf die Bar gesprungen. Ich hatte sofort vergessen, dass ich ausser einem nassen und transparentem T-Shirt nichts trug."
 
 # game/CAFE.rpy:1619
 translate german hot_arctic_work_b6f9a4b2:
 
     # aut "Зато этот факт не ускользнул от внимания Джейн, которая неожиданно оказалась у моих ног."
-    aut ""
+    aut "Aber Jane fiel das natürlich sofort auf und im Nu war sie bei meinen Füßen."
 
 # game/CAFE.rpy:1620
 translate german hot_arctic_work_47710886:
 
     # aut "Публика взорвалась авациями, когда Джейн коснулась губами моей промежности."
-    aut ""
+    aut "Das Publikum brach in Applaus und Jubel aus als ihre Lippen meinen Schritt berührten."
 
 # game/CAFE.rpy:1622
 translate german hot_arctic_work_027fd7dc:
 
     # aut "Это уже выходило за рамки изначальной задумки бара. Аманда тоже не собиралась выполнять правила и начала демонстрировать публике свое красивое тело."
-    aut ""
+    aut "Das ist schon weiter gegangen als die ursprüngliche Idee für die Bar. Amanda hielt sich auch nicht an die Regeln und präsentierte ihren schönen Körper dem Publikum."
 
 # game/CAFE.rpy:1629
 translate german hot_arctic_work_8d36a8d3:
 
     # aut "Глядя на нас, она не смогла сдерживаться, и запустила руку в шорты."
-    aut ""
+    aut "Sie konnte sich nicht zurückhalten. Ihre Hand glitt in ihre Shorts."
 
 # game/CAFE.rpy:1630
 translate german hot_arctic_work_a82070b2:
 
     # aut "Или это была часть шоу?"
-    aut ""
+    aut "Ist das auch Teil der Show?"
 
 # game/CAFE.rpy:1631
 translate german hot_arctic_work_576b1f51:
 
     # aut "Гости сходили с ума."
-    aut ""
+    aut "Die Gäste drehten durch."
 
 # game/CAFE.rpy:1640
 translate german hot_arctic_work_5b6c772c:
 
     # aut "Происходящее уже не было похоже на бар \"Гадкий Койот\". Это был безумный спектакль похоти и разврата."
-    aut ""
+    aut "Es war schon lange keine \"Ugly Coyote\" Vorstellung mehr. Es war ein Festival von Lust und Sünde."
 
 # game/CAFE.rpy:1641
 translate german hot_arctic_work_c6abbd6b:
 
     # aut "Думаю, в эту ночь в Красном Квартале после нашего выступления был аншлаг."
-    aut ""
+    aut "Ich denke der Rote Bezirk hat gut zu tun nach unserer Vorstellung."
 
 # game/CAFE.rpy:1660
 translate german hot_arctic_work_6eb05d67:
 
     # aut "После горячего шоу пришла суровая реальность. Весь тот бардак, что устроили гости, нужно было убирать."
-    aut ""
+    aut "Aber nach der geilen Show kam die harsche Realität. Der ganze Dreck den die Gäste hinterlassen haben musste beseitigt werden."
 
 # game/CAFE.rpy:1661
 translate german hot_arctic_work_3ccad3bd:
 
     # aut "Хоть мы и были втроем, времени пришлось потратить много."
-    aut ""
+    aut "Auch zu dritt dauerte das lange Menge Zeit."
 
 # game/CAFE.rpy:1662
 translate german hot_arctic_work_77173261:
 
     # alex "Как же я устала... У вас каждый раз так?"
-    alex ""
+    alex "Ich bin kaputt ... Ist das immer so heftig?"
 
 # game/CAFE.rpy:1664
 translate german hot_arctic_work_7a74397f:
 
     # amanda "Такого отрыва, как сегодня, раньше не было. И бардака было поменьше. Сегодня же скажу Пэрис, что нам нужна уборщица."
-    amanda ""
+    amanda "Es gab noch nie vorher so eine explosive Show. Und auch noch nie soviel Dreck. Ich sag Paris wir brauchen eine Reinigungskraft."
 
 # game/CAFE.rpy:1669
 translate german hot_arctic_work_90019845:
 
     # aut "Сразу после закрытия Рада приступила к работе."
-    aut ""
+    aut "Sofort nach dem Schließen der Tür machte sich Rada an die Arbeit."
 
 # game/CAFE.rpy:1671
 translate german hot_arctic_work_ed42a269:
 
     # aut "Она делала все очень быстро и качественно. Казалось, работа ее совсем не утомляет."
-    aut ""
+    aut "Sie arbeitete schnell und effizient. Ihre Arbeit schien sie nicht zu ermüden."
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -2390,49 +2390,49 @@ translate german hot_arctic_work_ed42a269:
 translate german cafedir_b30b560b:
 
     # jane "Ну как? Ты теперь с нами?"
-    jane "Ну как? Ты теперь с нами?"
+    jane "Na? Bist du dabei?"
 
 # game/CAFE.rpy:265
 translate german cafedir_17ecbdd8:
 
     # gg smile "Да, кажется, меня взяли."
-    gg smile "Да, кажется, меня взяли."
+    gg smile "Ja, ich glaube ich bin angestellt."
 
 # game/CAFE.rpy:267
 translate german cafedir_94ed9ba5:
 
     # jane "Я очень рада! Тут одной бывает так скучно..."
-    jane "Я очень рада! Тут одной бывает так скучно..."
+    jane "Da bin ich aber froh. Es kann hier manchmal langweilig sein ..."
 
 # game/CAFE.rpy:269
 translate german cafedir_9e87de6d:
 
     # jane "Можешь приступать прямо сейчас. Обращайся за помощью в любой момент!"
-    jane "Можешь приступать прямо сейчас. Обращайся за помощью в любой момент!"
+    jane "Du kannst sofort anfangen. Scheu dich nicht um Hilfe zu fragen!"
 
 translate german strings:
 
     # game/CAFE.rpy:254
     old "Рассказать Валери о работе дома"
-    new "Рассказать Валери о работе дома"
+    new "Erzähl Valerie von dem Job zu Hause"
 
     # game/CAFE.rpy:452
     old "Поговорить с Пэрис в Красном Квартале({image=smel_.png} 19([allsmel]))"
-    new "Поговорить с Пэрис в Красном Квартале({image=smel_.png} 19([allsmel]))"
+    new "Rede mit Paris im Roten Viertel({image=smel_.png} 19([allsmel]))"
 
     # game/CAFE.rpy:543
     old "{#image=cour} {b}Сделать селфи{/b}"
-    new "{#image=cour} {b}Сделать селфи{/b}"
+    new "{#image=cour} {b}Selfie aufnehmen{/b}"
 
     # game/CAFE.rpy:1594
     old "Зайти к Пэрис"
-    new "Зайти к Пэрис"
+    new "Gehe zu Paris"
 
     # game/CAFE.rpy:1595
     old "Зайти к Хозяйке (21:00-23:00)"
-    new "Зайти к Хозяйке (21:00-23:00)"
+    new "Gehe zur Chefin (21:00-23:00)"
 
     # game/CAFE.rpy:1706
     old "Зайти в \"Hot Arctic\" днем"
-    new "Зайти в \"Hot Arctic\" днем"
+    new "Besuche \"Hot Arctic\" am Tag"
 
