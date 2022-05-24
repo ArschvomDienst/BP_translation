@@ -222,7 +222,7 @@ translate german gloryroom_sex_a865367d:
 translate german gloryroom_sex_00e0b153:
 
     # paris "Я просто обязана познакомить тебя с Хозяйкой."
-    paris "Ich muß Dich auf jeden Fall umgehend der Chefin vorstellen."
+    paris "Ich muß Dich auf jeden Fall umgehend der Herrin vorstellen."
 
 # game/RED.rpy:135
 translate german gloryroom_sex_9e576872:
@@ -234,7 +234,7 @@ translate german gloryroom_sex_9e576872:
 translate german gloryroom_sex_d7bf4e18:
 
     # paris "Судя по твоим стонам сегодня, ты уверена. Но тебе нужно все обдумать, я понимаю. Когда Хозяйка будет готова тебя принять, я найду тебя в кафе. А пока можешь отдыхать. Вот твои деньги."
-    paris "Nach Deinem Stöhnen zu urteilen, bist Du Dir da ganz sicher. Aber Du mußt darüber nachdenken, schon klar. Wenn die Chefin Dich empfangen will, komme ich zu Dir ins Café. Ruh' Dich inzwischen aus. Hier ist Dein Geld."
+    paris "Nach Deinem Stöhnen zu urteilen, bist Du Dir da ganz sicher. Aber Du mußt darüber nachdenken, schon klar. Wenn die Herrin Dich empfangen will, komme ich zu Dir ins Café. Ruh' Dich inzwischen aus. Hier ist Dein Geld."
 
 # TODO: Translation updated at 2020-08-06 17:42
 
@@ -370,7 +370,7 @@ translate german strings:
 translate german mistress_find_paris_e9e0f163:
 
     # aut "В этот раз кроме Хозяйки в помещении никого не было."
-    aut "Diesmal ist nur die Chefin im Raum."
+    aut "Diesmal ist nur die Herrin im Raum."
 
 # game/RED.rpy:341
 translate german mistress_find_paris_06ed0f8e:
@@ -436,7 +436,7 @@ translate german mistress_find_paris_60484b99:
 translate german mistress_find_paris_69f19f60:
 
     # aut "Хозяйка замолчала и затянулась."
-    aut "Die Chefin verstummt und nimmt einen tiefen Zug."
+    aut "Die Herrin verstummt und nimmt einen tiefen Zug."
 
 # game/RED.rpy:354
 translate german mistress_find_paris_c3a7db84:
@@ -538,19 +538,19 @@ translate german mistress_find_paris_336ed103:
 translate german mistress_find_paris_5a3e786b:
 
     # aut "Больше Хозяйка ничего не сказала. Она отвернулась и продолжила курить."
-    aut "Mehr hat die Chefin nicht zu sagen. Sie wendet sich ab und raucht weiter."
+    aut "Mehr hat die Herrin nicht zu sagen. Sie wendet sich ab und raucht weiter."
 
 # game/RED.rpy:375
 translate german mistress_find_paris_53ca9834:
 
     # gg2 zadum "Если Пэрис решит остаться, это будет на руку не только Хозяйке, но и Джейн с Амандой. Да и я буду только рада."
-    gg2 zadum "Falls Paris wirklich dableibt, wäre das nicht nur für die Chefin, sondern auch für Jane und Amanda von Vorteil. Und ich wäre einfach nur froh."
+    gg2 zadum "Falls Paris wirklich dableibt, wäre das nicht nur für die Herrin, sondern auch für Jane und Amanda von Vorteil. Und ich wäre einfach nur froh."
 
 # game/RED.rpy:393
 translate german mist_paris_party_2904255e:
 
     # aut "\"Проводы\" Пэрис представляли собой посиделки с шампанским в тесном кругу. Если бы не полупрозрачное платье Хозяйки и голая официантка, это было бы похоже на обычную вечеринку старых подруг."
-    aut "Die »Abschiedsparty« stellt sich als Champagnerschlürfen im kleinen Kreis heraus. Es würde gut als Mädelabend durchgehen, wäre da nicht dieses transparente Kleid der Chefin und ihre nackte Assistentin."
+    aut "Die »Abschiedsparty« stellt sich als Champagnerschlürfen im kleinen Kreis heraus. Es würde gut als Mädelabend durchgehen, wäre da nicht dieses transparente Kleid der Herrin und ihre nackte Assistentin."
 
 # game/RED.rpy:395
 translate german mist_paris_party_dff38446:
@@ -664,7 +664,7 @@ translate german mist_paris_party_34fd0289:
 translate german mist_paris_party_fb1c6f45:
 
     # aut "Я начала понимать, что за игру затеяла Хозяйка. Это был спектакль для Пэрис, и я в нем была обычным статистом."
-    aut "Nun macht es »Klick« bei mir. Die Chefin spielt ein Spiel um Paris. Darin bin ich nur eine Schachfigur."
+    aut "Nun macht es »Klick« bei mir. Die Herrin spielt ein Spiel um Paris. Darin bin ich nur eine Schachfigur."
 
 # game/RED.rpy:435
 translate german mist_paris_party_239556c0:
@@ -724,7 +724,7 @@ translate german mist_paris_party_6dfc0b63:
 translate german mist_paris_party_5fc32954:
 
     # aut "Хозяйка указала на голую официантку, которая сейчас с подносом стояла на коленях возле стенки. На ее шее был тяжелый ошейник, пристегнутый к соскам при помощи зажимов."
-    aut "Die Chefin zeigt auf ihre nackte Dienerin, die gerade mit einem Tablett in der Hand nahe der Wand kniet. Sie trägt so ein schweres Halsband, von dem aus Ketten an ihren Brustwarzen befestigt sind."
+    aut "Die Herrin zeigt auf ihre nackte Dienerin, die gerade mit einem Tablett in der Hand nahe der Wand kniet. Sie trägt so ein schweres Halsband, von dem aus Ketten an ihren Brustwarzen befestigt sind."
 
 # game/RED.rpy:455
 translate german mist_paris_party_c2ccbbc8:
@@ -796,7 +796,7 @@ translate german mist_paris_party_d6e201c8:
 translate german mist_paris_party_a9ac94c1:
 
     # aut "Хозяйка сбросила на пол платье и села на диван."
-    aut "Die Chefin entledigt sich des Kleides und platziert sich auf dem Sofa."
+    aut "Die Herrin entledigt sich des Kleides und platziert sich auf dem Sofa."
 
 # game/RED.rpy:478
 translate german mist_paris_party_40e39ecb:
@@ -838,7 +838,7 @@ translate german mist_paris_party_c9ff4e7a:
 translate german mist_paris_party_5f9e1d77:
 
     # aut "Она забралась на диван и села на Хозяйку, направив в себя ее член."
-    aut "Dort angekommen, klettert sie auf die Chefin und führt sich deren Schwanz ein."
+    aut "Dort angekommen, klettert sie auf die Herrin und führt sich deren Schwanz ein."
 
 # game/RED.rpy:500
 translate german mist_paris_party_48c83339:
@@ -868,7 +868,7 @@ translate german mist_paris_party_87eaaefd:
 translate german mist_paris_party_cbdb68ed:
 
     # aut "Тем временем Пэрис забралась на диван и села на Хозяйку, направив в себя ее член."
-    aut "Zur gleichen Zeit klettert Paris auf die Chefin und führt sich deren Schwanz ein."
+    aut "Zur gleichen Zeit klettert Paris auf die Herrin und führt sich deren Schwanz ein."
 
 # game/RED.rpy:515
 translate german mist_paris_party_sex_9df5333e:
@@ -904,7 +904,7 @@ translate german mist_paris_party_sex_2fe0714d:
 translate german mist_paris_party_sex_204cc0cb:
 
     # aut "Хозяйка смотрела на меня, пока Пэрис все глубже и быстрее насаживалась на ее влажный фаллос."
-    aut "Die Chefin schaut mich an, während Paris den nassen Phallus immer schneller immer tiefer rutschen läßt."
+    aut "Die Herrin schaut mich an, während Paris den nassen Phallus immer schneller immer tiefer rutschen läßt."
 
 # game/RED.rpy:525
 translate german mist_paris_party_sex_54be4777:
@@ -940,7 +940,7 @@ translate german mist_paris_party_sex_7adc0e51:
 translate german mist_paris_party_sex_0d2cd9bd:
 
     # aut "Хозяйка столкнула с себя Пэрис и сильным движением развернула ее спиной к себе."
-    aut "Die Chefin schiebt Paris kraftvoll von sich weg, so daß sie ihr jetzt den Rücken zuwendet."
+    aut "Die Herrin schiebt Paris kraftvoll von sich weg, so daß sie ihr jetzt den Rücken zuwendet."
 
 # game/RED.rpy:532
 translate german mist_paris_party_sex_7477d60a:
@@ -952,7 +952,7 @@ translate german mist_paris_party_sex_7477d60a:
 translate german mist_paris_party_sex_143e1729:
 
     # aut "Сильным безжалостным движением Хозяйка до половины вогнала член в задницу Пэрис."
-    aut "Gnadenlos und kraftvoll treibt die Chefin eine Hälfte davon in Paris' Hintern."
+    aut "Gnadenlos und kraftvoll treibt die Herrin eine Hälfte davon in Paris' Hintern."
 
 # game/RED.rpy:535
 translate german mist_paris_party_sex_9241d460:
@@ -964,7 +964,7 @@ translate german mist_paris_party_sex_9241d460:
 translate german mist_paris_party_sex_6d593fe6:
 
     # aut "Хозяйка уже ничего не говорила, а просто жестко трахала нового директора кафе."
-    aut "Und also fickt die Chefin schweigend und hart die neue Chefin des Cafés."
+    aut "Und also fickt die Herrin schweigend und hart die neue Herrin des Cafés."
 
 # game/RED.rpy:544
 translate german mist_paris_party_sex_2670d96a:
@@ -982,7 +982,7 @@ translate german mist_paris_party_sex_02db31e9:
 translate german mist_paris_party_sex_08c1e409:
 
     # aut "Пэрис кончила несколько раз. Хозяйка не сбавляла темп и продолжала насаживать обмякшее молодое тело."
-    aut "Paris kommt ein paar Mal. Die Chefin läßt nicht nach und bohrt sich immer wieder in den erschöpften jungen Körper."
+    aut "Paris kommt ein paar Mal. Die Herrin läßt nicht nach und bohrt sich immer wieder in den erschöpften jungen Körper."
 
 # game/RED.rpy:549
 translate german mist_paris_party_sex_b0e2b252:
@@ -1018,7 +1018,7 @@ translate german mist_paris_party_sex_ae455455:
 translate german mist_paris_party_sex_a5594a3c:
 
     # aut "Клара залезла на диван и принялась облизывать руку Хозяйки."
-    aut "Sie klettert hinüber und lutscht eifrig die Finger der Chefin ab."
+    aut "Sie klettert hinüber und lutscht eifrig die Finger der Herrin ab."
 
 # game/RED.rpy:562
 translate german mist_paris_party_sex_010d1e38:
@@ -1054,7 +1054,7 @@ translate german mist_paris_party_sex_a8f240af:
 translate german mist_paris_party_sex_e594d8e0:
 
     # aut "Я легла на диван, и Хозяйка легко подняла меня за ноги. Ее член снова был в боевой готовности и все еще блестел от смазки Пэрис."
-    aut "Ich mache es mir auf dem Diwan bequem. Die Chefin hebt meine Beine an. Ihr Teil ist schon wieder bereit und schimmert noch naß vom Treiben mit Paris."
+    aut "Ich mache es mir auf dem Diwan bequem. Die Herrin hebt meine Beine an. Ihr Teil ist schon wieder bereit und schimmert noch naß vom Treiben mit Paris."
 
 # game/RED.rpy:573
 translate german mist_paris_party_sex_2ee2e9e0:
@@ -1072,13 +1072,13 @@ translate german mist_paris_party_sex_fafcea6a:
 translate german mist_paris_party_sex_df116f2e:
 
     # aut "С каждым толчком Хозяйка тоже стонала все сильнее."
-    aut "Auch die Chefin stöhnt nun bei jedem Stoß stärker."
+    aut "Auch die Herrin stöhnt nun bei jedem Stoß stärker."
 
 # game/RED.rpy:586
 translate german mist_paris_party_sex_995f08a7:
 
     # aut "А вскоре я услышала стоны Пэрис, которую обрабатывала владелица сети винных магазинов."
-    aut "Bald stimmt auch Paris ein, die von der Chefin der Weinhandlungskette wieder aufgemuntert wurde."
+    aut "Bald stimmt auch Paris ein, die von der Herrin der Weinhandlungskette wieder aufgemuntert wurde."
 
 # game/RED.rpy:591
 translate german mist_paris_party_sex_ad90d84f:
@@ -1096,7 +1096,7 @@ translate german mist_paris_party_sex_cdcafedc:
 translate german mist_paris_party_sex_20299485:
 
     # aut "Хозяйка ускорялась. Она почти полностью выходила из меня, чтобы как можно глубже войти."
-    aut "Die Chefin beschleunigt. Dabei zieht sie sich fast vollständig zurück, um im Stoß noch tiefer einzudringen."
+    aut "Die Herrin beschleunigt. Dabei zieht sie sich fast vollständig zurück, um im Stoß noch tiefer einzudringen."
 
 # game/RED.rpy:596
 translate german mist_paris_party_sex_fb2e8b14:
@@ -1126,7 +1126,7 @@ translate german mist_paris_party_sex_295020e4:
 translate german mist_paris_party_sex_65cb57f2:
 
     # aut "Пока Клара слизывала с моего живота теплую жидкость, Хозяйка и Пэрис, не надевая одежды, буднично решали какие-то рабочие нюансы."
-    aut "Während Clara liebevoll meinen Bauch ableckt, reden Paris und die Chefin, weiter unbekleidet, über erste geschäftliche Details."
+    aut "Während Clara liebevoll meinen Bauch ableckt, reden Paris und die Herrin, weiter unbekleidet, über erste geschäftliche Details."
 
 # game/RED.rpy:623
 translate german mist_paris_party_sex_41a39e71:
@@ -1150,7 +1150,7 @@ translate german mist_paris_party_sex_0253cadb:
 translate german mist_paris_party_sex_b2aa91a3:
 
     # aut "Я могла только восхищаться талантом Хозяйки, которая за несколько минут сделала то, что не удалось Джейн и Аманде за все эти дни."
-    aut "Die Chefin hat ein bewundernswertes Talent, die Dinge in Fluß zu bringen. In wenigen Minuten entsteht etwas, worüber Jane und Amanda tagelang ergebnislos diskutiert hatten."
+    aut "Die Herrin hat ein bewundernswertes Talent, die Dinge in Fluß zu bringen. In wenigen Minuten entsteht etwas, worüber Jane und Amanda tagelang ergebnislos diskutiert hatten."
 
 # game/RED.rpy:629
 translate german mist_paris_party_sex_d9b52a58:
@@ -1294,13 +1294,13 @@ translate german highway_sluts_4dc4e0ec:
 translate german highway_sluts_7bdc885f:
 
     # celeste "Эй! Тебя Хозяйка прислала? Эта сука уже и так переманила у меня всех девочек. Племянницу я ей не отдам!"
-    celeste "Hey! Hat Dich die Chefin geschickt? Diese Schlampe hat mir schon alle Mädchen weggelockt. Meine Nichte gebe ich nicht her!"
+    celeste "Hey! Hat Dich die Herrin geschickt? Diese Schlampe hat mir schon alle Mädchen weggelockt. Meine Nichte gebe ich nicht her!"
 
 # game/RED.rpy:793
 translate german highway_sluts_23bb5f68:
 
     # gg udiv "Что? Какая хозяйка? Я... Я просто прогуливаюсь..."
-    gg udiv "Wie bitte? Welche Chefin? Ich ... ich mache hier nur einen Spaziergang ..."
+    gg udiv "Wie bitte? Welche Herrin? Ich ... ich mache hier nur einen Spaziergang ..."
 
 # game/RED.rpy:794
 translate german highway_sluts_3d26110f:
@@ -1312,7 +1312,7 @@ translate german highway_sluts_3d26110f:
 translate german highway_sluts_10639a97:
 
     # flavie "Та самая Хозяйка, которая испортила вам жизнь, тетя?"
-    flavie "Dieselbe Chefin, die Dein Leben ruiniert hat, Tante?"
+    flavie "Dieselbe Herrin, die Dein Leben ruiniert hat, Tante?"
 
 # game/RED.rpy:796
 translate german highway_sluts_2978eb14:
@@ -1762,7 +1762,7 @@ translate german gloryroom_work_346deb12:
 translate german martina_mist_dp_27ef8279:
 
     # gg zadum "Ой, я не вовремя? А Хозяйки нет?"
-    gg zadum "Schlechter Zeitpunkt? Ist die Chefin hier?"
+    gg zadum "Schlechter Zeitpunkt? Ist die Herrin hier?"
 
 # game/RED.rpy:1011
 translate german martina_mist_dp_13534c25:
@@ -1828,7 +1828,7 @@ translate german martina_mist_dp_63184cf0:
 translate german martina_mist_dp_2a86bbbb:
 
     # martina "Что ты думаешь по этому поводу, Алекс? Хочешь присесть своей упругой задницей на мой член?"
-    martina "Was hälst du von der Idee, Alex? Warte doch auf die Chefin auf meinem Schwanz."
+    martina "Was hälst du von der Idee, Alex? Warte doch auf die Herrin auf meinem Schwanz."
 
 # game/RED.rpy:1033
 translate german martina_mist_dp_317f2b44:
@@ -2044,7 +2044,7 @@ translate german martina_mist_dp_9560d9d7:
 translate german martina_mist_dp_aa271f54:
 
     # aut "Хозяйка начала медленно входить."
-    aut "Die Chefin drang langsam ein."
+    aut "Die Herrin drang langsam ein."
 
 # game/RED.rpy:1142
 translate german martina_mist_dp_dee59f02:
@@ -2074,7 +2074,7 @@ translate german martina_mist_dp_4ae82dc2:
 translate german martina_mist_dp_86992606:
 
     # aut "Я опустила голову и увидела, что член Хозяйки почти полностью вошел в меня."
-    aut "Ich schaute nach unten und vom Schwanz der Chefin war fast nichts mehr zu sehen."
+    aut "Ich schaute nach unten und vom Schwanz der Herrin war fast nichts mehr zu sehen."
 
 # game/RED.rpy:1174
 translate german martina_mist_dp_c908cfde:
@@ -2116,7 +2116,7 @@ translate german martina_mist_dp_112b989c:
 translate german martina_mist_dp_c342b34e:
 
     # aut "Хозяйка сильным движением перевернула меня лицом вниз и больно заломала мне руку."
-    aut "Die Chefin drehte mein Gesicht nach unten und verdrehte mir schmerzhaft den Arm."
+    aut "Die Herrin drehte mein Gesicht nach unten und verdrehte mir schmerzhaft den Arm."
 
 # game/RED.rpy:1199
 translate german martina_mist_dp_394ec09d:
@@ -2206,7 +2206,7 @@ translate german martina_mist_dp_73f2b404:
 translate german martina_mist_dp_959dbd4b:
 
     # aut "Хозяйка быстро дрочила каменный членс толстыми венами, а ее большие яйца покачивались перед моим лицом."
-    aut "Die Chefin wichste ihren harten, mit dicken Venen versehenen Schwanz. Immer die prallen, tanzenden Eier vor Augen."
+    aut "Die Herrin wichste ihren harten, mit dicken Venen versehenen Schwanz. Immer die prallen, tanzenden Eier vor Augen."
 
 # game/RED.rpy:1271
 translate german martina_mist_dp_84a5c6c3:

@@ -667,7 +667,7 @@ translate german paris_mes_289c0d71:
 translate german paris_mes_cbe06b6e:
 
     # "{#l=Привет! Я сегодня иду к Хозяйке. Ты со мной?}"
-    "{#l=Hi! Gehe heut zur Chefin. Bist Du dabei?}"
+    "{#l=Hi! Gehe heut zur Herrin. Bist Du dabei?}"
 
 # game/PHONE.rpy:820
 translate german paris_mes_32ce5b9c:
@@ -697,7 +697,7 @@ translate german paris_mes_5028c822:
 translate german paris_mes_92d53be4:
 
     # "{#l=Надень что-нибудь парадное. Кто знает, что Хозяйка задумала <<smile>>}"
-    "{#l=Zieh lieber was Festlicheres an. Wer weiß, was die Chefin vorhat <<smile>>}"
+    "{#l=Zieh lieber was Festlicheres an. Wer weiß, was die Herrin vorhat <<smile>>}"
 
 # game/PHONE.rpy:827
 translate german paris_mes_0c1a1964:

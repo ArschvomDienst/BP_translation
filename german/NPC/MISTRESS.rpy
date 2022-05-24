@@ -130,7 +130,7 @@ translate german mist_dia1_1681e353:
 translate german mist_dia1_97da8d8b:
 
     # aut "Хозяйка отложила журнал и указала мне на противоположное кресло."
-    aut "Die Chefin legt das Magazin hin und weist mir den gegenüberliegenden Stuhl zu."
+    aut "Die Herrin legt das Magazin hin und weist mir den gegenüberliegenden Stuhl zu."
 
 # game/NPC/MISTRESS.rpy:122
 translate german mist_dia1_52ac2cf3:
@@ -386,7 +386,7 @@ translate german mist_office_menu_8cd4f865:
 translate german mistress_machine_0bc871d0:
 
     # aut "В этот раз Хозяйка все так же листала журнал, но была без одежды. Между ее ног на полу стояла странная металлическая конструкция непонятного назначения."
-    aut "Die Chefin blättert diesmal in einer Zeitschrift, aber sie ist unbekleidet. Zwischen ihren Beinen auf dem Boden befindet sich eine seltsame Metallstruktur unbekannter Bestimmung."
+    aut "Die Herrin blättert diesmal in einer Zeitschrift, aber sie ist unbekleidet. Zwischen ihren Beinen auf dem Boden befindet sich eine seltsame Metallstruktur unbekannter Bestimmung."
 
 # game/NPC/MISTRESS.rpy:246
 translate german mistress_machine_63926666:
@@ -404,7 +404,7 @@ translate german mistress_machine_bef7aff3:
 translate german mistress_machine_a5d107cc:
 
     # aut "Когда я зашла, Хозяйка ни капли не смутилась."
-    aut "Als ich eintrete, ist das der Chefin kein bißchen peinlich."
+    aut "Als ich eintrete, ist das der Herrin kein bißchen peinlich."
 
 # game/NPC/MISTRESS.rpy:253
 translate german mistress_machine_164bde04:
@@ -428,7 +428,7 @@ translate german mistress_machine_34dbdc2c:
 translate german mistress_machine_e4a56be2:
 
     # aut "Хозяйка отложила журнал."
-    aut "Die Chefin legt das Heft weg."
+    aut "Die Herrin legt das Heft weg."
 
 # game/NPC/MISTRESS.rpy:260
 translate german mistress_machine_a1f8602f:
@@ -452,7 +452,7 @@ translate german mistress_machine_35b4a186:
 translate german mistress_machine_c595735f:
 
     # aut "Хозяйка слегка запрокинула голову, и на ее лице появилась гримаса удовольствия."
-    aut "Die Chefin neigt leicht den Kopf. Ein freudiges Mienenspiel wischt über ihr Gesicht."
+    aut "Die Herrin neigt leicht den Kopf. Ein freudiges Mienenspiel wischt über ihr Gesicht."
 
 # game/NPC/MISTRESS.rpy:287
 translate german mistress_machine_491b48ec:
@@ -476,7 +476,7 @@ translate german mistress_machine_46afb72d:
 translate german mistress_machine_dc254c4a:
 
     # aut "Разговора не получилось. Я чувствовала себя неловко, а Хозяйка то и дело прерывалась, получая очередной оргазм."
-    aut "Ein Gespräch kommt irgendwie nicht zustande. Ich fühle mich unwohl. Die Chefin wird immer wieder von einem weiteren Orgasmus unterbrochen."
+    aut "Ein Gespräch kommt irgendwie nicht zustande. Ich fühle mich unwohl. Die Herrin wird immer wieder von einem weiteren Orgasmus unterbrochen."
 
 # game/NPC/MISTRESS.rpy:314
 translate german mistress_machine_417babf1:

@@ -1680,7 +1680,7 @@ translate german tara_manu_sex_edebd46b:
 translate german tara_manu_sex_1dbdfed5:
 
     # manu "Тара говорить, что хотеть смотреть, как я трахать хозяйка. Трахать где ремонт - хороший примета. Вы хотите трахать с мы?"
-    manu "Tara sagt, daß sie mir gern zuschauen würde, wie ich die Chefin bumse. Ficken beim Umbau bringt Glück. Willst Du?"
+    manu "Tara sagt, daß sie mir gern zuschauen würde, wie ich die Herrin bumse. Ficken beim Umbau bringt Glück. Willst Du?"
 
 # game/RANDOM_EVENTS.rpy:1325
 translate german tara_manu_sex_menu_b4814bd7:
@@ -1728,7 +1728,7 @@ translate german tara_manu_sex_menu_76233c9a:
 translate german tara_manu_sex_menu_6fe79395:
 
     # aut "В какой-то момент я поняла, что Тара теперь относилась ко мне не как к работодателю, а скорее как к секс игрушке для своего напарника."
-    aut "Bald aber verstehe ich, daß ich für sie nun nicht mehr die Chefin bin, sondern eher ein Sexspielzeug für ihren Partner."
+    aut "Bald aber verstehe ich, daß ich für sie nun nicht mehr die Herrin bin, sondern eher ein Sexspielzeug für ihren Partner."
 
 # game/RANDOM_EVENTS.rpy:1398
 translate german tara_manu_sex_menu_e2f58845:
@@ -1764,7 +1764,7 @@ translate german tara_manu_sex_menu_74b82a4f:
 translate german tara_manu_sex_menu_9564fe6f:
 
     # manu "Хозяйка! Я хотеть кончить вам на живот. Если вы не... Аггг!"
-    manu "Chefin! Ich möchte gern auf Deinen Bauch abspritzen, wenn ich ... Ahhh!"
+    manu "Herrin! Ich möchte gern auf Deinen Bauch abspritzen, wenn ich ... Ahhh!"
 
 # game/RANDOM_EVENTS.rpy:1435
 translate german tara_manu_sex_menu_a2d589cd:
@@ -1782,7 +1782,7 @@ translate german tara_manu_sex_menu_af9802c3:
 translate german tara_manu_sex_menu_c1bb4fd2:
 
     # manu "У нас редко бывать хозяин девушка. Я не очень любить, когда Тару трахать другой мужчина, но я любить трахать девушка."
-    manu "Wir haben selten eine Chefin. Ich kann es nicht wirklich leiden, wenn Tara von einem andern gebumst wird, aber andersrum ist es geil."
+    manu "Wir haben selten eine Herrin. Ich kann es nicht wirklich leiden, wenn Tara von einem andern gebumst wird, aber andersrum ist es geil."
 
 # game/RANDOM_EVENTS.rpy:1442
 translate german tara_manu_sex_menu_5bede718:
@@ -2214,13 +2214,13 @@ translate german kitten_street_96b92049:
 translate german kitten_street_c81fe369:
 
     # flavie "Тетя думает, что ты шпионка Хозяйки. Но я в это не верю. Человек, который любит животных, не может работать на плохих."
-    flavie "Tante hält Dich für eine Spionin der Chefin. Aber ich glaub das nicht. Wer Tiere liebt, kann nicht für das Böse arbeiten."
+    flavie "Tante hält Dich für eine Spionin der Herrin. Aber ich glaub das nicht. Wer Tiere liebt, kann nicht für das Böse arbeiten."
 
 # game/RANDOM_EVENTS.rpy:650
 translate german kitten_street_caf20cb6:
 
     # flavie "Да может и Хозяйка эта не такая плохая, я уже ни в чем не уверена."
-    flavie "Vielleicht ist die Chefin auch gar nicht so übel, ich weiß es nicht."
+    flavie "Vielleicht ist die Herrin auch gar nicht so übel, ich weiß es nicht."
 
 # game/RANDOM_EVENTS.rpy:652
 translate german kitten_street_e1fccede:

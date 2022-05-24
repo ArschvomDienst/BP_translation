@@ -374,7 +374,7 @@ translate german go_college_menu_9a967f47:
 translate german teleport_86c0ad57:
 
     # gg2 smile "Сегодня в 22:00 я должна быть на открытии нового бара. Не хотелось бы подводить Хозяйку."
-    gg2 smile "Heute abend um 10 muß ich bei der Bareröffnung anwesend sein. Darf die Chefin nicht enttäuschen."
+    gg2 smile "Heute abend um 10 muß ich bei der Bareröffnung anwesend sein. Darf die Herrin nicht enttäuschen."
 
 # TODO: Translation updated at 2021-09-20 19:32
 
