@@ -3386,7 +3386,7 @@ translate german dia_bonnie_02570bfb:
 translate german dia_bonnie_b66c0e1b:
 
     # bonnie "Так и есть, она здесь главная, а я обычный продавец."
-    bonnie "Nun ja, sie ist die Chefin hier, ich nur eine gewöhnliche Verkäuferin."
+    bonnie "Nun ja, sie ist die Herrin hier, ich nur eine gewöhnliche Verkäuferin."
 
 # game/DIA.rpy:1434
 translate german dia_bonnie_3da686e3:
@@ -4432,19 +4432,19 @@ translate german paris_work_menu_2e23af89:
 translate german paris_work_menu_5c3b2348:
 
     # paris "А, понимаю... Боюсь, с мешком на голове работать не выйдет. Да и Хозяйка таких на работу не принимает."
-    paris "Ah, verstehe ... Ich fürchte, mit einer Tüte auf dem Kopf wird es nicht gehen. Auch die Chefin wäre damit kaum einverstanden."
+    paris "Ah, verstehe ... Ich fürchte, mit einer Tüte auf dem Kopf wird es nicht gehen. Auch die Herrin wäre damit kaum einverstanden."
 
 # game/DIA.rpy:81
 translate german paris_work_menu_975de39f:
 
     # gg zadum "Хозяйка? Тут еще нужно собеседование проходить? Чтобы работать проституткой?"
-    gg zadum "Chefin? Gibt es noch ein Einstellungsgespräch? Um als Prostituierte zu arbeiten?"
+    gg zadum "Herrin? Gibt es noch ein Einstellungsgespräch? Um als Prostituierte zu arbeiten?"
 
 # game/DIA.rpy:82
 translate german paris_work_menu_c78651d8:
 
     # paris "А ты как думала? Ты удивишься, но в этом городе много желающих, и Хозяйка кого попало не принимает на работу."
-    paris "Was dachtest Du? Es wird Dich überraschen, wieviele Anwärterinnen es hier gibt. Die Chefin muß und kann nicht jede nehmen."
+    paris "Was dachtest Du? Es wird Dich überraschen, wieviele Anwärterinnen es hier gibt. Die Herrin muß und kann nicht jede nehmen."
 
 # game/DIA.rpy:83
 translate german paris_work_menu_d3131b7a:
@@ -4570,7 +4570,7 @@ translate german paris_work_menu_d059754d:
 translate german paris_work_menu_05632fd6:
 
     # paris "Ну и еще одно странное, но обязательное условие - наличие макияжа. Наша Хозяйка считает, что проститутка не может быть ненакрашена."
-    paris "Die dritte, etwas komische, aber unbedingte Voraussetzung ist Make-up. Die Chefin meint, daß eine Prostituierte nie unbemalt sein darf."
+    paris "Die dritte, etwas komische, aber unbedingte Voraussetzung ist Make-up. Die Herrin meint, daß eine Prostituierte nie unbemalt sein darf."
 
 # game/DIA.rpy:107
 translate german paris_work_menu_1493d092:
@@ -5080,13 +5080,13 @@ translate german dia_gyne_ec96151f:
 translate german dia_gyne_f74704ed:
 
     # martina "Для себя или к Хозяйке на работу собираетесь?"
-    martina "Für Dich oder um bei der Chefin arbeiten zu können?"
+    martina "Für Dich oder um bei der Herrin arbeiten zu können?"
 
 # game/DIA.rpy:2204
 translate german dia_gyne_abd71d01:
 
     # gg zadum "Вы знаете Хозяйку?"
-    gg zadum "Sie kennen die Chefin?"
+    gg zadum "Sie kennen die Herrin?"
 
 # game/DIA.rpy:2205
 translate german dia_gyne_63510258:
@@ -5146,7 +5146,7 @@ translate german dia_gyne_42ea6db1:
 translate german dia_gyne_88113409:
 
     # martina "Это проверка на возбудимость. Личная просьба Хозяйки. Расслабься... Осталась последняя проверка."
-    martina "Dies ist der Erregungstest. Spezieller Wunsch der Chefin. Entspann Dich ... Der Abschlußtest kommt noch."
+    martina "Dies ist der Erregungstest. Spezieller Wunsch der Herrin. Entspann Dich ... Der Abschlußtest kommt noch."
 
 # game/DIA.rpy:2218
 translate german dia_gyne_be57004f:
@@ -6718,13 +6718,13 @@ translate german catherine_menu_d54c6646:
 translate german catherine_menu_4bed4e0e:
 
     # paris "Решила перейти на новый этап? Неожиданно. Обычно дальше идут только те, кого одобрила Хозяйка, но сегодня одна девочка не придет из-за болезни. Можешь занять ее место."
-    paris "Willst Du eine neue Stufe erklimmen? Das kommt unerwartet. Eigentlich gehen nur die weiter, die von der Chefin genehmigt wurden. Aber heute fehlt eine wegen Krankheit. Du kannst ihren Platz nehmen."
+    paris "Willst Du eine neue Stufe erklimmen? Das kommt unerwartet. Eigentlich gehen nur die weiter, die von der Herrin genehmigt wurden. Aber heute fehlt eine wegen Krankheit. Du kannst ihren Platz nehmen."
 
 # game/DIA.rpy:2128
 translate german catherine_menu_f0f14095:
 
     # paris "А потом я отведу тебя к Хозяйке, и, если она тебя одобрит, сможешь подрабатывать на постоянной основе. С твоими данными проблем не будет."
-    paris "Danach bringe ich Dich zur Chefin. Wenn sie einverstanden ist, kannst Du kontinuierlich Geld verdienen. Bei Dir dürfte es da keine Probleme geben."
+    paris "Danach bringe ich Dich zur Herrin. Wenn sie einverstanden ist, kannst Du kontinuierlich Geld verdienen. Bei Dir dürfte es da keine Probleme geben."
 
 # game/DIA.rpy:2129
 translate german catherine_menu_1ba305bc:
@@ -7826,7 +7826,7 @@ translate german strings:
 
     # game/DIA.rpy:2247
     old "Одобрение Хозяйки"
-    new "Der Chefin Test"
+    new "Der Herrin Test"
 
 # TODO: Translation updated at 2020-07-18 20:16
 
@@ -10179,7 +10179,7 @@ translate german jill_wc_menu_1560e433:
 translate german dia_rada_0c9cc47e:
 
     # rada "У нас не было возможности пообщаться. Хозяйка хорошо о тебе отзывалась. Как ты с ней познакомилась?"
-    rada "Wir hatte noch keine Gelegenheit uns zu unterhalten. Die Chefin hat viel Gutes über dich erzählt. Wie hast du sie getroffen?"
+    rada "Wir hatte noch keine Gelegenheit uns zu unterhalten. Die Herrin hat viel Gutes über dich erzählt. Wie hast du sie getroffen?"
 
 # game/DIA.rpy:4333
 translate german dia_rada_68788fd8:
@@ -10203,7 +10203,7 @@ translate german dia_rada_fbe45315:
 translate german dia_rada_5bb44b70:
 
     # rada "У меня немного другая история. Хозяйка когда-то спасла мне жизнь, и я решила у нее остаться."
-    rada "Ich hab eine etwas andere Geschichte. Die Chefin hat mir das Leben gerettet und dafür blieb ich bei ihr."
+    rada "Ich hab eine etwas andere Geschichte. Die Herrin hat mir das Leben gerettet und dafür blieb ich bei ihr."
 
 # game/DIA.rpy:4337
 translate german dia_rada_e9369e45:
@@ -10227,7 +10227,7 @@ translate german rada_menu_a59e70ba:
 translate german rada_menu_9fccb1f7:
 
     # rada "Да, у Хозяйки не так много вакансий, где не нужно раздеваться. Но эту тоже нужно кому-то делать. Почему бы и нет?"
-    rada "Naja, die Chefin hat nicht viele freie Stellen bei denen man sich nicht ausziehen muss. Dieser hier muss von jemandem gemacht werden, also dachte ich mir "Warum eigentlich nicht?""
+    rada "Naja, die Herrin hat nicht viele freie Stellen bei denen man sich nicht ausziehen muss. Dieser hier muss von jemandem gemacht werden, also dachte ich mir "Warum eigentlich nicht?""
 
 # game/DIA.rpy:4345
 translate german rada_menu_700d2116:

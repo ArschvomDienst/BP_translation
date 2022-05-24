@@ -1444,7 +1444,7 @@ translate german strings:
 
     # game/script.rpy:2521
     old "Хозяйка"
-    new "»Chefin«"
+    new "»Herrin«"
 
     # game/script.rpy:2650
     old "Противозачаточные таблетки"

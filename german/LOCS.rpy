@@ -5496,7 +5496,7 @@ translate german podval_0217a5d7:
 translate german podval_3ae13ab2:
 
     # rudo "Принимай работу, хозяйка."
-    rudo "Auftrag erledigt, Chefin."
+    rudo "Auftrag erledigt, Herrin."
 
 # game/LOCS.rpy:2907
 translate german podval_4bfa0703:
@@ -5732,7 +5732,7 @@ translate german podval_8e5c68a6:
 translate german podval_65f6baff:
 
     # sancho "Принимай работу, хозяйка!"
-    sancho "Auftrag erledigt, Chefin!"
+    sancho "Auftrag erledigt, Herrin!"
 
 # game/LOCS.rpy:2917
 translate german podval_19b49d6f:
@@ -5894,7 +5894,7 @@ translate german podval_326ece9a_1:
 translate german podval_721e57ce:
 
     # manu "Хэй! Я есть Ману. Это есть Тара. Мы работать здесь. Мы прислать Санчо. Ты есть хозяин?"
-    manu "Hey! Ich bin Manu. Das ist Tara. Wir arbeiten hier. Sancho hat uns geschickt. Bist Du die Chefin?"
+    manu "Hey! Ich bin Manu. Das ist Tara. Wir arbeiten hier. Sancho hat uns geschickt. Bist Du die Herrin?"
 
 # game/LOCS.rpy:2978
 translate german podval_4bd80a53:
@@ -6356,7 +6356,7 @@ translate german podval_34a92d29:
 translate german podval_f42d3b99:
 
     # sancho "Ну, бывай, хозяйка!"
-    sancho "Na dann, mach's gut, Chefin!"
+    sancho "Na dann, mach's gut, Herrin!"
 
 # game/LOCS.rpy:3080
 translate german podval_f75097e2:
@@ -6536,7 +6536,7 @@ translate german podval_fac543ec:
 translate german podval_65f6baff_1:
 
     # sancho "Принимай работу, хозяйка!"
-    sancho "Auftrag erledigt, Chefin!"
+    sancho "Auftrag erledigt, Herrin!"
 
 # TODO: Translation updated at 2021-03-21 19:02
 
@@ -6570,7 +6570,7 @@ translate german dvor_cf1248be:
 translate german red_street_b4e69caf:
 
     # madeline "Тебя хозяйка искала."
-    madeline "Die Chefin sucht Dich."
+    madeline "Die Herrin sucht Dich."
 
 # game/LOCS.rpy:2535
 translate german red_street_c2de6b71:
@@ -6896,7 +6896,7 @@ translate german south_quart_056bb7d9:
 translate german rose_street2_8d94300e:
 
     # gg2 zadum "Хозяйка приглашает меня на открытие в качестве вип-гостя? Что бы это значило?"
-    gg2 zadum "Die Chefin lädt mich zur Eröffnung als VIP ein? Was mag das wohl bedeuten?"
+    gg2 zadum "Die Herrin lädt mich zur Eröffnung als VIP ein? Was mag das wohl bedeuten?"
 
 # TODO: Translation updated at 2021-08-20 14:47
 
@@ -7312,7 +7312,7 @@ translate german hot_arctic_d9a079b3:
 translate german hot_arctic_b762c0e8:
 
     # paris "Алекс, познакомься, это Рада. Она будет прибирать за вами после работы. Аманда мне долго жаловалась, и я попросила Хозяйку о помощи."
-    paris "Alex, das ist Rada. Sie ist unsere Reinigungsfrau. Amanda hat mir lange in den Ohren gelegen und ich hab Chefin um Hilfe ersucht."
+    paris "Alex, das ist Rada. Sie ist unsere Reinigungsfrau. Amanda hat mir lange in den Ohren gelegen und ich hab Herrin um Hilfe ersucht."
 
 # game/LOCS.rpy:5710
 translate german hot_arctic_e54f79c5:
@@ -7324,7 +7324,7 @@ translate german hot_arctic_e54f79c5:
 translate german hot_arctic_74be8100:
 
     # paris "У Хозяйки не бывает некрасивых."
-    paris "Chefin hat nur hübsche Mitarbeiter."
+    paris "Herrin hat nur hübsche Mitarbeiter."
 
 # game/LOCS.rpy:5712
 translate german hot_arctic_98afb116:

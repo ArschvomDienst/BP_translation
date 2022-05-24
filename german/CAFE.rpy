@@ -480,7 +480,7 @@ translate german cafe_paris_mist_7e01248d:
 translate german cafe_paris_mist_bd568c36:
 
     # paris "Охренеть! Это же Хозяйка!"
-    paris "Ich werd' verrückt! Das ist die Chefin!"
+    paris "Ich werd' verrückt! Das ist die Herrin!"
 
 # game/CAFE.rpy:1005
 translate german cafe_paris_mist_831eb021:
@@ -594,7 +594,7 @@ translate german cafe_paris_mist_3dfb9dfc:
 translate german cafe_paris_mist_63f4a815:
 
     # aut "Хозяйка резко подошла к Пэрис и коснулась ее лица. Джейн отошла в сторону."
-    aut "Die Chefin nähert sich unvermittelt Paris und berührt ihr Gesicht. Jane tritt zur Seite."
+    aut "Die Herrin nähert sich unvermittelt Paris und berührt ihr Gesicht. Jane tritt zur Seite."
 
 # game/CAFE.rpy:1035
 translate german cafe_paris_mist_b00ee365:
@@ -624,7 +624,7 @@ translate german cafe_paris_mist_af92ebe3:
 translate german cafe_paris_mist_eb6140ce:
 
     # aut "Хозяйка посмотрела на Джейн и помолчала какое-то время."
-    aut "Die Chefin schaut Jane eine Weile schweigend an."
+    aut "Die Herrin schaut Jane eine Weile schweigend an."
 
 # game/CAFE.rpy:1042
 translate german cafe_paris_mist_dae39556:
@@ -648,7 +648,7 @@ translate german cafe_paris_mist_5e9d3eff:
 translate german cafe_paris_mist_33538ed0:
 
     # mist "Хозяйка медленно подошла к ней, пристально глядя в глаза."
-    mist "Die Chefin geht langsam auf sie zu, ihr tief in die Augen schauend."
+    mist "Die Herrin geht langsam auf sie zu, ihr tief in die Augen schauend."
 
 # game/CAFE.rpy:1047
 translate german cafe_paris_mist_4502fad0:
@@ -708,7 +708,7 @@ translate german cafe_paris_mist_cfaa4477:
 translate german cafe_paris_mist_c5606f87:
 
     # aut "Хозяйка расстегнула шорты, и они упали на пол."
-    aut "Der Chefin kurze Hose fällt auf den Boden."
+    aut "Der Herrin kurze Hose fällt auf den Boden."
 
 # game/CAFE.rpy:1061
 translate german cafe_paris_mist_432a3d8d:
@@ -732,7 +732,7 @@ translate german cafe_paris_mist_e550d3b3:
 translate german cafe_paris_mist_9de87917:
 
     # aut "Джейн колебалась несколько секунд, после жадно набросилась на член Хозяйки."
-    aut "Jane zögert einen Moment, doch stürzt sich dann gierig auf das Teil der Chefin."
+    aut "Jane zögert einen Moment, doch stürzt sich dann gierig auf das Teil der Herrin."
 
 # game/CAFE.rpy:1070
 translate german cafe_paris_mist_c2e61805:
@@ -768,7 +768,7 @@ translate german cafe_paris_mist_3c18d142:
 translate german cafe_paris_mist_99cb0178:
 
     # aut "Хозяйка вытащила мокрый член, хотя Джейн явно была против."
-    aut "Mit etwas Mühe entwendet die Chefin ihr Gerät der widerstrebenden Jane."
+    aut "Mit etwas Mühe entwendet die Herrin ihr Gerät der widerstrebenden Jane."
 
 # game/CAFE.rpy:1080
 translate german cafe_paris_mist_7218ff27:
@@ -840,7 +840,7 @@ translate german cafe_paris_mist_3781d61e:
 translate german cafe_paris_mist_80039eaa:
 
     # aut "Хозяйка говорила очень спокойно, почти шепотом."
-    aut "Die Chefin spricht sehr ruhig, beinahe flüsternd."
+    aut "Die Herrin spricht sehr ruhig, beinahe flüsternd."
 
 # game/CAFE.rpy:1097
 translate german cafe_paris_mist_2d2aa9f7:
@@ -864,7 +864,7 @@ translate german cafe_paris_mist_39cb96eb:
 translate german cafe_paris_mist_fb346736:
 
     # aut "Хозяйка говорила все так же спокойно и тихо. Аманда сразу повиновалась."
-    aut "Die Chefin spricht immer noch leise und bedächtig. Amanda gehorcht sofort."
+    aut "Die Herrin spricht immer noch leise und bedächtig. Amanda gehorcht sofort."
 
 # game/CAFE.rpy:1103
 translate german cafe_paris_mist_d99dce9a:
@@ -876,7 +876,7 @@ translate german cafe_paris_mist_d99dce9a:
 translate german cafe_paris_mist_cafb5f99:
 
     # aut "Хозяйка какое-то время помолчала."
-    aut "Die Chefin schweigt. Es ist eine Weile mucksmäuschenstill im Raum."
+    aut "Die Herrin schweigt. Es ist eine Weile mucksmäuschenstill im Raum."
 
 # game/CAFE.rpy:1105
 translate german cafe_paris_mist_0636d58e:
@@ -894,7 +894,7 @@ translate german cafe_paris_mist_9cfe4218:
 translate german cafe_paris_mist_66f7feec:
 
     # aut "Хозяйка развернулась и начала одеваться."
-    aut "Die Chefin dreht sich herum und zieht sich an."
+    aut "Die Herrin dreht sich herum und zieht sich an."
 
 # game/CAFE.rpy:1110
 translate german cafe_paris_mist_9c2cb1a1:
@@ -918,7 +918,7 @@ translate german cafe_paris_mist_c8efcf6b:
 translate german cafe_paris_mist_6b7b6ab5:
 
     # aut "Джейн до сих пор сидела на коленях и в полутрансе смотрела на шорты Хозяйки, а точнее на сильно выпирающий бугорок."
-    aut "Jane kniet noch immer. Sie scheint benommen. Sie starrt auf die Hose der Chefin, präziser gesagt, auf deren Wölbung."
+    aut "Jane kniet noch immer. Sie scheint benommen. Sie starrt auf die Hose der Herrin, präziser gesagt, auf deren Wölbung."
 
 # game/CAFE.rpy:1118
 translate german cafe_paris_mist_246bed93:
@@ -954,7 +954,7 @@ translate german cafe_paris_mist_03f30e17:
 translate german cafe_paris_mist_a1a31110:
 
     # paris "Зато я, кажется, знаю. Это особый талант Хозяйки."
-    paris "Ich glaube, ich weiß es sowieso. Das ist eben das besondere Talent der Chefin."
+    paris "Ich glaube, ich weiß es sowieso. Das ist eben das besondere Talent der Herrin."
 
 # game/CAFE.rpy:1126
 translate german cafe_paris_mist_c6f2caea:
@@ -1042,7 +1042,7 @@ translate german cafe_wc_event_08d54411:
 translate german cafe_paris_mist_a9dc5330:
 
     # aut "Хозяйка медленно подошла к ней, пристально глядя в глаза."
-    aut "Die Chefin geht langsam auf sie zu, ihr dabei tief in die Augen schauend."
+    aut "Die Herrin geht langsam auf sie zu, ihr dabei tief in die Augen schauend."
 
 # TODO: Translation updated at 2021-04-14 17:16
 
@@ -1090,7 +1090,7 @@ translate german cafe_1abab1ed:
 translate german cafe_a110be32:
 
     # paris "Хозяйка всерьез взялась за работу. С самого утра тут трудятся рабочие."
-    paris "Die Chefin hat die Sache in die Hand genommen. Seit früh sind die Arbeiter hier."
+    paris "Die Herrin hat die Sache in die Hand genommen. Seit früh sind die Arbeiter hier."
 
 # game/CAFE.rpy:19
 translate german cafe_f8f16a67:
@@ -1102,7 +1102,7 @@ translate german cafe_f8f16a67:
 translate german cafe_520c532e:
 
     # paris "Это только начало. Они еще и стену какую-то будут сносить. Хозяйка задумала что-то грандиозное."
-    paris "Ist nur der Anfang. Sie reißen noch eine Mauer weg. Die Chefin denkt in grandiosem Maßstab."
+    paris "Ist nur der Anfang. Sie reißen noch eine Mauer weg. Die Herrin denkt in grandiosem Maßstab."
 
 # game/CAFE.rpy:22
 translate german cafe_696abc44:
@@ -1126,7 +1126,7 @@ translate german cafe_6f9146f7:
 translate german cafe_2aecf39c:
 
     # amanda "Хозяйка предусмотрела для нас компенсацию на время ремонта. Вот держи свою долю."
-    amanda "Die Chefin zahlt Entschädigung für die Renovierungsdauer. Hier ist Dein Anteil."
+    amanda "Die Herrin zahlt Entschädigung für die Renovierungsdauer. Hier ist Dein Anteil."
 
 # game/CAFE.rpy:27
 translate german cafe_87ea6f0f:
@@ -1156,7 +1156,7 @@ translate german cafe_d95487d5:
 translate german cafe_81f22597:
 
     # amanda "Хозяйка щедрая, но деньги считать все же умеет."
-    amanda "Die Chefin ist großzügig, aber Geld zählen kann sie auch."
+    amanda "Die Herrin ist großzügig, aber Geld zählen kann sie auch."
 
 # game/CAFE.rpy:35
 translate german cafe_cc824e68:
@@ -1168,7 +1168,7 @@ translate german cafe_cc824e68:
 translate german cafe_b38e4870:
 
     # paris "Я вам всем напишу, когда ремонт будет подходить к концу. Ох... Не могу дождаться! Кстати, у Хозяйки есть для вас поручение. Кто-нибудь занимался танцами или чем-то подобным?"
-    paris "Schreibe Euch, wenn der Umbau beendet ist. Ohje ... ich kann es kaum erwarten! Die Chefin hat übrigens eine Aufgabe für Euch. Hat jemand von Euch schon mal getanzt oder sowas ähnliches?"
+    paris "Schreibe Euch, wenn der Umbau beendet ist. Ohje ... ich kann es kaum erwarten! Die Herrin hat übrigens eine Aufgabe für Euch. Hat jemand von Euch schon mal getanzt oder sowas ähnliches?"
 
 # game/CAFE.rpy:37
 translate german cafe_bceb87f2:
@@ -1204,7 +1204,7 @@ translate german cafe_9bf4663a:
 translate german cafe_30aec1b9:
 
     # paris "Это то, что надо! Алекс это уже не нужно, как я понимаю, а вам, красотки, стоит сходить. Хозяйка все оплатит."
-    paris "Das ist das, was wir brauchen! Nun, Alex braucht es nicht mehr, aber ihr Schönen solltet dort aufschlagen. Die Chefin zahlt."
+    paris "Das ist das, was wir brauchen! Nun, Alex braucht es nicht mehr, aber ihr Schönen solltet dort aufschlagen. Die Herrin zahlt."
 
 # game/CAFE.rpy:43
 translate german cafe_934f0da2:
@@ -1584,7 +1584,7 @@ translate german ruth_jane_amanda_591057e3:
 translate german ruth_jane_amanda_6ce975c2:
 
     # aut "Девушки успешно сдали экзамен. Хозяйка могла быть уверена, что официантки в ее новом баре точно не подведут."
-    aut "Die Mädchen haben den Kurs bestanden. Die Chefin kann davon ausgehen, daß diese Kellnerinnen sie in der Bar nicht enttäuschen werden."
+    aut "Die Mädchen haben den Kurs bestanden. Die Herrin kann davon ausgehen, daß diese Kellnerinnen sie in der Bar nicht enttäuschen werden."
 
 # game/CAFE.rpy:1391
 translate german hot_arctic_ab66138b:
@@ -1674,7 +1674,7 @@ translate german hot_arctic_210c4229:
 translate german hot_arctic_b0f816e8:
 
     # amanda "Да, этот придурок меня достал, так что сегодня будем отрываться. Хозяйка ждет тебя в вип-комнате."
-    amanda "Ja, dieses Arschloch kann mich mal. Also werden wir heute viel Spaß haben. Die Chefin erwartet Dich im VIP-Raum."
+    amanda "Ja, dieses Arschloch kann mich mal. Also werden wir heute viel Spaß haben. Die Herrin erwartet Dich im VIP-Raum."
 
 # game/CAFE.rpy:1409
 translate german hot_arctic_c2d71b87:
@@ -1700,7 +1700,7 @@ translate german hot_arctic_238b6721:
 translate german hot_arctic_aab56b94:
 
     # jane "Теперь есть. Лестница вон там. Для расширения Хозяйке пришлось выкупить соседнее помещение и верхний этаж. Пожелай нам удачи, бар вот-вот откроется."
-    jane "Jetzt da. Das Treppenhaus ist da drüben. Die Chefin mußte Nebengelaß und Obergeschoß kaufen, um alles zu erweitern. Wünsch uns Glück, die Bar öffnet gleich."
+    jane "Jetzt da. Das Treppenhaus ist da drüben. Die Herrin mußte Nebengelaß und Obergeschoß kaufen, um alles zu erweitern. Wünsch uns Glück, die Bar öffnet gleich."
 
 # TODO: Translation updated at 2021-08-20 14:47
 
@@ -1822,7 +1822,7 @@ translate german hot_arctic_open_210c4229:
 translate german hot_arctic_open_b0f816e8:
 
     # amanda "Да, этот придурок меня достал, так что сегодня будем отрываться. Хозяйка ждет тебя в вип-комнате."
-    amanda "Ja, dieses Arschloch kann mich mal. Also werden wir heute viel Spaß haben. Die Chefin erwartet Dich im VIP-Raum."
+    amanda "Ja, dieses Arschloch kann mich mal. Also werden wir heute viel Spaß haben. Die Herrin erwartet Dich im VIP-Raum."
 
 # game/CAFE.rpy:1415
 translate german hot_arctic_open_c2d71b87:
@@ -1846,13 +1846,13 @@ translate german hot_arctic_open_47a96bff:
 translate german hot_arctic_open_59e7fa60:
 
     # aut "Здесь уже была Хозяйка, гинеколог Мартина и незнакомая мне девушка."
-    aut "Die Chefin, Gynäkologe Martina und ein mir unbeknntes Mädchen sind bereits hier."
+    aut "Die Herrin, Gynäkologe Martina und ein mir unbeknntes Mädchen sind bereits hier."
 
 # game/CAFE.rpy:1422
 translate german hot_arctic_open_b635d744:
 
     # aut "Здесь уже была Хозяйка, гинеколог Мартина и Ванесса, владелица секс-шопа."
-    aut "Die Chefin, Gynäkologe Martina und Vanessa aus dem Sex-Shop sind bereits hier."
+    aut "Die Herrin, Gynäkologe Martina und Vanessa aus dem Sex-Shop sind bereits hier."
 
 # game/CAFE.rpy:1423
 translate german hot_arctic_open_423b862b:
@@ -2128,7 +2128,7 @@ translate german hot_arctic_open_4af02400:
 translate german hot_arctic_open_f5c0ea2b:
 
     # aut "Хозяйка взяла со стола бокал шампанского."
-    aut "Die Chefin nimmt ein Glas Champagner vom Tisch."
+    aut "Die Herrin nimmt ein Glas Champagner vom Tisch."
 
 # game/CAFE.rpy:1505
 translate german hot_arctic_open_f1e61aab:
@@ -2158,7 +2158,7 @@ translate german hot_arctic_open_f255aaa4:
 translate german hot_arctic_open_142c9f24:
 
     # aut "Тем более, я все еще не понимала, почему Хозяйка так относится ко мне. Оставалось надеяться, что скоро все прояснится."
-    aut "Außerdem ist mir immer noch nicht klar, wieso ich von der Chefin so speziell behandelt werde. Hoffe, daß sich bald alles aufklärt."
+    aut "Außerdem ist mir immer noch nicht klar, wieso ich von der Herrin so speziell behandelt werde. Hoffe, daß sich bald alles aufklärt."
 
 # TODO: Translation updated at 2021-08-21 08:58
 
@@ -2174,7 +2174,7 @@ translate german cafe_df071593:
 translate german cafewc_90496197:
 
     # gg2 zadum "Дальнюю кабинку решили заколотить. Ведь теперь сюда будут приходить почти одни мужики. Но Хозяйка обещала придумать для туалета что-нибудь интересненькое."
-    gg2 zadum "Die letzte Kabine ist nun verrammelt. Schließlich werden hier fast nur noch Kerle herkommen. Aber die Chefin will sich für das Örtchen wieder etwas Interessantes ausdenken."
+    gg2 zadum "Die letzte Kabine ist nun verrammelt. Schließlich werden hier fast nur noch Kerle herkommen. Aber die Herrin will sich für das Örtchen wieder etwas Interessantes ausdenken."
 
 # TODO: Translation updated at 2022-01-05 13:41
 
@@ -2430,7 +2430,7 @@ translate german strings:
 
     # game/CAFE.rpy:1595
     old "Зайти к Хозяйке (21:00-23:00)"
-    new "Gehe zur Chefin (21:00-23:00)"
+    new "Gehe zur Herrin (21:00-23:00)"
 
     # game/CAFE.rpy:1706
     old "Зайти в \"Hot Arctic\" днем"

@@ -10,7 +10,7 @@ translate german dia_paris_ee6ae309:
 translate german dia_paris_159f5c31:
 
     # paris "Я поговорила с Хозяйкой, и она готова тебя принять. Ее не так просто застать, но по выходным после полуночи она всегда приезжает в Красный Квартал."
-    paris "Ich habe mit der Chefin gesprochen, sie will Dich sehen. Sie ist schwer zu erwischen, aber am Wochenende nach Mitternacht ist sie im Rotlichtviertel."
+    paris "Ich habe mit der Herrin gesprochen, sie will Dich sehen. Sie ist schwer zu erwischen, aber am Wochenende nach Mitternacht ist sie im Rotlichtviertel."
 
 # game/NPC/PARIS.rpy:102
 translate german dia_paris_739f9059:
@@ -46,7 +46,7 @@ translate german dia_paris_eed7e1a9:
 translate german dia_paris_e2e48d36:
 
     # paris "Вот об этом Хозяйке и расскажешь, она придумает, чем можно тебя занять. Она милая, тебе нечего бояться."
-    paris "Du wirst das alles der Chefin erzählen, sie wird eine Beschäftigung für Dich finden. Sie ist nett, Du hast nichts zu befürchten."
+    paris "Du wirst das alles der Herrin erzählen, sie wird eine Beschäftigung für Dich finden. Sie ist nett, Du hast nichts zu befürchten."
 
 # game/NPC/PARIS.rpy:108
 translate german dia_paris_f36dda69:
@@ -64,7 +64,7 @@ translate german dia_paris_ed425a8c:
 translate german dia_paris_1d23b1d2:
 
     # gg zadum "Я хочу еще раз встретиться с Хозяйкой."
-    gg zadum "Ich möchte die Chefin wiedersehen."
+    gg zadum "Ich möchte die Herrin wiedersehen."
 
 # game/NPC/PARIS.rpy:116
 translate german dia_paris_fde2dc98:
@@ -106,7 +106,7 @@ translate german dia_paris_e458622a:
 translate german dia_paris_51c83888:
 
     # paris "Хозяйка, это Алекс, помните ее? Она решила использовать второй шанс."
-    paris "Chefin, das ist Alex, erinnerst Du Dich an sie? Sie will die zweite Chance nutzen."
+    paris "Herrin, das ist Alex, erinnerst Du Dich an sie? Sie will die zweite Chance nutzen."
 
 # game/NPC/PARIS.rpy:128
 translate german dia_paris_84860d44:
@@ -118,7 +118,7 @@ translate german dia_paris_84860d44:
 translate german dia_paris_1cd694f3:
 
     # paris "Привет! Хозяйка сейчас в своих апартаментах. Мы еще успеем ее застать."
-    paris "Grüß Dich! Die Chefin ist in ihren Räumen. Wir können sie noch erwischen."
+    paris "Grüß Dich! Die Herrin ist in ihren Räumen. Wir können sie noch erwischen."
 
 # game/NPC/PARIS.rpy:134
 translate german dia_paris_93877e3d:
@@ -166,7 +166,7 @@ translate german dia_paris_a0e1d90a:
 translate german dia_paris_8b4aaf11:
 
     # aut "По внешнему виду было легко определить, кто из них Хозяйка."
-    aut "Die Chefin ist unschwer auszumachen."
+    aut "Die Herrin ist unschwer auszumachen."
 
 # game/NPC/PARIS.rpy:147
 translate german dia_paris_3d58899c:
@@ -202,7 +202,7 @@ translate german dia_paris_0f2929e1:
 translate german dia_paris_02af23cb:
 
     # aut "А вот Хозяйка удостоила нас взглядом."
-    aut "Doch die Chefin schaut zu uns."
+    aut "Doch die Herrin schaut zu uns."
 
 # game/NPC/PARIS.rpy:161
 translate german dia_paris_32bbc1fa:
@@ -232,7 +232,7 @@ translate german dia_paris_5f572a91:
 translate german dia_paris_d0ef3e7c:
 
     # aut "Левая нога Хозяйки упиралась в попу второй девушки, которая, судя по стонам, вот-вот собиралась кончить."
-    aut "Das linke Bein der Chefin ruht auf dem Hinterteil des zweiten Mädchens. Sie stöhnt, als würde sie gleich kommen."
+    aut "Das linke Bein der Herrin ruht auf dem Hinterteil des zweiten Mädchens. Sie stöhnt, als würde sie gleich kommen."
 
 # game/NPC/PARIS.rpy:170
 translate german dia_paris_91e97da2:
@@ -274,7 +274,7 @@ translate german dia_paris_9c8d01ec:
 translate german dia_paris_7c8fe92a:
 
     # aut "Хозяйка вызывала только приятные эмоции. От нее не исходило никакой опасности, и я разделась."
-    aut "Die Chefin verbreitet nur angenehme Stimmung. Es geht keine Gefahr von ihr aus. Also entblättere ich mich."
+    aut "Die Herrin verbreitet nur angenehme Stimmung. Es geht keine Gefahr von ihr aus. Also entblättere ich mich."
 
 # game/NPC/PARIS.rpy:185
 translate german dia_paris_b66e1476:
@@ -316,7 +316,7 @@ translate german dia_paris_ff71f01c:
 translate german dia_paris_3c335772:
 
     # aut "Голубоволосая девушка встала, и между раздвинутых ног Хозяйки я увидела член. Большой влажный мужской член. Я тут же вспомнила гинеколога, которая выдавала мне справку."
-    aut "Die Blauhaarige steht auf. Zwischen den gespreizten Beinen der Chefin steht ein Schwanz. Ein großes, nasses und männliches Glied. Ich erinnere mich sofort an die Frauenärztin, die mir eine Bescheinigung gab."
+    aut "Die Blauhaarige steht auf. Zwischen den gespreizten Beinen der Herrin steht ein Schwanz. Ein großes, nasses und männliches Glied. Ich erinnere mich sofort an die Frauenärztin, die mir eine Bescheinigung gab."
 
 # game/NPC/PARIS.rpy:196
 translate german dia_paris_f9e090d1:
@@ -406,7 +406,7 @@ translate german mist_bj_menu_4374d2d4:
 translate german mist_bj_menu_fe656471:
 
     # aut "Хозяйка не издавала никаких звуков, а просто двигала бедрами в такт моим движениям."
-    aut "Die Chefin macht keinen Mucks. Sie bewegt lediglich ihre Hüften im Rhythmus meiner Bewegungen."
+    aut "Die Herrin macht keinen Mucks. Sie bewegt lediglich ihre Hüften im Rhythmus meiner Bewegungen."
 
 # game/NPC/PARIS.rpy:229
 translate german mist_bj_menu_36a8eafd:
@@ -418,7 +418,7 @@ translate german mist_bj_menu_36a8eafd:
 translate german mist_bj_menu_01602e65:
 
     # aut "Даже перед оргазмом Хозяйка хранила молчание, и я уже начала думать, что делаю что-то не так. Она сказала только одно слово:"
-    aut "Bis kurz vor dem Höhepunkt schweigt die Chefin. Ich denke schon darüber nach, ob ich irgendwas falsch mache. Plötzlich sagt sie nur ein Wort:"
+    aut "Bis kurz vor dem Höhepunkt schweigt die Herrin. Ich denke schon darüber nach, ob ich irgendwas falsch mache. Plötzlich sagt sie nur ein Wort:"
 
 # game/NPC/PARIS.rpy:231
 translate german mist_bj_menu_5109ade4:
@@ -436,7 +436,7 @@ translate german mist_bj_menu_62918ca2:
 translate german mist_bj_menu_0f7d067e:
 
     # aut "Хозяйка взяла член в руку и направила на меня."
-    aut "Die Chefin greift ihr Teil und richtet es auf mich."
+    aut "Die Herrin greift ihr Teil und richtet es auf mich."
 
 # game/NPC/PARIS.rpy:245
 translate german mist_bj_menu_d34896c2:
@@ -472,7 +472,7 @@ translate german mist_bj_menu_c5f2a535:
 translate german mist_bj_menu_bad610e0:
 
     # paris "Ну, поздравляю, теперь ты одна из нас. Ты очень понравилась Хозяйке. Поверь, я в этом разбираюсь."
-    paris "Hey, Glückwunsch, jetzt bist Du eine von uns. Die Chefin mag Dich sehr. Glaub mir, ich merke das."
+    paris "Hey, Glückwunsch, jetzt bist Du eine von uns. Die Herrin mag Dich sehr. Glaub mir, ich merke das."
 
 # game/NPC/PARIS.rpy:264
 translate german mist_bj_menu_68c17811:
@@ -808,7 +808,7 @@ translate german paris_mes_b00b6154:
 translate german paris_mes_ecd26751:
 
     # "{#l=Тебе - ничего. Хозяйка хочет видеть тебя в составе вип-гостей<<wink>>}"
-    "{#l=Für Dich ist nichts zu tun. Die Chefin will Dich unter den VIPs sehen<<wink>>}"
+    "{#l=Für Dich ist nichts zu tun. Die Herrin will Dich unter den VIPs sehen<<wink>>}"
 
 # game/NPC/PARIS.rpy:438
 translate german paris_mes_f83df0b1:

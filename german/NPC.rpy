@@ -2160,7 +2160,7 @@ translate german strings:
 
     # game/NPC.rpy:4137
     old "Зайти к Хозяйке"
-    new "Besuche Chefin"
+    new "Besuche Herrin"
 
 # TODO: Translation updated at 2021-11-03 12:52
 

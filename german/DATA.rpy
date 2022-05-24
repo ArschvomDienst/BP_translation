@@ -1291,7 +1291,7 @@ translate german strings:
 
     # game/DATA.rpy:2330
     old "Офис Хозяйки"
-    new "Büro der Chefin"
+    new "Büro der Herrin"
 
     # game/DATA.rpy:2332
     old "21:00-23:00"
