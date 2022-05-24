@@ -165,141 +165,141 @@ translate german dia_falcet_d6d0d52a:
 translate german falcetto_menu_08f3cb9a:
 
     # gg smile "Я готова приступить к занятиям!"
-    gg smile ""
+    gg smile "Ich bin bereit zu lernen!"
 
 # game/NPC/FALCETTO.rpy:14
 translate german falcetto_menu_eb87c719:
 
     # falcet "Начнем, в таком случае."
-    falcet ""
+    falcet "Klasse! Lass uns anfangen!"
 
 # game/NPC/FALCETTO.rpy:15
 translate german falcetto_menu_09c235ed:
 
     # gg smile "А где мы будем заниматься?"
-    gg smile ""
+    gg smile "Aber wo studieren wir?"
 
 # game/NPC/FALCETTO.rpy:16
 translate german falcetto_menu_fb8ae9c6:
 
     # falcet "Пойдем внутрь, здесь слишком накурено."
-    falcet ""
+    falcet "Lass uns gehen, hier ist alles völlig verraucht."
 
 # game/NPC/FALCETTO.rpy:44
 translate german falcetto_menu_b3122c50:
 
     # aut "Не зря говорят, что для большой мечты достаточно начать делать маленькие шаги. Мой первый урок вокала - маленький шаг к большой цели."
-    aut ""
+    aut "Es gibt ein Sprichwort: Selbst die Größte Reise fängt mit dem ersten Schritt an. Diese erste Gesangsstunde ist mein kleiner erster Schritt hin zu meinem großen Ziel."
 
 # game/NPC/FALCETTO.rpy:51
 translate german falcetto_menu_8f6eed53:
 
     # falcet "Ну как твое первое занятие? Не то, чего ты ожидала, да? Думала, мы будет сходу хэви-метал рубить?"
-    falcet ""
+    falcet "Wie fandest du die erste Stunde? Nicht das, was du erwartest hattest, richtig? Hast du gedacht wir fangen sofort mit Heavy Metal an?"
 
 # game/NPC/FALCETTO.rpy:52
 translate german falcetto_menu_c0320326:
 
     # gg sad "Если честно, я пока не совсем понимаю, что происходит. Может со следующего занятия все станет понятнее."
-    gg sad ""
+    gg sad "Um ehrlich zu sein hab ich noch nicht Alles verstanden. Bei der nächsten Stunde wird mir wohl Aklles klarer werden."
 
 # game/NPC/FALCETTO.rpy:53
 translate german falcetto_menu_9d5cee9b:
 
     # falcet "Может быть, может быть. Заходи еще..."
-    falcet ""
+    falcet "Nunja, vielleicht. Bis nächstes Mal dann ..."
 
 # game/NPC/FALCETTO.rpy:60
 translate german falcetto_menu_705fac99:
 
     # falcet "Ну что, начнем?"
-    falcet ""
+    falcet "Nun, lass uns anfangen!"
 
 # game/NPC/FALCETTO.rpy:61
 translate german falcetto_menu_f0123e6e:
 
     # gg smile "Да, я готова!"
-    gg smile ""
+    gg smile "Ja, ich bin bereit!"
 
 # game/NPC/FALCETTO.rpy:90
 translate german falcetto_menu_d6d0d52a:
 
     # aut "Первые уроки были далеко не такими увлекательными, как мне представлялось. Большую часть времени я делала какие-то дыхательные упражнения, издавала странные звуки, многие из которых вызывали очень неприятные ощущения."
-    aut ""
+    aut "Die ersten Stunden ware nicht so aufregend wie ich dachte. Die meiste Zeit habe ich mit Atemübungen und komischen Geräuschen verbracht."
 
 # game/NPC/FALCETTO.rpy:91
 translate german falcetto_menu_7b2f04a0:
 
     # aut "Хоть это и называлось \"уроки вокала\", петь учитель мне не давал. Но я во всем доверяла ему."
-    aut ""
+    aut "Auch wenn es \"Gesangsstunde\" heißt, lies Falsetto mich nicht singen. Aber ich vertraute auf seine Erfahrung."
 
 # game/NPC/FALCETTO.rpy:115
 translate german falcetto_menu_b3dd5763:
 
     # aut "Теперь мы начали петь. Но не песни, как мне хотелось. Это были гаммы, арпеджио и всевозможные вокальные упражнения."
-    aut ""
+    aut "Jetzt fingen wir an zu singen. Aber nicht die Lieder an die ich dachte. Stattdessen sang ich Tonleitern, Arpeggios und andere Stimmübungen."
 
 # game/NPC/FALCETTO.rpy:116
 translate german falcetto_menu_6c4714b9:
 
     # aut "Если сразу все это казалось совсем бессмысленным, то теперь я начала чувствовать, как мой голос становится увереннее и сильнее."
-    aut ""
+    aut "Zuerst schien es nichts zu bewirken, aber nach und nach wurde meine Stimme sicherer und kräftiger."
 
 # game/NPC/FALCETTO.rpy:142
 translate german falcetto_menu_13ed47f7:
 
     # aut "Мы уже начали разбирать песни, и я чувствовала себя все более уверенно, но учитель был суров и серьезен, и ни на секунду не давал мне расслабиться."
-    aut ""
+    aut "Wir begannen endlich mit richtigen Liedern und ich wurde immer sicherer, aber Falsetto war streng und ließ keine Schluderei zu."
 
 # game/NPC/FALCETTO.rpy:167
 translate german falcetto_menu_5e343187:
 
     # aut "С каждым занятием я училась все больше понимать музыку и чувствовать свой голос. Мой вокал становился все сильнее и увереннее."
-    aut ""
+    aut "Von Stunde zu Stunde verstand ich mehr von Musik und von meiner Stimme. Ich sang sicherer und kräftiger als zuvor."
 
 # game/NPC/FALCETTO.rpy:188
 translate german falcetto_menu_6e31bd08:
 
     # gg smile "Сделка заключена. Вот 10 тысяч. За аппаратурой скоро заедут."
-    gg smile ""
+    gg smile "Das Geschäft ist erledigt, hier sind Zehntausend. Das Equipment wird bald jemand abholen."
 
 # game/NPC/FALCETTO.rpy:191
 translate german falcetto_menu_4d0f7155:
 
     # falcet "Уже заехали. Я был удивлен, скажу честно. Был уверен, что никогда больше тебя не увижу."
-    falcet ""
+    falcet "Es wurde schon abgeholt. Ich bin erstaunt, ich war sicher dich nie wiederzusehen."
 
 # game/NPC/FALCETTO.rpy:192
 translate german falcetto_menu_b50c92df:
 
     # falcet "Ну что же, я от своих слов не отказываюсь. Я позанимаюсь с тобой, но не бесплатно, конечно. Я беру 2 сотни за занятие."
-    falcet ""
+    falcet "Ich stehe zu meinem Wort. Ich werde mit dir arbeiten, aber natürlich nicht umsonst. Der Preis ist Zweihundert pro Stunde."
 
 # game/NPC/FALCETTO.rpy:194
 translate german falcetto_menu_249f9f4a:
 
     # gg zadum "Ого, это большие деньги."
-    gg zadum ""
+    gg zadum "Wow, das ist viel Geld."
 
 # game/NPC/FALCETTO.rpy:196
 translate german falcetto_menu_eaa7a044:
 
     # falcet "Большая карьера требует больших вложений. Мы можем начать в любой момент. Конечно, если у тебя с собой есть деньги."
-    falcet ""
+    falcet "Ein großes Ziel verlangt eine große Investition. Wir können jederzeit anfange wenn du das Geld hast."
 
 translate german strings:
 
     # game/NPC/FALCETTO.rpy:6
     old "{color=#8c8c8d}Я готова заниматься (200$){/color}"
-    new ""
+    new "{color=#8c8c8d}Ich bin bereit zu lernen ($ 200){/color}"
 
     # game/NPC/FALCETTO.rpy:6
     old "{color=#00ff00}Я готова заниматься (200$){/color}"
-    new ""
+    new "{color=#00ff00}Ich bin bereit zu lernen ($ 200){/color}"
 
     # game/NPC/FALCETTO.rpy:8
     old "Нужно больше денег (200)"
-    new ""
+    new "Ich brauche mehr Geld ($ 200)"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -307,5 +307,5 @@ translate german strings:
 
     # game/NPC/FALCETTO.rpy:6
     old "{color=#00ff00}{b}Я все сделала!{/b}{/color}"
-    new "{color=#00ff00}{b}Я все сделала!{/b}{/color}"
+    new "{color=#00ff00}{b}Ich hab's geschafft!{/b}{/color}"
 
