@@ -4,7 +4,7 @@
 translate german pearl_alisa_car_c45b90e7:
 
     # aut "Возле дома Фальцета я увидела Алису Дарк рядом с дорогой машиной."
-    aut "Vor Falsettos Haus erblicke ich Alisa Dark neben einer edlen Maschine."
+    aut "Vor Falsettos Haus sah ich Alisa Dark neben einer edlen Maschine."
 
 # game/NPC/ALISA.rpy:10
 translate german pearl_alisa_car_efef5905:
@@ -668,785 +668,785 @@ translate german pearl_alisa_car2_6a891c3b:
 translate german alisa_concert_c826f8ee:
 
     # gg2 smile "Таня должна прийти с минуты на минуту."
-    gg2 smile "Таня должна прийти с минуты на минуту."
+    gg2 smile "Tanja sollte jede Sekunde fertig sein."
 
 # game/NPC/ALISA.rpy:399
 translate german alisa_concert_45742cc2:
 
     # gg udiv "Таня?! Что у тебя за прикид?!"
-    gg udiv "Таня?! Что у тебя за прикид?!"
+    gg udiv "Tanja?! Was hast du denn an?!"
 
 # game/NPC/ALISA.rpy:400
 translate german alisa_concert_669fb3b8:
 
     # ta "Эй, Алекс, не включай маман! Я эти шмотки несколько дней по всей общаге собирала."
-    ta "Эй, Алекс, не включай маман! Я эти шмотки несколько дней по всей общаге собирала."
+    ta "Alex du bist meine Schwester und nicht meine Mutter! Ich hab nach dem Outfit das ganze Wohnheim auf den Kopf stellen müssen."
 
 # game/NPC/ALISA.rpy:401
 translate german alisa_concert_0be41020:
 
     # gg udiv "Но ты же почти голая!"
-    gg udiv "Но ты же почти голая!"
+    gg udiv "Aber du bist doch fast nackig?"
 
 # game/NPC/ALISA.rpy:403
 translate german alisa_concert_1f5e7ded:
 
     # ta "Ой, ну началоооось..."
-    ta "Ой, ну началоооось..."
+    ta "Na und?"
 
 # game/NPC/ALISA.rpy:404
 translate german alisa_concert_27233b4b:
 
     # ta "Мы же с тобой смотрели рок-концерты по телевизору. Там некоторые девки вообще с голыми сиськами танцуют."
-    ta "Мы же с тобой смотрели рок-концерты по телевизору. Там некоторые девки вообще с голыми сиськами танцуют."
+    ta "Du und ich haben uns viele Rockkonzerte im Fernsehen angesehen. Viele Mädels tanzen mir blanken Titten rum!"
 
 # game/NPC/ALISA.rpy:405
 translate german alisa_concert_e16046bf:
 
     # gg zlo "Ты что, тоже собралась с голыми сиськами танцевать?!"
-    gg zlo "Ты что, тоже собралась с голыми сиськами танцевать?!"
+    gg zlo "Und du willst auch mit blanken Titten tanzen?!"
 
 # game/NPC/ALISA.rpy:406
 translate german alisa_concert_66b3fab6:
 
     # ta "Может и собираюсь, тебе-то что?"
-    ta "Может и собираюсь, тебе-то что?"
+    ta "Vielleicht? Und wenn?"
 
 # game/NPC/ALISA.rpy:408
 translate german alisa_concert_39259e72:
 
     # ta "Сестренка, я уже не ребенок. Я приехала сюда из Жопвилла не для того, чтобы твои морали случать. Я хочу похулиганить наконец."
-    ta "Сестренка, я уже не ребенок. Я приехала сюда из Жопвилла не для того, чтобы твои морали случать. Я хочу похулиганить наконец."
+    ta "Schwesterchen ich bin kein Kind mehr. Ich bin nicht aus Assville hergezogen um mich weiter wie eine Nonne zu verhalten. Lass mich endlich mal versaut sein in meinem Leben ..."
 
 # game/NPC/ALISA.rpy:409
 translate german alisa_concert_9159941b:
 
     # gg sad "Ты права, Таня, прости. Я просто переживаю, чтобы с тобой ничего не случилось."
-    gg sad "Ты права, Таня, прости. Я просто переживаю, чтобы с тобой ничего не случилось."
+    gg sad "Du hast ja Recht Tanja, tut mir Leid. Ich will einfach nicht, dass dir was zustößt."
 
 # game/NPC/ALISA.rpy:410
 translate german alisa_concert_c698b8e8:
 
     # ta "Я умею за себя постоять, ты же знаешь. А ты чего до сих пор не одета?! Ну-ка бегом!"
-    ta "Я умею за себя постоять, ты же знаешь. А ты чего до сих пор не одета?! Ну-ка бегом!"
+    ta "Ich kann auf mich selbst aufpassen, weißt du? Und warum bist du noch nicht fertig? Beeil dich!"
 
 # game/NPC/ALISA.rpy:412
 translate german alisa_concert_09907374:
 
     # gg udiv "Ой, мы и правда что-то заболтались..."
-    gg udiv "Ой, мы и правда что-то заболтались..."
+    gg udiv "Oh, ja. Hab wohl die Zeit vergessen ..."
 
 # game/NPC/ALISA.rpy:415
 translate german alisa_concert_8f16cd2e:
 
     # aut "Я побежала собираться, а Таня в это время залипла в телевизор."
-    aut "Я побежала собираться, а Таня в это время залипла в телевизор."
+    aut "Ich machte mich hübsch während Tanja sich an Fernseher klebte."
 
 # game/NPC/ALISA.rpy:417
 translate german alisa_concert_171760da:
 
     # aut "Я решила в этот не брать машину. Вдруг перед концертом захочется выпить?"
-    aut "Я решила в этот не брать машину. Вдруг перед концертом захочется выпить?"
+    aut "Ich entschied, heute nicht das Auto zu nehmen. Schließlich hatte ich keine Garantie, dass ich nüchtern bleiben würde."
 
 # game/NPC/ALISA.rpy:422
 translate german alisa_concert_a4dfbc33:
 
     # aut "Мы вызвали такси и всю дорогу не могли дождаться начала этого грандиозного шоу."
-    aut "Мы вызвали такси и всю дорогу не могли дождаться начала этого грандиозного шоу."
+    aut "Wir riefen uns ein Taxi und konnten während der Fahrt den Start des Konzertes schon gar nicht mehr erwarten."
 
 # game/NPC/ALISA.rpy:423
 translate german alisa_concert_292548a5:
 
     # aut "Таксист всю дорогу косился на Таню в зеркало заднего вида. В какой-то момент я даже начала бояться, что он куда-то врежется."
-    aut "Таксист всю дорогу косился на Таню в зеркало заднего вида. В какой-то момент я даже начала бояться, что он куда-то врежется."
+    aut "Der Taxifaher begaffte Tanja im Rückspiegel die ganze Zeit. Nach einer Weile hab ich sogar befürchtet, er würde dadurch einen Unfall bauen."
 
 # game/NPC/ALISA.rpy:427
 translate german alisa_concert_f8e6402d:
 
     # aut "Легранд Арена была забита до отказа."
-    aut "Легранд Арена была забита до отказа."
+    aut "Die Lagrand Arena war brechend voll ..."
 
 # game/NPC/ALISA.rpy:428
 translate german alisa_concert_9fe7c30d:
 
     # aut "Мы с Таней заранее заняли места ближе к сцене, и обзор открывался отличный."
-    aut "Мы с Таней заранее заняли места ближе к сцене, и обзор открывался отличный."
+    aut "Tanja und ich hatten Sitze nah der Bühne. Der Blick war atemberaubend."
 
 # game/NPC/ALISA.rpy:429
 translate german alisa_concert_9855836e:
 
     # aut "Это было совсем не то ощущение, что перед телевизором. Мы стали частью ревущей толпы, а перед нами вживую выступали идолы нашего детства."
-    aut "Это было совсем не то ощущение, что перед телевизором. Мы стали частью ревущей толпы, а перед нами вживую выступали идолы нашего детства."
+    aut "Es war nicht dasselbe Gefühl wie damals vor dem Fernseher. Wir wurden Teil der gröhlenden Menge, ganz nah an unseren Idolen aus der Kindheit."
 
 # game/NPC/ALISA.rpy:432
 translate german alisa_concert_cfd20985:
 
     # aut "Алиса была в еще более откровенном наряде, чем обычно. А ее вокал был таким же мощным, как и всегда."
-    aut "Алиса была в еще более откровенном наряде, чем обычно. А ее вокал был таким же мощным, как и всегда."
+    aut "Alisa trug ein noch freizügigeres Outfit als sonst. Und ihre Stimme wirkte noch kraftvoller."
 
 # game/NPC/ALISA.rpy:435
 translate german alisa_concert_99bf51a4:
 
     # aut "Хейден Уолес... Гитарный гений и главная загадка группы \"Steel Maiden\"."
-    aut "Хейден Уолес... Гитарный гений и главная загадка группы \"Steel Maiden\"."
+    aut "Hayden Wallace ... Gitarrengenie und Hauptmysterium von \"Steel Maiden\"."
 
 # game/NPC/ALISA.rpy:436
 translate german alisa_concert_019dcaa3:
 
     # aut "Долгие годы фанаты спорят насчет того, мужчина Хейден или женщина."
-    aut "Долгие годы фанаты спорят насчет того, мужчина Хейден или женщина."
+    aut "Schon jahrelang stritten sich Fans darüber ob Hayden nun ein Mann oder eine Frau ist."
 
 # game/NPC/ALISA.rpy:437
 translate german alisa_concert_2c4ff7f7:
 
     # aut "Даже стоя здесь, рядом со сценой, я не могла однозначно ответить на этот вопрос."
-    aut "Даже стоя здесь, рядом со сценой, я не могла однозначно ответить на этот вопрос."
+    aut "Sogar als ich hier stand, ganz nah an der Bühne, konnte ich selbst keine Antwort darauf finden."
 
 # game/NPC/ALISA.rpy:440
 translate german alisa_concert_374d4277:
 
     # aut "После того, что я видела в доме Алисы, Фроста я воспринимала уже не так как раньше, но по барабанам он стучал великолепно."
-    aut "После того, что я видела в доме Алисы, Фроста я воспринимала уже не так как раньше, но по барабанам он стучал великолепно."
+    aut "Nach dem, was ich in Alisa's Haus gesehen habe sah ich Frost mit anderen Augen. Aber am Schlagzeug war er eine Wucht."
 
 # game/NPC/ALISA.rpy:443
 translate german alisa_concert_cb8b64ce:
 
     # aut "Мы прыгали в такт музыке и подпевали давно известные песни."
-    aut "Мы прыгали в такт музыке и подпевали давно известные песни."
+    aut "Wir hüpften zum Takt der Musik und sangen alle der lange bekannten Lieder mit."
 
 # game/NPC/ALISA.rpy:445
 translate german alisa_concert_34178741:
 
     # aut "Вдруг во время гитарного соло Алиса нашла меня в толпе и присела."
-    aut "Вдруг во время гитарного соло Алиса нашла меня в толпе и присела."
+    aut "Plötzlich, mitten im Gitarrensolo, setzte sich Alisa an den Rand der Bühne um mit mir zu sprechen."
 
 # game/NPC/ALISA.rpy:446
 translate german alisa_concert_b6cb41f8:
 
     # aut "Я не сразу поняла, что от меня хотят. Тогда Алиса поманила меня рукой. Она явно приглашала меня подняться на сцену."
-    aut "Я не сразу поняла, что от меня хотят. Тогда Алиса поманила меня рукой. Она явно приглашала меня подняться на сцену."
+    aut "Ich verstand nicht gleich, was sie wollte. Aber ihre Handbewegungen luden mich unmissverständlich auf die Bühne."
 
 # game/NPC/ALISA.rpy:447
 translate german alisa_concert_b64b1fe7:
 
     # aut "Я не успела ничего подумать, как моя рука сама потянулась навстречу кумиру."
-    aut "Я не успела ничего подумать, как моя рука сама потянулась навстречу кумиру."
+    aut "Ich hatte gar keine Zeit um nachzudenken, also nahm ich die Hand die mir mein Idol entgegenstreckte."
 
 # game/NPC/ALISA.rpy:454
 translate german alisa_concert_8214113f:
 
     # aut "Я оказалась на сцене и бросила взгляд в зал. От количества людей у меня перехватило дыхание."
-    aut "Я оказалась на сцене и бросила взгляд в зал. От количества людей у меня перехватило дыхание."
+    aut "Ich war auf der Bühne und schaute ins Publikum. Mir verschlug es wohl den Atem bei so vielen Leuten."
 
 # game/NPC/ALISA.rpy:455
 translate german alisa_concert_60ebe715:
 
     # aut "Меня охватила паника, захотелось убежать и спрятаться. Алиса жестами что-то показывала кому-то за кулисами. Я боялась взглянуть в зал и не знала, как себя вести."
-    aut "Меня охватила паника, захотелось убежать и спрятаться. Алиса жестами что-то показывала кому-то за кулисами. Я боялась взглянуть в зал и не знала, как себя вести."
+    aut "Ich bekam Panik, ich wollte nur noch weg und mich irgendwo verstecken. Alisa deutete irgendetwas hinter die Bühne. Ich war viel zu ängstlich und nervös um hinab in die Halle zu sehen. Ich wusste nicht wie ich mich verhalten sollte."
 
 # game/NPC/ALISA.rpy:458
 translate german alisa_concert_e8cbe30b:
 
     # aut "Мне принесли микрофон. Приближался припев, и Алиса жестом предложила мне спеть вместе с ней."
-    aut "Мне принесли микрофон. Приближался припев, и Алиса жестом предложила мне спеть вместе с ней."
+    aut "Sie brachten ein Mikrophon nach vorne. Als der Refrain näher kam, bedeutete Alisa mir mitzusingen."
 
 # game/NPC/ALISA.rpy:464
 translate german alisa_concert_de4eccb6:
 
     # aut "Одобрительный рев толпы придал мне уверенности. Песню я знала наизусть, но боялась, что на фоне Алисы буду звучать отвратительно."
-    aut "Одобрительный рев толпы придал мне уверенности. Песню я знала наизусть, но боялась, что на фоне Алисы буду звучать отвратительно."
+    aut "Die Jubelschreie aus dem Publikum gaben mit Zuversicht. Ich kannte das Lied im Schlaf, aber ich hatte Angst im Vergleich zu Alisa würde ich schrecklich klingen."
 
 # game/NPC/ALISA.rpy:465
 translate german alisa_concert_54b6b067:
 
     # aut "Но Алиса не стала меня перекрикивать. Напротив, она запела более низкую вторую партию, позволяя мне солировать."
-    aut "Но Алиса не стала меня перекрикивать. Напротив, она запела более низкую вторую партию, позволяя мне солировать."
+    aut "Aber Alisa sang nicht lauter als ich. Im Gegenteil, sie wurde sogar leiser im zweiten Teil und ich sang alleine."
 
 # game/NPC/ALISA.rpy:466
 translate german alisa_concert_f2d954d6:
 
     # aut "После не очень уверенного вступления я поняла, что такой момент бывает раз в жизни, и взяла себя в руки."
-    aut "После не очень уверенного вступления я поняла, что такой момент бывает раз в жизни, и взяла себя в руки."
+    aut "Nach dieser nicht sehr selbstbewussten Vorstellung begriff ich, dass dies eine einmalige Gelegenheit war und riss mich zusammen."
 
 # game/NPC/ALISA.rpy:467
 translate german alisa_concert_97991bf7:
 
     # aut "К счастью, мой голос ни разу не сорвался."
-    aut "К счастью, мой голос ни разу не сорвался."
+    aut "Zum Glück ließ meine Stimme mich nicht im Stich."
 
 # game/NPC/ALISA.rpy:473
 translate german alisa_concert_8b6424ea:
 
     # aut "Толпа одобрительно кричала, но когда Алиса после припева подтянула меня к себе и поцеловала, публика просто взорвалась."
-    aut "Толпа одобрительно кричала, но когда Алиса после припева подтянула меня к себе и поцеловала, публика просто взорвалась."
+    aut "Die Menge jubelte und gröhlte. Aber als Alisa mich nach dem Refrain an sich zog und küsste, explodierte sie fast."
 
 # game/NPC/ALISA.rpy:474
 translate german alisa_concert_eb620a14:
 
     # aut "Это был не милый поцелуй двух подружек. Алиса засунула мне в рот свой язык и надолго впилась в мои губы."
-    aut "Это был не милый поцелуй двух подружек. Алиса засунула мне в рот свой язык и надолго впилась в мои губы."
+    aut "Es war kein Kuss zwischen Freunden. Sie steckte mir die Zunge in den Hals und behielt das eine lange Zeit bei."
 
 # game/NPC/ALISA.rpy:475
 translate german alisa_concert_131129da:
 
     # aut "Акты лесбийской любви на сцене всегда нравились публике, и те, кто собрался сегодня в этом зале не были исключением."
-    aut "Акты лесбийской любви на сцене всегда нравились публике, и те, кто собрался сегодня в этом зале не были исключением."
+    aut "Akte lesbischer Liebe waren schon Immer sehr beliebt in der Öffentlichkeit. Die Lagrand Arena und das Publikum bildeten heute keine Ausnahme."
 
 # game/NPC/ALISA.rpy:483
 translate german alisa_concert_1db964fd:
 
     # aut "Концерт пролетел как одна минута. Мы с Таней еле пробились сквозь толпу и вышли на свежий воздух."
-    aut "Концерт пролетел как одна минута. Мы с Таней еле пробились сквозь толпу и вышли на свежий воздух."
+    aut "Das Konzert war viel zu schnell vorbei. Tanja und ich stolperten durch die Menge un an die frische Luft."
 
 # game/NPC/ALISA.rpy:484
 translate german alisa_concert_866b62e1:
 
     # aut "Мы пошли к остановке, в надежде поймать такси. Здесь наконец можно было спокойно поговорить."
-    aut "Мы пошли к остановке, в надежде поймать такси. Здесь наконец можно было спокойно поговорить."
+    aut "Auf dem Weg zur Bushaltestelle, in der Hoffnung ein Taxi zu erwischen, war es endlich ruhig genug um zu reden."
 
 # game/NPC/ALISA.rpy:487
 translate german alisa_concert_de590481:
 
     # ta "Ой, Алекс! Это было так круто!"
-    ta "Ой, Алекс! Это было так круто!"
+    ta "Oh Alex! Das war so atemberaubend!"
 
 # game/NPC/ALISA.rpy:488
 translate german alisa_concert_b6a33da0:
 
     # ta "Вы что, с Алисой подружки?! Почему ты не сказала, что выйдешь на сцену?!"
-    ta "Вы что, с Алисой подружки?! Почему ты не сказала, что выйдешь на сцену?!"
+    ta "Bist du ... mit Alisa zusammen?! Warum hast du nicht gesagt, dass du auf die Bühne gehen wirst?!"
 
 # game/NPC/ALISA.rpy:489
 translate german alisa_concert_2cc6d7e9:
 
     # gg udiv "Да я сама в шоке! Мы ни о чем таком не договаривались. Да и не подружки мы. Я только один раз у нее дома побывала."
-    gg udiv "Да я сама в шоке! Мы ни о чем таком не договаривались. Да и не подружки мы. Я только один раз у нее дома побывала."
+    gg udiv "Weil ich selbst ganz überrascht war davon! Ich wusste gar nichts davon! Ich war nur ein Mal bei ihr daheim."
 
 # game/NPC/ALISA.rpy:490
 translate german alisa_concert_72e6f7d3:
 
     # ta "Блииин! Я тоже хочу!!!"
-    ta "Блииин! Я тоже хочу!!!"
+    ta "Oh Gott! Will ich auch!!!"
 
 # game/NPC/ALISA.rpy:491
 translate german alisa_concert_d4bed01b:
 
     # ash "Джон, смотри! Там наша звезда!"
-    ash "Джон, смотри! Там наша звезда!"
+    ash "Schau mal John. Da ist unser Star!"
 
 # game/NPC/ALISA.rpy:495
 translate german alisa_concert_2a011096:
 
     # aut "К нам подошли Эш и Джон. Глядя на наряд Эш, я поняла, что зря наговаривала на прикид сестры."
-    aut "К нам подошли Эш и Джон. Глядя на наряд Эш, я поняла, что зря наговаривала на прикид сестры."
+    aut "Ash und John kamen zu uns. Und beim Anblick von Ahs' Outfit tat es mir Leid, Tanja so angemacht zu haben."
 
 # game/NPC/ALISA.rpy:496
 translate german alisa_concert_712edaf7:
 
     # ash "Ждешь свой лимузин?"
-    ash "Ждешь свой лимузин?"
+    ash "Wartet ihr auf eure Limo?"
 
 # game/NPC/ALISA.rpy:497
 translate german alisa_concert_9e8941e7:
 
     # gg smile "Ага, желтый такой, с надписью \"Taxi\"."
-    gg smile "Ага, желтый такой, с надписью \"Taxi\"."
+    gg smile "Ja. Die ist gelb und es steht groß \"Taxi\ drauf"."
 
 # game/NPC/ALISA.rpy:498
 translate german alisa_concert_ddde4d63:
 
     # john "Да, ты умеешь удивлять, красотка."
-    john "Да, ты умеешь удивлять, красотка."
+    john "Du steckst voller Überraschungen."
 
 # game/NPC/ALISA.rpy:499
 translate german alisa_concert_ca7d476e:
 
     # ash "Еще недавно ты спрашивала у нас, как найти рок-клуб, а теперь ты на вершине."
-    ash "Еще недавно ты спрашивала у нас, как найти рок-клуб, а теперь ты на вершине."
+    ash "Nicht so lange her als du uns nach einem Rock Club gefragt hast, und jetzt bist du ganz oben."
 
 # game/NPC/ALISA.rpy:500
 translate german alisa_concert_2520d845:
 
     # gg smile "Да брось, мне просто повезло познакомиться с Алисой, а ей вдруг взбрело в голову вытащить меня на сцену."
-    gg smile "Да брось, мне просто повезло познакомиться с Алисой, а ей вдруг взбрело в голову вытащить меня на сцену."
+    gg smile "Ach was, es war reines Glück, dass ich Alisa getroffen habe. Das sie mich heute auf die Bühne gezogen hat auch."
 
 # game/NPC/ALISA.rpy:501
 translate german alisa_concert_c55671f5:
 
     # gg smile "Кстати, знакомьтесь, это Таня, моя младшая сестра. А это Эш и Джон."
-    gg smile "Кстати, знакомьтесь, это Таня, моя младшая сестра. А это Эш и Джон."
+    gg smile "Das hier ist übrigens Tanja, meine kleine Schwester. Und das hier sind Ash und John."
 
 # game/NPC/ALISA.rpy:502
 translate german alisa_concert_45c06648:
 
     # ash "Какая милая сестренка у тебя."
-    ash "Какая милая сестренка у тебя."
+    ash "Was für eine süße, kleine Schwester du hast."
 
 # game/NPC/ALISA.rpy:503
 translate german alisa_concert_5963c532:
 
     # ash "Если у вас нет планов, то я предлагаю всем вместе поехать в наше убежище и обсудить концерт. У меня к тебе столько вопросов!"
-    ash "Если у вас нет планов, то я предлагаю всем вместе поехать в наше убежище и обсудить концерт. У меня к тебе столько вопросов!"
+    ash "Wenn ihr noch keine Pläne habt, kommt doch mit in den Unterschlupf. Ich habe so viele Fragen für dich wegen dem Konzert heute!"
 
 # game/NPC/ALISA.rpy:504
 translate german alisa_concert_fc44534b:
 
     # john "А я покажу Тане свою коллекцию рок-журналов."
-    john "А я покажу Тане свою коллекцию рок-журналов."
+    john "Und ich zeige Tanja meine Rockmagazinsammlung."
 
 # game/NPC/ALISA.rpy:505
 translate german alisa_concert_4ab04025:
 
     # gg podozr "Только держи руки при себе, понял?"
-    gg podozr "Только держи руки при себе, понял?"
+    gg podozr "Aber lass die Hände bei dir, ja?"
 
 # game/NPC/ALISA.rpy:506
 translate german alisa_concert_308df490:
 
     # john "Понял-понял, мамаша."
-    john "Понял-понял, мамаша."
+    john "Okay Okay, ganz ruhig."
 
 # game/NPC/ALISA.rpy:507
 translate german alisa_concert_bfb3da7d:
 
     # aut "Откровенный наряд Тани и похотливый взгляд Джона не сулил ничего хорошего, но мы согласились и начали ловить такси вместе."
-    aut "Откровенный наряд Тани и похотливый взгляд Джона не сулил ничего хорошего, но мы согласились и начали ловить такси вместе."
+    aut "Tanjas freizügiges Outfit und Johns lüsterner Blick zusammen machten mich nicht ruhiger, aber wir stimmten zu und riefen zusammen ein Taxi."
 
 # game/NPC/ALISA.rpy:510
 translate german alisa_concert_c536781f:
 
     # aut "Джон вел себя на удивление пристойно. Он достал из ящика охапку журналов и показывал их Тане."
-    aut "Джон вел себя на удивление пристойно. Он достал из ящика охапку журналов и показывал их Тане."
+    aut "John war überraschend zurückhaltend. Er nahm eine Reihe Magazine aus einer Box und zeigte sie Tanja."
 
 # game/NPC/ALISA.rpy:513
 translate german alisa_concert_fa954df3:
 
     # aut "Эш сразу завалила меня вопросами."
-    aut "Эш сразу завалила меня вопросами."
+    aut "Ash bombardierte mich mit Fragen."
 
 # game/NPC/ALISA.rpy:514
 translate german alisa_concert_7408cf4f:
 
     # ash "Ты знакома с Алисой? Почему ты не сказала?!"
-    ash "Ты знакома с Алисой? Почему ты не сказала?!"
+    ash "Kennst du Alisa näher? Warum hast du mir das nicht gesagt?!"
 
 # game/NPC/ALISA.rpy:520
 translate german alisa_concert_faa1c2c1:
 
     # alex "Да я не думала, что это важно. Мы познакомились на студии, она пригласила меня домой..."
-    alex "Да я не думала, что это важно. Мы познакомились на студии, она пригласила меня домой..."
+    alex "Ich dachte nicht, das das wichtig ist. Wir haben uns beim Studio getroffen, sie hat mich zu sich nach Hause eingeladen ..."
 
 # game/NPC/ALISA.rpy:524
 translate german alisa_concert_25f1afa1:
 
     # ash "Ты еще и дома у нее была? Вот это круто! А можешь автограф попросить?"
-    ash "Ты еще и дома у нее была? Вот это круто! А можешь автограф попросить?"
+    ash "Bei ihr Zuhause warst du auch? Das ist cool! Kannst du für mich um ein Autogramm fragen?"
 
 # game/NPC/ALISA.rpy:525
 translate german alisa_concert_0a6637fd:
 
     # ash "А лучше познакомь нас!"
-    ash "А лучше познакомь нас!"
+    ash "Oder besser noch stell uns vor!"
 
 # game/NPC/ALISA.rpy:532
 translate german alisa_concert_c6eaf8a9:
 
     # alex "Думаю, автограф я смогу взять, когда ее увижу, а насчет знакомства не знаю, мы с ней не так близки."
-    alex "Думаю, автограф я смогу взять, когда ее увижу, а насчет знакомства не знаю, мы с ней не так близки."
+    alex "Ich denke ich kann sie um ein Autogramm bitten. Aber vorstellen weiß ich nicht genau, wir kennen uns nicht so gut."
 
 # game/NPC/ALISA.rpy:533
 translate german alisa_concert_fa333005:
 
     # alex "А ты совсем трусов не носишь? И зачем ты юбку сняла?"
-    alex "А ты совсем трусов не носишь? И зачем ты юбку сняла?"
+    alex "Hast du überhaupt Unterwäsche? Und warum hast du den Rock ausgezogen?"
 
 # game/NPC/ALISA.rpy:534
 translate german alisa_concert_641d8515:
 
     # ash "Она шелестит и раздражает. Но совсем без юбки меня бы вряд ли пропустили."
-    ash "Она шелестит и раздражает. Но совсем без юбки меня бы вряд ли пропустили."
+    ash "Er raschelt und irritiert zu sehr. Aber ohne Rock wäre ich überhaupt nicht aufgefallen."
 
 # game/NPC/ALISA.rpy:535
 translate german alisa_concert_230adc02:
 
     # ash "Мы с Джоном всегда занимаемся сексом на концертах. В толпе все равно никто ничего не понимает, а нас это заводит."
-    ash "Мы с Джоном всегда занимаемся сексом на концертах. В толпе все равно никто ничего не понимает, а нас это заводит."
+    ash "John und ich haben immer Sex auf Konzerten. Mitten in der Menge versteht eh niemand was, und es macht uns Beide scharf."
 
 # game/NPC/ALISA.rpy:537
 translate german alisa_concert_7b33cb2e:
 
     # gg udiv "Вы делаете это прямо среди стольких людей?!"
-    gg udiv "Вы делаете это прямо среди стольких людей?!"
+    gg udiv "Ihr macht es vor so vielen Leuten?!"
 
 # game/NPC/ALISA.rpy:538
 translate german alisa_concert_36f656ae:
 
     # ash "Ага. Но сегодня толпа постоянно двигалась, и Джон не смог кончить. Уверена, у него до сих пор дикий стояк."
-    ash "Ага. Но сегодня толпа постоянно двигалась, и Джон не смог кончить. Уверена, у него до сих пор дикий стояк."
+    ash "Ja. Aber heute hat die Menge sich dauernd bewegt und John konnte nicht zum Abschluss kommen. Ich schätze er hat noch immer einen Ständer."
 
 # game/NPC/ALISA.rpy:543
 translate german alisa_concert_e3029ce0:
 
     # aut "С этими словами я тут же посмотрела на кровать и ужаснулась."
-    aut "С этими словами я тут же посмотрела на кровать и ужаснулась."
+    aut "Bei diesen Worten drehte ich mich um und was ich sah hat mich schockiert."
 
 # game/NPC/ALISA.rpy:546
 translate german alisa_concert_36dc7746:
 
     # john "Ты никогда не держала в руках член?"
-    john "Ты никогда не держала в руках член?"
+    john "Du hattest noch nie einen Schwanz in der Hand?"
 
 # game/NPC/ALISA.rpy:547
 translate german alisa_concert_b9bf8bf6:
 
     # ta "Неа... Он такой большой и... твердый..."
-    ta "Неа... Он такой большой и... твердый..."
+    ta "Nein ... Er ist so groß und ... hart ..."
 
 # game/NPC/ALISA.rpy:548
 translate german alisa_concert_2247c072:
 
     # aut "За разговорами я совсем забыла про Таню и Джона."
-    aut "За разговорами я совсем забыла про Таню и Джона."
+    aut "Bei dem Gespräch mit Ash habe ich Tanja und John komplett vergessen."
 
 # game/NPC/ALISA.rpy:549
 translate german alisa_concert_8736c208:
 
     # gg zlo "Джон! Какого Хрена?!"
-    gg zlo "Джон! Какого Хрена?!"
+    gg zlo "John! Was zum Geier?!"
 
 # game/NPC/ALISA.rpy:552
 translate german alisa_concert_f945aa43:
 
     # aut "Передо мной возникла обнаженная Эш."
-    aut "Передо мной возникла обнаженная Эш."
+    aut "Ash erschien nackt vor mir."
 
 # game/NPC/ALISA.rpy:553
 translate german alisa_concert_6898ff6c:
 
     # ash "Ну что ты как бабка старая? Пусть твоя сестра развлечется."
-    ash "Ну что ты как бабка старая? Пусть твоя сестра развлечется."
+    ash "Hör auf dich wie eine alte Jungfer zu benehmen. Lass deine Schwester etwas Spass haben."
 
 # game/NPC/ALISA.rpy:554
 translate german alisa_concert_9d1387f6:
 
     # gg zlo "Она еще ребенок!"
-    gg zlo "Она еще ребенок!"
+    gg zlo "Aber sie ist noch ein Kind!"
 
 # game/NPC/ALISA.rpy:555
 translate german alisa_concert_e25f3f51:
 
     # ash "Сколько ей лет?"
-    ash "Сколько ей лет?"
+    ash "Wie alt ist sie?"
 
 # game/NPC/ALISA.rpy:556
 translate german alisa_concert_ade622e1:
 
     # gg zlo "18! Но это не значит, что..."
-    gg zlo "18! Но это не значит, что..."
+    gg zlo "18! Aber das bedeutet nicht, dass ..."
 
 # game/NPC/ALISA.rpy:557
 translate german alisa_concert_41e62700:
 
     # ash "Это значит, что она до сих пор не держала в руках мужской член. Думаю, давно пришло время."
-    ash "Это значит, что она до сих пор не держала в руках мужской член. Думаю, давно пришло время."
+    ash "Das bedeutet sie hatte noch nie einen Schwanz in den Händen. Ich denke es ist schon lange überfällig."
 
 # game/NPC/ALISA.rpy:558
 translate german alisa_concert_c02f176a:
 
     # gg sad "Я не хочу на это смотреть..."
-    gg sad "Я не хочу на это смотреть..."
+    gg sad "Ich will das gar nicht sehen ..."
 
 # game/NPC/ALISA.rpy:559
 translate german alisa_concert_ad3a5ee1:
 
     # gg2 sad "Моя сестра на моих глазах дрочит большой член... Это противоестественно... Но почему это так заводит?!"
-    gg2 sad "Моя сестра на моих глазах дрочит большой член... Это противоестественно... Но почему это так заводит?!"
+    gg2 sad "Meine Schwester holte einem Kerl mit großem Schwanz einen runter, direkt vor meinen Augen ... Es war nicht normal ... Aber warum machte mich das scharf?"
 
 # game/NPC/ALISA.rpy:560
 translate german alisa_concert_0ae6448e:
 
     # aut "Эш посмотрела на мой рот."
-    aut "Эш посмотрела на мой рот."
+    aut "Ash schaute auf meinen Mund."
 
 # game/NPC/ALISA.rpy:561
 translate german alisa_concert_cc8b27a7:
 
     # ash "Эти губы помнят вкус Алисы Дарк. Моя киска тоже хочет ощутить его..."
-    ash "Эти губы помнят вкус Алисы Дарк. Моя киска тоже хочет ощутить его..."
+    ash "Diese Lippen wissen noch wie sich Alisa Dark anfühlt. Meine Muschi will das auch fühlen ..."
 
 # game/NPC/ALISA.rpy:566
 translate german alisa_concert_874a06ba:
 
     # aut "Эш схватила меня за волосы и поставила на колени."
-    aut "Эш схватила меня за волосы и поставила на колени."
+    aut "Ash zog mich an den Haaren und auf die Knie."
 
 # game/NPC/ALISA.rpy:567
 translate german alisa_concert_8590b15c:
 
     # ash "Давай! Смешай свою слюну с моим соком..."
-    ash "Давай! Смешай свою слюну с моим соком..."
+    ash "Na komm! Misch den Speichel mit meinem Saft ..."
 
 # game/NPC/ALISA.rpy:568
 translate german alisa_concert_67331c64:
 
     # aut "Я чувствовала, будто сам воздух в этом помещении пахнет похотью."
-    aut "Я чувствовала, будто сам воздух в этом помещении пахнет похотью."
+    aut "Die Luft war süßt durch die ganze Lust."
 
 # game/NPC/ALISA.rpy:569
 translate german alisa_concert_4b3ab1df:
 
     # aut "Все, кто был в этой комнате, сейчас изнывали от возбуждения. Включая меня."
-    aut "Все, кто был в этой комнате, сейчас изнывали от возбуждения. Включая меня."
+    aut "Jeder imr Raum war jetzt bis aufs Äußerte erregt. Mich eingeschlossen."
 
 # game/NPC/ALISA.rpy:575
 translate german alisa_concert_10b8eeb2:
 
     # aut "Я коснулась языком клитора Эш и уже не смогла остановиться."
-    aut "Я коснулась языком клитора Эш и уже не смогла остановиться."
+    aut "Als ich Ash' Klitoris mit meiner Zunge berührte, gab es kein Halten mehr."
 
 # game/NPC/ALISA.rpy:576
 translate german alisa_concert_7358b396:
 
     # ta "А тебе не больно?"
-    ta "А тебе не больно?"
+    ta "Tut dir das weh?"
 
 # game/NPC/ALISA.rpy:577
 translate german alisa_concert_d222eb2f:
 
     # john "Нет, все прекрасно. Смелее..."
-    john "Нет, все прекрасно. Смелее..."
+    john "Nein, es ist gut so. Mach weiter ..."
 
 # game/NPC/ALISA.rpy:580
 translate german alisa_concert_05f89c40:
 
     # ta "Я не думала, что яйца такие тяжелые..."
-    ta "Я не думала, что яйца такие тяжелые..."
+    ta "Ich dachte nicht, dass Eier so schwer sind ..."
 
 # game/NPC/ALISA.rpy:581
 translate german alisa_concert_48c9135b:
 
     # john "Можешь тоже их поласкать. Только аккуратно."
-    john "Можешь тоже их поласкать. Только аккуратно."
+    john "Du kannst mit denen auch spielen. Aber vorsichtig bitte."
 
 # game/NPC/ALISA.rpy:587
 translate german alisa_concert_d3d77735:
 
     # aut "Эш стянула с меня одежду и усадила на пол."
-    aut "Эш стянула с меня одежду и усадила на пол."
+    aut "Ash zog mir die Kleider aus und setzte mich auf den Boden."
 
 # game/NPC/ALISA.rpy:588
 translate german alisa_concert_1132f6c6:
 
     # ash "Шоу продолжается. Займем лучшие места..."
-    ash "Шоу продолжается. Займем лучшие места..."
+    ash "Die Show muss weitergehen. Lass uns auf den besten Plätze nehmen ..."
 
 # game/NPC/ALISA.rpy:589
 translate german alisa_concert_34e441d5:
 
     # aut "Эш устроилась сзади и начала ласкать меня. От возбуждения я не совсем осознавала происходящее."
-    aut "Эш устроилась сзади и начала ласкать меня. От возбуждения я не совсем осознавала происходящее."
+    aut "Ash setzte sich hinter mich und begann damit, mich zu liebkosen. Ich war so scharf, dass mir nicht Alles um mich herum klar war."
 
 # game/NPC/ALISA.rpy:592
 translate german alisa_concert_dc5aae35:
 
     # ta "А правда, что из него иногда сперма выстреливает?"
-    ta "А правда, что из него иногда сперма выстреливает?"
+    ta "Ist es wahr, dass da manchmal Sperma rauskommt?"
 
 # game/NPC/ALISA.rpy:593
 translate german alisa_concert_adebf7fa:
 
     # john "Да, и если ты продолжишь дрочить, то это случится."
-    john "Да, и если ты продолжишь дрочить, то это случится."
+    john "Ja, und wenn du so weitermachst passiert es gleich."
 
 # game/NPC/ALISA.rpy:594
 translate german alisa_concert_e1743bf0:
 
     # ta "Ого, я хочу посмотреть! А правда, что она горячая?"
-    ta "Ого, я хочу посмотреть! А правда, что она горячая?"
+    ta "Zeig es mir! Ist es wahr, dass das heiß ist?"
 
 # game/NPC/ALISA.rpy:595
 translate german alisa_concert_f081441e:
 
     # john "Не настолько горячая, чтобы обжечься. Это приятно, когда она попадает на кожу."
-    john "Не настолько горячая, чтобы обжечься. Это приятно, когда она попадает на кожу."
+    john "Nicht heiß genug um dich zu verbrennen. Es ist angenehm auf der Haut."
 
 # game/NPC/ALISA.rpy:598
 translate german alisa_concert_d4d438dd:
 
     # john "А еще она приятная на вкус. Хочешь попробовать?"
-    john "А еще она приятная на вкус. Хочешь попробовать?"
+    john "Und es schmeckt gut. Möchtest du es probieren?"
 
 # game/NPC/ALISA.rpy:599
 translate german alisa_concert_b69ebd89:
 
     # ta "Фу! Нееееет! А ты можешь побрызгать мне на грудь?"
-    ta "Фу! Нееееет! А ты можешь побрызгать мне на грудь?"
+    ta "Ugh, nein! Kannst du mir auf die Titten spritzen?"
 
 # game/NPC/ALISA.rpy:600
 translate german alisa_concert_33e6a979:
 
     # john "Боюсь заляпать твою курточку."
-    john "Боюсь заляпать твою курточку."
+    john "Ich fürchte ich saue deine Jacke damit ein."
 
 # game/NPC/ALISA.rpy:601
 translate german alisa_concert_ea77f38c:
 
     # ta "Так я ее сниму!"
-    ta "Так я ее сниму!"
+    ta "Dann zieh ich sie aus!"
 
 # game/NPC/ALISA.rpy:606
 translate german alisa_concert_ed4f54a0:
 
     # alex "Таня... Стоя... Подож..."
-    alex "Таня... Стоя... Подож..."
+    alex "Tanja ... Warte ... Halt ..."
 
 # game/NPC/ALISA.rpy:611
 translate german alisa_concert_8590a0b5:
 
     # aut "Вдруг Эш ускорилась, и перед моими глазами все поплыло. Я почувствовала, что сейчас кончу..."
-    aut "Вдруг Эш ускорилась, и перед моими глазами все поплыло. Я почувствовала, что сейчас кончу..."
+    aut "Plötzlich wurde Ash schneller und Alles drehte sich mir. Mein Orgasmus war zum Greifen nah ..."
 
 # game/NPC/ALISA.rpy:615
 translate german alisa_concert_4fa2096e:
 
     # john "Возьми его двумя ручками. Да, вот так. И дрочи так быстро, как можешь."
-    john "Возьми его двумя ручками. Да, вот так. И дрочи так быстро, как можешь."
+    john "Nimm ihn in beide Hände. Ja, genau so. Und wichs so schnell du kannst."
 
 # game/NPC/ALISA.rpy:616
 translate german alisa_concert_359a8df6:
 
     # ta "Ого, я как будто добываю огонь."
-    ta "Ого, я как будто добываю огонь."
+    ta "Wow, das ist wie Feuer machen."
 
 # game/NPC/ALISA.rpy:617
 translate german alisa_concert_aa0b2ce4:
 
     # john "Принцип примерно тот же."
-    john "Принцип примерно тот же."
+    john "Ähnlich."
 
 # game/NPC/ALISA.rpy:620
 translate german alisa_concert_a84d321e:
 
     # aut "Я хотела что-то возразить, но меня трясло от бурного оргазма."
-    aut "Я хотела что-то возразить, но меня трясло от бурного оргазма."
+    aut "Ich wollte auch etwas sagen, aber ich wurde von einem großen Orgasmus durchgeschüttelt."
 
 # game/NPC/ALISA.rpy:621
 translate german alisa_concert_4bf89df2:
 
     # ta "Я все правильно делаю?"
-    ta "Я все правильно делаю?"
+    ta "Mach ich das richtig?"
 
 # game/NPC/ALISA.rpy:624
 translate german alisa_concert_baab10ec:
 
     # john "Да, сучка. Еще немного, и я обкончаю твои сладкие сисечки!"
-    john "Да, сучка. Еще немного, и я обкончаю твои сладкие сисечки!"
+    john "Ja, Schlampe. Ein bisschen noch und ich spritz dir über deine knackigen Titten!"
 
 # game/NPC/ALISA.rpy:625
 translate german alisa_concert_ce470e41:
 
     # ta "Это так грубо! Но мне нравится..."
-    ta "Это так грубо! Но мне нравится..."
+    ta "Das ist so grob! Aber ich mag es ..."
 
 # game/NPC/ALISA.rpy:626
 translate german alisa_concert_e509077e:
 
     # john "Да! Я кончаю!"
-    john "Да! Я кончаю!"
+    john "Ja! Ich komme!"
 
 # game/NPC/ALISA.rpy:629
 translate german alisa_concert_0d4b6645:
 
     # aut "Пока я дрожала от оргазма, Эш шептала мен на ухо:"
-    aut "Пока я дрожала от оргазма, Эш шептала мен на ухо:"
+    aut "Während ich noch vom Orgasmus geschüttelt wurde, flüsterte Ash mir etwas ins Ohr:"
 
 # game/NPC/ALISA.rpy:630
 translate german alisa_concert_6466fcd1:
 
     # ash "Я знаю, что тебя заводит это..."
-    ash "Я знаю, что тебя заводит это..."
+    ash "Ich weiß es macht dich an ..."
 
 # game/NPC/ALISA.rpy:631
 translate german alisa_concert_29ca9ff9:
 
     # ash "Тебе тоже нравится смотреть, как мой парень покрывает спермой юную грудь твоей сестренки. Не так ли?"
-    ash "Тебе тоже нравится смотреть, как мой парень покрывает спермой юную грудь твоей сестренки. Не так ли?"
+    ash "Dir gefällt es wie mein Freund die Brüste deiner kleinen Schwester vollspritzt, oder?"
 
 # game/NPC/ALISA.rpy:632
 translate german alisa_concert_2521ba46:
 
     # ash "Она такая славная... Такая невинная... Я знаю, Джон бы с удовольствием отодрал ее во все дыры, как суку."
-    ash "Она такая славная... Такая невинная... Я знаю, Джон бы с удовольствием отодрал ее во все дыры, как суку."
+    ash "Sie ist so süß ... So unschuldig ... Ich weiß,  John würde liebend gerne sie in alle Löcher ficken wie eine Schlampe."
 
 # game/NPC/ALISA.rpy:633
 translate german alisa_concert_482a0421:
 
     # ash "А я бы с радостью на это посмотрела. Но всему свое время..."
-    ash "А я бы с радостью на это посмотрела. Но всему свое время..."
+    ash "Und ich würde liebend gerne zusehen. Aber Alles zu seiner Zeit ..."
 
 # game/NPC/ALISA.rpy:636
 translate german alisa_concert_bf033ec3:
 
     # aut "Я невольно представила картину, как Джон жестко трахает Таню сзади, вгоняя свой большой член в ее попку."
-    aut "Я невольно представила картину, как Джон жестко трахает Таню сзади, вгоняя свой большой член в ее попку."
+    aut "Vor meinem inneren Auge sah ich, wie John Tanja hart von hinten fickt und seinen großen Schwanz tief in ihrem Arsch versenkte."
 
 # game/NPC/ALISA.rpy:637
 translate german alisa_concert_0675141a:
 
     # aut "К своему ужасу я поняла, что меня жутко заводит эта картина..."
-    aut "К своему ужасу я поняла, что меня жутко заводит эта картина..."
+    aut "Zu meinem Entsetzen musste ich feststellen, das mich das Bild schrecklich scharf machte ..."
 
 # game/NPC/ALISA.rpy:641
 translate german alisa_concert_8fff202c:
 
     # ta "Эй, а чего это вы здесь сидите голые? Алекс, ты знала, что сперма такая горячая и густая?"
-    ta "Эй, а чего это вы здесь сидите голые? Алекс, ты знала, что сперма такая горячая и густая?"
+    ta "Hey? Warum sitzt ihr da nackig rum? Alex wusstest du, dass Sperma so heiß und dickflüssig ist?"
 
 # game/NPC/ALISA.rpy:642
 translate german alisa_concert_fddce0fc:
 
     # ta "Алекс? Ты в порядке?"
-    ta "Алекс? Ты в порядке?"
+    ta "Alex? Alles in Ordnung?"
 
 # game/NPC/ALISA.rpy:643
 translate german alisa_concert_6d6f4cc1:
 
     # ash "Она в порядке. Сейчас я приведу ее в чувства."
-    ash "Она в порядке. Сейчас я приведу ее в чувства."
+    ash "Ihr geht es gut. Warte, ich bring sie wieder zur Besinnung."
 
 # game/NPC/ALISA.rpy:645
 translate german alisa_concert_13869eca:
 
     # aut "Я не сразу опомнилась и пришла в себя. Я попросила у Эш салфетки, чтобы привести Таню в порядок."
-    aut "Я не сразу опомнилась и пришла в себя. Я попросила у Эш салфетки, чтобы привести Таню в порядок."
+    aut "Ich kam nicht sofort zu mir. Ich bat Ash um einige Tücher um Tanja sauberzumachen."
 
 # game/NPC/ALISA.rpy:646
 translate german alisa_concert_4b3b6bd3:
 
     # aut "Было уже поздно и я решила проводить сестру домой. Таня без умолку болтала, рассказывая о своих ощущениях и новых открытиях."
-    aut "Было уже поздно и я решила проводить сестру домой. Таня без умолку болтала, рассказывая о своих ощущениях и новых открытиях."
+    aut "Es war schon spät und ich brachte Tanja noch heim. Sie schnatterte die ganze Zeit über ihre Gefühle und Entdeckungen."
 
 # game/NPC/ALISA.rpy:665
 translate german alisa_concert_95c9d094:
 
     # aut "Я всю дорогу молчала, потому что в голову приходили только какие-то глупые нравоучения. В самом деле, Таня уже взрослая, и мне придется с этим смириться."
-    aut "Я всю дорогу молчала, потому что в голову приходили только какие-то глупые нравоучения. В самом деле, Таня уже взрослая, и мне придется с этим смириться."
+    aut "Ich schwieg vor mich hin, mir kamen nur alte Moralvorwürfe ins Hirn. Aber Tanja war erwachsen und ich musste lernen mich damit abzufinden."
 
 # game/NPC/ALISA.rpy:666
 translate german alisa_concert_520a9ec2:
 
     # aut "Тем более я явно не тот человек, который имеет право рассказывать кому-то о целомудрии..."
-    aut "Тем более я явно не тот человек, который имеет право рассказывать кому-то о целомудрии..."
+    aut "Und ich war ganz sicher keine Heilige die von Zölibat und Enthaltung predigen sollte ..."
 
 # game/NPC/ALISA.rpy:667
 translate german alisa_concert_7e232025:
 
     # aut "Я решила, что просто буду делать все, чтобы с Таней ничего не случилось."
-    aut "Я решила, что просто буду делать все, чтобы с Таней ничего не случилось."
+    aut "Ich würde einfach nur Alles tun, damit Tanja nichts dabei zustößt."
 
 translate german strings:
 
     # game/NPC/ALISA.rpy:664
     old "Прийти на репетицию в другой день"
-    new "Прийти на репетицию в другой день"
+    new "Komm zur Probe morgen"
 
