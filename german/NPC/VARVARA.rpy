@@ -4055,23 +4055,23 @@ translate german strings:
 
     # game/NPC/VARVARA.rpy:405
     old "{#image=cour_h}{color=#8c8c8d}{b}Войти{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Komm herein{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:405
     old "{#image=cour}{b}Войти{/b}"
-    new ""
+    new "{#image=cour}{b}Komm herein{/b}"
 
     # game/NPC/VARVARA.rpy:750
     old "{b}Почему вы не замужем?{/b}"
-    new ""
+    new "{b}Warum bist Du singel?{/b}"
 
     # game/NPC/VARVARA.rpy:750
     old "{b}Я нашла ваш паспорт{/b}"
-    new ""
+    new "{b}Ich habe deinen Reisepass gefunden{/b}"
 
     # game/NPC/VARVARA.rpy:750
     old "{b}*Спросить про анальный секс*{/b}"
-    new ""
+    new "{b}*Stellt Fragen über Analsex*{/b}"
 
 # TODO: Translation updated at 2022-02-16 13:31
 
@@ -4079,295 +4079,295 @@ translate german strings:
 translate german barb_gost_strapon_e5bd556e:
 
     # varv "Алекс, я уже заждалась..."
-    varv ""
+    varv "Alex, ich habe auf dich gewartet..."
 
 # game/NPC/VARVARA.rpy:2142
 translate german barb_gost_strapon_80f38ad8:
 
     # aut "Барбара вышла из гостиной в странном откровенном наряде."
-    aut ""
+    aut "Barbara kam in einem freizügigen Outfit aus dem Wohnzimmer"
 
 # game/NPC/VARVARA.rpy:2143
 translate german barb_gost_strapon_a6ce8773:
 
     # varv "Мне нужно обсудить с тобой одно дело."
-    varv ""
+    varv "Ich muss Etwas mit Dir besprechen."
 
 # game/NPC/VARVARA.rpy:2144
 translate german barb_gost_strapon_35020356:
 
     # aut "По телевизору показывали какое-то порно. Миссис Морган подготовилась."
-    aut ""
+    aut "Im Fernsehen lief ein Porno. Mrs. Morgan war gut vorbereitet."
 
 # game/NPC/VARVARA.rpy:2147
 translate german barb_gost_strapon_e4f34d48:
 
     # aut "Я опустила глаза и увидела внушительных размеров резиновый член."
-    aut ""
+    aut "Ich senkte meinen Blick und sah einen beeindruckend großen Gummischwanz."
 
 # game/NPC/VARVARA.rpy:2148
 translate german barb_gost_strapon_9c80da17:
 
     # gg fear "Барбара! Валери же может увидеть!!!"
-    gg fear ""
+    gg fear "Barbara! Valerie könnte es sehen!"
 
 # game/NPC/VARVARA.rpy:2149
 translate german barb_gost_strapon_2f3e9ff7:
 
     # varv "Ее нет дома, и на ночь она не придет."
-    varv ""
+    varv "Sie ist nicht hier und wird heute Nacht auch nicht mehr kommen."
 
 # game/NPC/VARVARA.rpy:2150
 translate german barb_gost_strapon_23e7cae5:
 
     # varv "Я планирую отомстить за то нападение на кухне. Так что не заставляй меня ждать, грязная девочка... Раздевайся!"
-    varv ""
+    varv "Ich habe vor, mich für den Angriff in der Küche zu rächen. Also lass mich nicht warten, versautes Mädchen... Zieh dich aus!"
 
 # game/NPC/VARVARA.rpy:2153
 translate german barb_gost_strapon_927d390f:
 
     # gg zadum "Он довольно... Большой..."
-    gg zadum ""
+    gg zadum "Er ist wirklich... Groß..."
 
 # game/NPC/VARVARA.rpy:2154
 translate german barb_gost_strapon_4814bbf1:
 
     # varv "Уверена, ты справишься."
-    varv ""
+    varv "Ich bin mir sicher, dass Du es schaffen wirst."
 
 # game/NPC/VARVARA.rpy:2155
 translate german barb_gost_strapon_25590660:
 
     # aut "Предложение было слишком заманчивым. Вэл не так часто уходила куда-то на всю ночь, а Барбара была так соблазнительна в этом наряде..."
-    aut ""
+    aut "Das Angebot war zu verlockend. Val ist nicht oft die ganze Nacht aus und Barbara war in diesem Outfit so verführerisch..."
 
 # game/NPC/VARVARA.rpy:2167
 translate german barb_gost_strapon_438d7c9d:
 
     # alex "И о чем же вы хотели поговорить, миссис Морган?"
-    alex ""
+    alex "Und worüber möchten Sie mit mir sprechen, Mrs. Morgan?"
 
 # game/NPC/VARVARA.rpy:2178
 translate german barb_gost_strapon_b6c82cf2:
 
     # varv "О вашем неподобающем поведении, мисс Нэш. Думаю, вы заслужили наказание!"
-    varv ""
+    varv "Über Ihr ungezogenes Verhalten, Miss Nash. Ich denke, Sie verdienen eine Bestrafung!"
 
 # game/NPC/VARVARA.rpy:2184
 translate german barb_gost_strapon_35eafa3f:
 
     # alex "Если в наказание вы оттрахаете меня этим черным красавцем, то я не против."
-    alex ""
+    alex "Wenn Du mich zur Strafe mit diesem Schwarzen Ding ficken möchtest, habe ich nichts dagegen."
 
 # game/NPC/VARVARA.rpy:2196
 translate german barb_gost_strapon_e2477f5e:
 
     # varv "Наказание не должно приносить удовольствие, шлюшка!"
-    varv ""
+    varv "Eine Bestrafung sollte Dich nicht amüsieren, Schlampe!"
 
 # game/NPC/VARVARA.rpy:2197
 translate german barb_gost_strapon_7c168935:
 
     # alex "Но что поделать, если это так заводит..."
-    alex ""
+    alex "Aber ich kann nichts dagegen tun.Es macht mich so heiß..."
 
 # game/NPC/VARVARA.rpy:2198
 translate german barb_gost_strapon_3d942730:
 
     # aut "От близкого дыхания Барбары по спине побежал холодок. Возбуждение разгоралось во мне, и моя рука сама потянулась вниз."
-    aut ""
+    aut "Barbaras dichter Atem ließ mir einen Schauer über den Rücken laufen. Erregung flammte in mir auf und meine Hand Griff wie von selbst nach unten."
 
 # game/NPC/VARVARA.rpy:2199
 translate german barb_gost_strapon_ed298943:
 
     # alex "Я готова принять свою участь, миссис Морган."
-    alex ""
+    alex "Ich bin bereit mein Schicksal zu akzeptieren, Mrs. Morgan."
 
 # game/NPC/VARVARA.rpy:2211
 translate german barb_gost_strapon_539c555f:
 
     # aut "Барбара грубо схватила меня за бедра и прижала к себе. Резиновый гигант уперся в мою промежность."
-    aut ""
+    aut "Barbara packte mich grob an den Hüften und zog mich an sich. Der Gummiriese drückte gegen meine Vagina. "
 
 # game/NPC/VARVARA.rpy:2212
 translate german barb_gost_strapon_b5a2b87d:
 
     # varv "Говоришь, готова принять участь? Так получай!"
-    varv ""
+    varv "Du sagst also, Du bist bereit? Dann nimm Das!"
 
 # game/NPC/VARVARA.rpy:2215
 translate german barb_gost_strapon_b4411138:
 
     # aut "Барбара грубо надавила, и страпон до половины вошел в меня."
-    aut ""
+    aut "Barabare drückte den Strapon fester gegen meine Vagina, so dass er zur Hälfte in mich eindring."
 
 # game/NPC/VARVARA.rpy:2216
 translate german barb_gost_strapon_63a9475e:
 
     # aut "Я уже достаточно возбудилась, чтобы не испытать боль от внезапного проникновения."
-    aut ""
+    aut "Ich war bereits geil genug, um den Schmerz der plötzlichen Penetration nicht zu spüren."
 
 # game/NPC/VARVARA.rpy:2230
 translate german barb_gost_strapon_08eec34a:
 
     # aut "Дилдо был очень гладким и мягким. Казалось, он полностью заполнил меня изнутри."
-    aut ""
+    aut "Der Dildo war sehr weich und glatt. Es schien, als würde er mich von innen komplett ausfüllen."
 
 # game/NPC/VARVARA.rpy:2231
 translate german barb_gost_strapon_ef747e9a:
 
     # aut "Но с каждым толчком Барбара загоняла его все глубже."
-    aut ""
+    aut "Aber mit jedem stoß stieß Barbara ihn tiefer in mich hinein."
 
 # game/NPC/VARVARA.rpy:2243
 translate german barb_gost_strapon_1f004981:
 
     # aut "В какой-то момент ее стоны превратились в рык. Барбара впилась пальцами в мою плоть, пытаясь полностью вогнать в меня резиновый член."
-    aut ""
+    aut "Plötzlich wechselte ihr Stöhnen zu einem Knurren. Barbara griff noch fester zu und versuchte, den kompletten Gummischwanz in mich hineinzudrücken. "
 
 # game/NPC/VARVARA.rpy:2244
 translate german barb_gost_strapon_b6ab880e:
 
     # aut "Во мне все горело. Я полностью отдалась ощущениям, расворяясь в процессе, и ожидая бурного финала."
-    aut ""
+    aut "Mein ganzer Körper pulsierte. Ich gab mich den Empfindungen hin, löste mich in diesen auf und wartete auf das stürmische Finale."
 
 # game/NPC/VARVARA.rpy:2245
 translate german barb_gost_strapon_7951a5a0:
 
     # lera "Маам, я дома!"
-    lera ""
+    lera "Mama, ich bin Zuhause!"
 
 # game/NPC/VARVARA.rpy:2257
 translate german barb_gost_strapon_71805731:
 
     # alex "!!!"
-    alex ""
+    alex "!!!"
 
 # game/NPC/VARVARA.rpy:2258
 translate german barb_gost_strapon_15451fb6:
 
     # varv "???"
-    varv ""
+    varv "???"
 
 # game/NPC/VARVARA.rpy:2259
 translate german barb_gost_strapon_0b0a5112:
 
     # lera "Там такой дождь начался, что я даже не доехала. Решили встретиться в другой раз."
-    lera ""
+    lera "Dort fing es so stark an zu regnen, dass ich gar nicht erst ankam. Wir haben beschlossen, uns ein anderes Mal zu treffen."
 
 # game/NPC/VARVARA.rpy:2273
 translate german barb_gost_strapon_37d40e48:
 
     # varv "*шепотом* Падай за диван!"
-    varv ""
+    varv "*Flüsternd* Fall hinter das Sofa!"
 
 # game/NPC/VARVARA.rpy:2274
 translate german barb_gost_strapon_18820eed:
 
     # alex "*шепотом* Чего?"
-    alex ""
+    alex "*Flüsternd* Was?"
 
 # game/NPC/VARVARA.rpy:2275
 translate german barb_gost_strapon_f714e1d2:
 
     # varv "*шепотом* Живо!"
-    varv ""
+    varv "*Flüsternd* Jetzt!"
 
 # game/NPC/VARVARA.rpy:2276
 translate german barb_gost_strapon_62c91a14:
 
     # aut "У нас было буквально несколько секунд на принятие решения, пока Валери разувалась в прихожей."
-    aut ""
+    aut "Wir hatten nur ein paar Sekunden Zeit um eine Entscheidung zu fällen, während Valerie im Flur ihre Schuhe auszog."
 
 # game/NPC/VARVARA.rpy:2277
 translate german barb_gost_strapon_790a372a:
 
     # aut "Страпон вывалился из меня с влажным звуком. Я перекатилась через диван и упала на пол."
-    aut ""
+    aut "Der Strap-on fiel mit einem feuchten Geräusch aus mir heraus. Ich rollte über das Sofa und fiel auf den Boden."
 
 # game/NPC/VARVARA.rpy:2278
 translate german barb_gost_strapon_48dfdca2:
 
     # aut "Барбара схватила одеяло и попыталась прикрыться."
-    aut ""
+    aut "Barbara schnappte sich eine Decke und versuchte, sich zuzudecken."
 
 # game/NPC/VARVARA.rpy:2281
 translate german barb_gost_strapon_63d55325:
 
     # lera "Фух, хорошо, что зонтик взяла..."
-    lera ""
+    lera "Puh, gut, dass ich meinen Regenschirm dabei hatte."
 
 # game/NPC/VARVARA.rpy:2284
 translate german barb_gost_strapon_8cb82392:
 
     # varv "Эм... Да... Зонтики... Прекрасное изобретение человечества!"
-    varv ""
+    varv "Ähm ... Ja... Regenschirme... Eine wundervolle Erfindung der Menschheit."
 
 # game/NPC/VARVARA.rpy:2285
 translate german barb_gost_strapon_699e7a2a:
 
     # aut "Барбара нервно и фальшиво захихикала."
-    aut ""
+    aut "Barbara kicherte nervös und künstlich"
 
 # game/NPC/VARVARA.rpy:2291
 translate german barb_gost_strapon_d05a001c:
 
     # lera "Ты обычно уже спишь в это время."
-    lera ""
+    lera "Um diese Zeit schläfst du doch normalerweise schon."
 
 # game/NPC/VARVARA.rpy:2292
 translate german barb_gost_strapon_292e6046:
 
     # lera "Решила отпраздновать мое отсутствие вечерним просмотром..."
-    lera ""
+    lera "Ich beschloss, meine Abwesenheit mit einem Filmabend zu feiern...
 
 # game/NPC/VARVARA.rpy:2296
 translate german barb_gost_strapon_98963bfd:
 
     # lera "Ой... Блин... Мам, извини, неловко вышло. Я в следующий раз буду звонить заранее, ладно?"
-    lera ""
+    lera "Hoppla... Oh, Mann... Mama, es tut mir leid, das ist mir unangenehm. Das nächste Mal rufe ich vorher an, okay?"
 
 # game/NPC/VARVARA.rpy:2297
 translate german barb_gost_strapon_9ea8c024:
 
     # lera "Я... буду в своей комнате."
-    lera ""
+    lera "Ich... bin dann mal in meinem Zimmer."
 
 # game/NPC/VARVARA.rpy:2309
 translate german barb_gost_strapon_fc75b223:
 
     # alex2 "Вот блять... Мы не успели переключить канал..."
-    alex2 ""
+    alex2 "Oh, verdammt... Wir hatten keine Zeit mehr, um den Kanal zu wechseln"
 
 # game/NPC/VARVARA.rpy:2310
 translate german barb_gost_strapon_c72bd230:
 
     # alex2 "Но Вэл подумала, будто Барбара смотрит порно одна."
-    alex2 ""
+    alex2 "Aber Val dachte, Barbara würde sich allein einen Porno ansehen."
 
 # game/NPC/VARVARA.rpy:2311
 translate german barb_gost_strapon_937240c3:
 
     # alex2 "Идея спрятаться за диваном была не такой уж глупой."
-    alex2 ""
+    alex2 "Die Idee, sich hinter dem Sofa zu verstecken, war gar nicht so dumm."
 
 # game/NPC/VARVARA.rpy:2312
 translate german barb_gost_strapon_10e8835c:
 
     # varv "*шепотом* Алекс! Путь свободен. Быстро дуй в свою комнату!"
-    varv ""
+    varv "*Flüsternd* Alex! Die Luft ist rein. Schnell, renn in dein Zimmer!"
 
 # game/NPC/VARVARA.rpy:2324
 translate german barb_gost_strapon_f3e315a8:
 
     # aut "Я сгребла в одну кучу свою одежду и лишний раз убедилась, что Валери нет рядом."
-    aut ""
+    aut "Ich sammelte meine Kleider auf einen Haufen und vergewisserte mich noch einmal, dass Valerie nicht in der Nähe war."
 
 # game/NPC/VARVARA.rpy:2325
 translate german barb_gost_strapon_f393e30c:
 
     # alex2 "Я думала, Барбара знает, что делает. Нужно быть с этим аккуратнее. Больше никакого секса в гостиной!"
-    alex2 ""
+    alex2 "Ich dachte, Barbara wüsste, was sie tut. Wir müssen vorsichtiger sein. Kein Sex mehr im Wohnzimmer!"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -4375,41 +4375,41 @@ translate german barb_gost_strapon_f393e30c:
 translate german varvroom_9c47a642:
 
     # varv "Мальчики, я хочу почувствовать его поглубже! А вы?"
-    varv "Мальчики, я хочу почувствовать его поглубже! А вы?"
+    varv "Leute, ich will es tiefer spüren! Was ist mit Dir?"
 
 translate german strings:
 
     # game/NPC/VARVARA.rpy:402
     old "Снять себя на телефон ({image=smel_.png} 9([allsmel]))"
-    new "Снять себя на телефон ({image=smel_.png} 9([allsmel]))"
+    new "Film dich selbst ({image=smel_.png} 9([allsmel]))"
 
     # game/NPC/VARVARA.rpy:702
     old "{b}С удовольствием{/b}"
-    new "{b}С удовольствием{/b}"
+    new "{b}Mit Vergnügen{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Студия готова!{/b}"
-    new "{b}Студия готова!{/b}"
+    new "{b}Das Studio ist bereit!{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Я сделала ремонт{/b}"
-    new "{b}Я сделала ремонт{/b}"
+    new "{b}Ich habe Reparaturen vorgenommen{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Давайте я вам помогу{/b}"
-    new "{b}Давайте я вам помогу{/b}"
+    new "{b}Lass mich Dir helfen{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Спросить о физической форме{/b}"
-    new "{b}Спросить о физической форме{/b}"
+    new "{b}Fragen zur körperlichen Fitness{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Как тренировка?{/b}"
-    new "{b}Как тренировка?{/b}"
+    new "{b}Wie war die Ausbildung?{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Спросить про анальные игрушки{/b}"
-    new "{b}Спросить про анальные игрушки{/b}"
+    new "{b}Fragen über Analspielzeug{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}У меня есть помещение{/b}"
@@ -4417,41 +4417,41 @@ translate german strings:
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Вебкам студия{/b}"
-    new "{b}Вебкам студия{/b}"
+    new "{b}Webcam-Studio{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{#image=cour_h}{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Überrasche Barbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
-    new "{color=#8c8c8d}{b}Сделать Барбаре сюрприз{/b}{/color}"
+    new "{color=#8c8c8d}{b}Überrasche Barbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Сделать Барбаре сюрприз{/b}"
-    new "{b}Сделать Барбаре сюрприз{/b}"
+    new "{b}Überrasche Barbara{/b}"
 
     # game/NPC/VARVARA.rpy:762
     old "{color=#8c8c8d}{b}Трахнуть Барбару{/b}{/color}"
-    new "{color=#8c8c8d}{b}Трахнуть Барбару{/b}{/color}"
+    new "{color=#8c8c8d}{b}Fick Barbara{/b}{/color}"
 
     # game/NPC/VARVARA.rpy:762
     old "{b}Трахнуть Барбару{/b}"
-    new "{b}Трахнуть Барбару{/b}"
+    new "{b}Fick Barbara{/b}"
 
     # game/NPC/VARVARA.rpy:792
     old "Продолжать вебкам-трансляции"
-    new "Продолжать вебкам-трансляции"
+    new "Webcam-Übertragungen fortsetzen"
 
     # game/NPC/VARVARA.rpy:950
     old "Зайти к Барбаре c 23:00 до 1:00 ({image=smel_.png} 5([allsmel]))"
-    new "Зайти к Барбаре c 23:00 до 1:00 ({image=smel_.png} 5([allsmel]))"
+    new "Besuche Barbara zwischen 23:00 und 1:00 ({image=smel_.png} 5([allsmel]))"
 
     # game/NPC/VARVARA.rpy:1049
     old "Снова помочь Барбаре (Сб 9:00) ({image=sharm0_.png} 51([allsharm]))"
-    new "Снова помочь Барбаре (Сб 9:00) ({image=sharm0_.png} 51([allsharm]))"
+    new "Helf Barbara nochmal (Sa 9:00) ({image=sharm0_.png} 51([allsharm]))"
 
     # game/NPC/VARVARA.rpy:1790
     old "Зайти к Барбаре (23:00 - 1:00) ({image=smel_.png} 13([allsmel]))"
-    new "Зайти к Барбаре (23:00 - 1:00) ({image=smel_.png} 13([allsmel]))"
+    new "Besuche Barbara zwischen 23:00 und 1:00 ({image=smel_.png} 13([allsmel]))"
 
