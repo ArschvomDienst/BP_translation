@@ -418,5 +418,5 @@ translate german strings:
 
     # game/NPC/AMANDA.rpy:267
     old "{b}Теперь я работаю с вами{/b}"
-    new ""
+    new "{b}Jetzt arbeite ich mit Dir{/b}"
 
