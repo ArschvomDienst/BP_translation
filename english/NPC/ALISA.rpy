@@ -1294,7 +1294,7 @@ translate english alisa_concert_33e6a979:
 translate english alisa_concert_ea77f38c:
 
     # ta "Так я ее сниму!"
-    ta "Так я ее сниму!"
+    ta "I'll take it off then!"
 
 # game/NPC/ALISA.rpy:606
 translate english alisa_concert_ed4f54a0:

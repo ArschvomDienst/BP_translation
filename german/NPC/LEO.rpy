@@ -1307,5 +1307,5 @@ translate german strings:
 
     # game/NPC/LEO.rpy:46
     old "{b}У тебя такие сильные руки{/b}"
-    new "{b}У тебя такие сильные руки{/b}"
+    new "{b}Du hast so starke Hände{/b}"
 

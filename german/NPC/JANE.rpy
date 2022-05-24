@@ -1948,15 +1948,15 @@ translate german strings:
 
     # game/NPC/JANE.rpy:512
     old "{b}Присоединиться{/b}"
-    new ""
+    new "{b}Beitreten{/b}"
 
     # game/NPC/JANE.rpy:512
     old "{color=#00ff00}{b}Что не так с туалетом?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Was stimmt nicht mit der Toilette?{/b}{/color}"
 
     # game/NPC/JANE.rpy:512
     old "{color=#00ff00}{b}Почему ты ничего не сказала?!{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Warum hast du nichts gesagt?!{/b}{/color}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1964,17 +1964,17 @@ translate german strings:
 
     # game/NPC/JANE.rpy:202
     old "Развивать отношения с другими персонажами"
-    new "Развивать отношения с другими персонажами"
+    new "Baue Beziehungen zu anderen Leuten auf"
 
     # game/NPC/JANE.rpy:318
     old "Обустроиться в новой квартире."
-    new "Обустроиться в новой квартире."
+    new "Such dir ein neues Apartment"
 
     # game/NPC/JANE.rpy:529
     old "{b}Ты хорошо знаешь Аманду?{/b}"
-    new "{b}Ты хорошо знаешь Аманду?{/b}"
+    new "{b}Kennst du Amanda gut?{/b}"
 
     # game/NPC/JANE.rpy:598
     old "Поработать в выходной до 15:00 {image=smel_.png}4([allsmel]))"
-    new "Поработать в выходной до 15:00 {image=smel_.png}4([allsmel]))"
+    new "Arbeite am Wochenende bis 15:00 {image=smel_.png}4([allsmel]))"
 
