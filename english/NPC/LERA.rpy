@@ -4635,8 +4635,8 @@ translate english alex_val_dildo_night_08dc1260:
 translate english alex_val_dildo_night_e3a33fab:
 
     # aut "Поддавшись какому-то внутреннему импульсу, я сделал шаг ей навстречу."
-    aut "Это была другая Валерия. Не игривая и озорная, а сексуальная, горячая и притягательная."
-
+    aut "Yielding to some inner impulse, I took a step towards her."
+	
 # game/NPC/LERA.rpy:2698
 translate english alex_val_dildo_night_e2ee4120:
 
@@ -4835,7 +4835,7 @@ translate english strings:
 
     # game/NPC/LERA.rpy:1112
     old "Нужно купить коврик"
-    new "Need to buy a rug"
+    new "Need to buy a mat"
 
     # game/NPC/LERA.rpy:1118
     old "{color=#8c8c8d}{b}Заниматься без одежды{/b}{/color}"
