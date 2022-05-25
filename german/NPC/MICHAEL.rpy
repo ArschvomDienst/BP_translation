@@ -2738,19 +2738,19 @@ translate german strings:
 
     # game/NPC/MICHAEL.rpy:104
     old "{color=#00ff00}{b}Я нашла Джилл{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich hab Jill gefunden{/b}{/color}"
 
     # game/NPC/MICHAEL.rpy:104
     old "{color=#00ff00}{b}Как называлась ваша группа?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Wie ist der Name der Band?{/b}{/color}"
 
     # game/NPC/MICHAEL.rpy:104
     old "{color=#00ff00}{b}Что насчет вашего предложения?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Was ist mit deinem Vorschlag?{/b}{/color}"
 
     # game/NPC/MICHAEL.rpy:104
     old "{color=#00ff00}{b}Песни готовы{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Die Lieder sind fertig{/b}{/color}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -2758,71 +2758,71 @@ translate german strings:
 translate german dia_michael_7b883d15:
 
     # gg smile "Ну как настроение? Порепетируем?"
-    gg smile "Ну как настроение? Порепетируем?"
+    gg smile "Wie fühlst du dich? Können wir proben?"
 
 # game/NPC/MICHAEL.rpy:7
 translate german dia_michael_da226dd2:
 
     # michael "Слушай, Киан почему-то не пришел и трубку не берет."
-    michael "Слушай, Киан почему-то не пришел и трубку не берет."
+    michael "Aus irgendeinem Grund ist Kean nicht da und er geht nicht ans Telefon"
 
 # game/NPC/MICHAEL.rpy:8
 translate german dia_michael_945e8ab9:
 
     # michael "Ты не могла бы сходить в салон, а я пока домой к нему заеду. Вдруг случилось чего."
-    michael "Ты не могла бы сходить в салон, а я пока домой к нему заеду. Вдруг случилось чего."
+    michael "Könntest du bitte in den Autosalon gehen? Ich seh derweil bei ihm zuhause nach. Nicht dass etwas passiert ist."
 
 # game/NPC/MICHAEL.rpy:9
 translate german dia_michael_aa126e38:
 
     # gg zadum "Конечно, я схожу. Надеюсь, с Кианом все хорошо."
-    gg zadum "Конечно, я схожу. Надеюсь, с Кианом все хорошо."
+    gg zadum "Natürlich. Ich hoffe Kean geht es gut."
 
 # game/NPC/MICHAEL.rpy:12
 translate german dia_michael_93e0aea2:
 
     # gg2 hit "Тины нет на посту. Неужали я снова застану голубков за любовными утехами?"
-    gg2 hit "Тины нет на посту. Неужали я снова застану голубков за любовными утехами?"
+    gg2 hit "Tina ist nicht an ihrem Platz. Finde ich die Beiden wirklich beim Sex?"
 
 # game/NPC/MICHAEL.rpy:444
 translate german michael_dress_menu_c445c981:
 
     # rick "Довольно-таки рок-н-рольно... НА СЦЕНЕ \"[band_name!u]\"!!! Да, охуенно звучит."
-    rick "Довольно-таки рок-н-рольно... НА СЦЕНЕ \"[band_name!u]\"!!! Да, охуенно звучит."
+    rick "Sehr Rock'n'Roll AUF DER BÜHNE \"[band_name!u]\"!!! Ja, das klingt geil!"
 
 # game/NPC/MICHAEL.rpy:754
 translate german guitar_lesson_87543a1e:
 
     # alex "Спасибо за заботу."
-    alex "Спасибо за заботу."
+    alex "Danke dass du dir Sorgen gemacht hast."
 
 translate german strings:
 
     # game/NPC/MICHAEL.rpy:121
     old "{color=#00ff00}{b}Я договорилась о пиротехнике{/b}{/color}"
-    new "{color=#00ff00}{b}Я договорилась о пиротехнике{/b}{/color}"
+    new "{color=#00ff00}{b}Ich hab mich um die Pyrotechnik gekümmert{/b}{/color}"
 
     # game/NPC/MICHAEL.rpy:121
     old "{b}Начнем занятие{/b}"
-    new "{b}Начнем занятие{/b}"
+    new "{b}Lass uns mit dem Unterricht anfangen{/b}"
 
     # game/NPC/MICHAEL.rpy:121
     old "{b}Начнем репетицию{/b}"
-    new "{b}Начнем репетицию{/b}"
+    new "{b}Lass uns proben{/b}"
 
     # game/NPC/MICHAEL.rpy:121
     old "{b}Что за девушка приходит сюда?{/b}"
-    new "{b}Что за девушка приходит сюда?{/b}"
+    new "{b}Welche Art von Mädchen kommt hierher?{/b}"
 
     # game/NPC/MICHAEL.rpy:396
     old "Заниматься вокалом у Фальцета([vocal]/15)"
-    new "Заниматься вокалом у Фальцета([vocal]/15)"
+    new "Trainiere deine Stimme mit Falsetto([vocal]/15)"
 
     # game/NPC/MICHAEL.rpy:397
     old "Написать больше песен (10)"
-    new "Написать больше песен (10)"
+    new "Schreib mehr Lieder (10)"
 
     # game/NPC/MICHAEL.rpy:473
     old "Заниматься на гитаре с Майклом (13:00-15:00)([guitar_lessons_all]/6)"
-    new "Заниматься на гитаре с Майклом (13:00-15:00)([guitar_lessons_all]/6)"
+    new "Lerne Gitarre mit Michael (13:00-15:00)([guitar_lessons_all]/6)"
 

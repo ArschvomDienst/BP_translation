@@ -996,39 +996,39 @@ translate german strings:
 
     # game/NPC/MARGIE.rpy:289
     old "{color=#faa8ff}{b}Я хочу приобрести абонемент{/b}{/color}"
-    new ""
+    new "{color=#faa8ff}{b}Ich will meine Mitgliedschaft verlängern{/b}{/color}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Где я могу найти Пенелопу?{/b}"
-    new ""
+    new "{b}Wo finde ich Penelope?{/b}"
 
     # game/NPC/MARGIE.rpy:289
     old "{color=#8c8c8d}{b}Может стоит сделать первый шаг?{/b}{/color}"
-    new ""
+    new "{color=#8c8c8d}{b}Vielleicht sollte ich den ersten Schritt wagen?{/b}{/color}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Может стоит сделать первый шаг?{/b}"
-    new ""
+    new "{b}Vielleicht sollte ich den ersten Schritt wagen?{/b}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Могу я присоединиться?{/b}"
-    new ""
+    new "{b}Kann ich mitmachen?{/b}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Насчет Фреда{/b}"
-    new ""
+    new "{b}Wegen Fred{/b}"
 
     # game/NPC/MARGIE.rpy:289
     old "{b}Почему ты не занимаешься у Фреда?{/b}"
-    new ""
+    new "{b}Warum trainierst du nicht bei Fred?{/b}"
 
     # game/NPC/MARGIE.rpy:394
     old "{color=#8c8c8d}{b}Может я смогу помочь?{/b}{/color}"
-    new ""
+    new "{color=#8c8c8d}{b}Vielleicht kann ich helfen?{/b}{/color}"
 
     # game/NPC/MARGIE.rpy:394
     old "{b}Может я смогу помочь?{/b}"
-    new ""
+    new "{b}Vielleicht kann ich helfen?{/b}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1036,13 +1036,13 @@ translate german strings:
 
     # game/NPC/MARGIE.rpy:64
     old "Посетить сауну с Пенелопой (Ср, Сб, Вс. 13:00-16:00) ({image=smel_.png} 15([allsmel]))"
-    new "Посетить сауну с Пенелопой (Ср, Сб, Вс. 13:00-16:00) ({image=smel_.png} 15([allsmel]))"
+    new "Geh mit Penelope in die Sauna (Mi, Sa, So 13:00-16:00) ({image=smel_.png} 15([allsmel]))"
 
     # game/NPC/MARGIE.rpy:377
     old "Улучшить отношения с Марджи до 5([margie_otn])"
-    new "Улучшить отношения с Марджи до 5([margie_otn])"
+    new "Verbessere deine Beziehung zu Margie auf 5([margie_otn])"
 
     # game/NPC/MARGIE.rpy:412
     old "Убедить Марджи помочь Фреду({image=ritor0_.png} 20([ritor]))"
-    new "Убедить Марджи помочь Фреду({image=ritor0_.png} 20([ritor]))"
+    new "Überzeuge Margie, Fred zu helfen({image=ritor0_.png} 20([ritor]))"
 
