@@ -4106,35 +4106,35 @@ translate german strings:
 
     # game/NPC/LERA.rpy:441
     old "{b}Странный человек{/b}"
-    new ""
+    new "{b}Seltsamer Kerl{/b}"
 
     # game/NPC/LERA.rpy:441
     old "{color=#00ff00}{b}Кто такой Директор?{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Wer ist der Direktor?{/b}{/color}"
 
     # game/NPC/LERA.rpy:441
     old "{b}Я увидела слишком много?{/b}"
-    new ""
+    new "{b}Hab ich zuviel gesehen?{/b}"
 
     # game/NPC/LERA.rpy:441
     old "{b}Ты еще и в теннис играешь?{/b}"
-    new ""
+    new "{b}Spielst du auch Tennis?{/b}"
 
     # game/NPC/LERA.rpy:441
     old "{b}Пенелопа передает привет{/b}"
-    new ""
+     new "{b}Penelope schickt Grüße{/b}"
 
     # game/NPC/LERA.rpy:441
     old "{b}Что это за упражнения?{/b}"
-    new ""
+    new "{b}Was sind das für Übungen?{/b}"
 
     # game/NPC/LERA.rpy:441
     old "{color=#00ff00}{b}Я нашла работу{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich hab eine Arbeit gefunden{/b}{/color}"
 
     # game/NPC/LERA.rpy:441
     old "{b}Как вы ладите с сестрой?{/b}"
-    new ""
+    new "{b}Wie läuft es mit deiner Schwester?{/b}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -4142,703 +4142,703 @@ translate german strings:
 translate german valerie_menu_d47e282b:
 
     # gg smile "Если хочешь, давай позанимаемся вместе."
-    gg smile "Если хочешь, давай позанимаемся вместе."
+    gg smile "Lass uns gemeinsam trainieren, wenn du magst"
 
 # game/NPC/LERA.rpy:1117
 translate german valerie_menu_4b440647:
 
     # lera "Оу, это было бы здорово! Неси коврик и переодевайся!"
-    lera "Оу, это было бы здорово! Неси коврик и переодевайся!"
+    lera "Oh, das wäre wunderbar! Nimm dir eine Matte und zieh dich um?"
 
 # game/NPC/LERA.rpy:1126
 translate german valerie_menu_yoga_nude_7f3e4c6d:
 
     # gg smile "А ты не пробовала без одежды заниматься?"
-    gg smile "А ты не пробовала без одежды заниматься?"
+    gg smile "Hast du Nacktyoga schon versucht?"
 
 # game/NPC/LERA.rpy:1127
 translate german valerie_menu_yoga_nude_9728d535:
 
     # lera "Эм... Нет... А зачем?"
-    lera "Эм... Нет... А зачем?"
+    lera "Nun ... nein ... Warum?"
 
 # game/NPC/LERA.rpy:1128
 translate german valerie_menu_yoga_nude_1f36a7a5:
 
     # gg smile "Ну, я была у Пенни, и мы занимались обнаженными. Это правда здорово, давай попробуем!"
-    gg smile "Ну, я была у Пенни, и мы занимались обнаженными. Это правда здорово, давай попробуем!"
+    gg smile "Ich war bei Penny's Haus und wir haben nackt trainiert. Es ist wirklich toll, versuch es doch mal!"
 
 # game/NPC/LERA.rpy:1129
 translate german valerie_menu_yoga_nude_588324f0:
 
     # lera "Ну если тебе правда понравилось..."
-    lera "Ну если тебе правда понравилось..."
+    lera "Wenn es dir so gefallen hat ..."
 
 # game/NPC/LERA.rpy:1248
 translate german valerie_menu_yoga_nude_2aa5f8c2:
 
     # alex2 "Я больше не могу повысить ловкость."
-    alex2 "Я больше не могу повысить ловкость."
+    alex2 "Ich kann meine Geschicklichkeit nicht weiter steigern."
 
 # game/NPC/LERA.rpy:1258
 translate german valerie_menu_yoga_nude_402d453b:
 
     # lera "Ну как, Алекс? Освоилась немного?"
-    lera "Ну как, Алекс? Освоилась немного?"
+    lera "Wie läuft's, Alex? Hast du dich schon eingewöhnt?"
 
 # game/NPC/LERA.rpy:1259
 translate german valerie_menu_yoga_nude_1314e2cc:
 
     # gg happy "Я тебе больше скажу! Я даже работу нашла! Буду работать в кафе-мороженое через дорогу от дома."
-    gg happy "Я тебе больше скажу! Я даже работу нашла! Буду работать в кафе-мороженое через дорогу от дома."
+    gg happy "Klasse. Ich hab gleich einen Job gefunden! Er ist in dem Eiskreme Cafê auf der anderen Straßenseite."
 
 # game/NPC/LERA.rpy:1262
 translate german valerie_menu_yoga_nude_d1fc612a:
 
     # lera "Так это же отлично! Я туда часто хожу. Единственное приличное заведение в нашем районе. Рада за тебя. Кстати, моя мама сейчас в Smartbucks, недалеко отсюда. Пойдем, я вас познакомлю."
-    lera "Так это же отлично! Я туда часто хожу. Единственное приличное заведение в нашем районе. Рада за тебя. Кстати, моя мама сейчас в Smartbucks, недалеко отсюда. Пойдем, я вас познакомлю."
+    lera "Das ist großartig! Ich bin da oft. Es ist der einzig anständige Laden in der Umgebung. Ich freu mich für dich. Meine Mutter ist gerade bei Smartbucks, das ist nicht weit. Komm, ich stell euch vor."
 
 # game/NPC/LERA.rpy:1265
 translate german valerie_menu_yoga_nude_e433c771:
 
     # lera "Так это же отлично! Я туда часто хожу. Единственное приличное заведение в нашем районе. Рада за тебя. Кстати, мама только что вернулась. Пойдем, я вас познакомлю."
-    lera "Так это же отлично! Я туда часто хожу. Единственное приличное заведение в нашем районе. Рада за тебя. Кстати, мама только что вернулась. Пойдем, я вас познакомлю."
+    lera "Das ist großartig! Ich bin da oft. Es ist der einzig anständige Laden in der Umgebung. Ich freu mich für dich. Meine Mutter ist gerade bei Smartbucks, das ist nicht weit. Komm, ich stell euch vor."
 
 # game/NPC/LERA.rpy:1271
 translate german valerie_menu_yoga_nude_0273741e:
 
     # aut "Впечатление миссис Морган тогда произвела на меня неоднозначное. На вид ей можно было дать чуть больше тридцати, хотя я понимала, что ей гораздо больше. Пронизывающий взгляд и сдержанная улыбка не позволяли определить, что на уме у этой женщины."
-    aut "Впечатление миссис Морган тогда произвела на меня неоднозначное. На вид ей можно было дать чуть больше тридцати, хотя я понимала, что ей гораздо больше. Пронизывающий взгляд и сдержанная улыбка не позволяли определить, что на уме у этой женщины."
+    aut "Frau Morgan machte einen seltsamen Eindruck auf mich. Sie sah aus, als wäre sie Anfang 30, aber ich wusste sie war um Einiges älter. Durch ihren stechenden Blick und ihr gepresstes Lächeln waren ihre Gedanke nicht leicht zu erraten."
 
 # game/NPC/LERA.rpy:1272
 translate german valerie_menu_yoga_nude_2d65f29b:
 
     # lera "Алекс, это моя мама, миссис Морган. Мама, это Алекс, я тебе рассказывала."
-    lera "Алекс, это моя мама, миссис Морган. Мама, это Алекс, я тебе рассказывала."
+    lera "Alex das ist meine Mutter, Frau Morgan. Mutti, das ist Alex von der ich dir erzählt hab."
 
 # game/NPC/LERA.rpy:1275
 translate german valerie_menu_yoga_nude_445c43fa:
 
     # varv "Наслышана, наслышана. Валери мне все уши прожужжала. Добро пожаловать, Алекс, приятно познакомиться. Ладно, девочки, мне надо на работу бежать. Увидимся дома!"
-    varv "Наслышана, наслышана. Валери мне все уши прожужжала. Добро пожаловать, Алекс, приятно познакомиться. Ладно, девочки, мне надо на работу бежать. Увидимся дома!"
+    varv "Ich hab schon viel von dir gehört. Valerie hat gar nicht aufgehört, von dir zu erzählen. Willkommen Alex, es ist schön dich zu treffen. Okay Mädchen, jetzt muss ich aber zur Arbeit. Wir sehen uns daheim!"
 
 # game/NPC/LERA.rpy:1277
 translate german valerie_menu_yoga_nude_47eb70e7:
 
     # varv "Наслышана, наслышана. Валери мне все уши прожужжала. Добро пожаловать, Алекс, приятно познакомиться. Не прими за грубость, но я пойду, много работы с бумагами на сегодня."
-    varv "Наслышана, наслышана. Валери мне все уши прожужжала. Добро пожаловать, Алекс, приятно познакомиться. Не прими за грубость, но я пойду, много работы с бумагами на сегодня."
+    varv "Ich hab schon viel von dir gehört. Valerie hat gar nicht aufgehört, von dir zu erzählen. Willkommen Alex, es ist schön dich zu treffen. Okay Mädchen, jetzt muss ich aber zur Arbeit. Wir sehen uns daheim!"
 
 # game/NPC/LERA.rpy:1278
 translate german valerie_menu_yoga_nude_86639ac1:
 
     # varv "И да, можешь называть меня просто Барбара."
-    varv "И да, можешь называть меня просто Барбара."
+    varv "Und nenn mich bitte Barbara."
 
 # game/NPC/LERA.rpy:1279
 translate german valerie_menu_yoga_nude_c03ac379:
 
     # gg smile "Мне тоже приятно познакомиться, миссис... Барбара."
-    gg smile "Мне тоже приятно познакомиться, миссис... Барбара."
+    gg smile "Nett Sie kennenzulernen Frau ... Barbara."
 
 # game/NPC/LERA.rpy:1281
 translate german valerie_menu_yoga_nude_18d949ae:
 
     # lera "Моя мама работает врачом. В наш район вообще скорая едет очень долго, по этому все мою маму знают, и звонят ей, когда что-то случается."
-    lera "Моя мама работает врачом. В наш район вообще скорая едет очень долго, по этому все мою маму знают, и звонят ей, когда что-то случается."
+    lera "Mutti arbeitet als Doktor. Der Krankenwagen braucht lange bis in unser Viertel, also kennen Viele meine Mutter und rufen sie wenn etwas passiert."
 
 # game/NPC/LERA.rpy:1282
 translate german valerie_menu_yoga_nude_e6810a2f:
 
     # lera "Часто она просто срывается посреди ночи и бежит латать чье-то пулевое в подворотне или устранять последствия семейной поножовщины."
-    lera "Часто она просто срывается посреди ночи и бежит латать чье-то пулевое в подворотне или устранять последствия семейной поножовщины."
+    lera "Oft bricht sie mitten in der Nacht auf um eine Schusswunde in einer dunklen Allee zu flicken oder das Ende einer Messerstecherei zu behandeln."
 
 # game/NPC/LERA.rpy:1283
 translate german valerie_menu_yoga_nude_3f200723:
 
     # lera "За это ей не платят обычно, но мама слишком добрая. Иногда она целыми ночами занимается бумагами. Мне ее даже жалко."
-    lera "За это ей не платят обычно, но мама слишком добрая. Иногда она целыми ночами занимается бумагами. Мне ее даже жалко."
+    lera "Meistens wird das nicht bezahlt, aber Mutti macht das trotzdem. Manchmal verbringt sie ganze Nächte mit nichts Anderem als Papierkram. Manchmal tut sie mir Leid."
 
 # game/NPC/LERA.rpy:1284
 translate german valerie_menu_yoga_nude_ecde7977:
 
     # lera "Я хотела устроиться на работу, чтобы помогать, но мама мне категорически запретила. Хочет, чтобы я чего-то добилась в спорте или учебе. Вот я и стараюсь."
-    lera "Я хотела устроиться на работу, чтобы помогать, но мама мне категорически запретила. Хочет, чтобы я чего-то добилась в спорте или учебе. Вот я и стараюсь."
+    lera "Ich wollte eine Arbeit suchen um zu helfen, aber Mutti hat mir das strikt untersagt. Sie sagte ich könnte etwas im Sport erreichen oder studieren, also strenge ich mich an."
 
 # game/NPC/LERA.rpy:1290
 translate german valerie_menu_yoga_nude_85cfaf38:
 
     # lera "Ладно, не будем о грустном. Если будут какие вопросы - заходи, не стесняйся."
-    lera "Ладно, не будем о грустном. Если будут какие вопросы - заходи, не стесняйся."
+    lera "Okay, genug von traurigen Dingen gelabert. Wenn du irgendwelche Fragen hast, sei nicht schüchtern und frag mich einfach."
 
 # game/NPC/LERA.rpy:1304
 translate german valerie_menu_yoga_nude_04d8df01:
 
     # gg sad "Я видела в комнате твоей сестры много фотографий, но нет ни одной, где вы вместе."
-    gg sad "Я видела в комнате твоей сестры много фотографий, но нет ни одной, где вы вместе."
+    gg sad "Ich habe eine Menge Fotos von Dir im Zimmer deiner Schwester gefunden, doch keines auf dem ihr zusammen drauf seid."
 
 # game/NPC/LERA.rpy:1306
 translate german valerie_menu_yoga_nude_7e4b0434:
 
     # lera "С самого детства мы были лучшими подругами. Мы спали на одной кровати, делились всем. Но потом мы подросли и стали ходить в клубы. Только я ходила в спортивные, а Иви - в ночные."
-    lera "С самого детства мы были лучшими подругами. Мы спали на одной кровати, делились всем. Но потом мы подросли и стали ходить в клубы. Только я ходила в спортивные, а Иви - в ночные."
+    lera "Als Kinder waren wir beste Freundinnen. Wir haben im selben Bett geschlafen und Alles geteilt. Aber als wir Älter wurden gingen wir öfter in Klubs. Ich hab nur Sportklubs bevorzugt, Evie die andere Variante."
 
 # game/NPC/LERA.rpy:1307
 translate german valerie_menu_yoga_nude_0c308878:
 
     # lera "С того момента мы стали отдаляться друг от друга. Я хотела добиться каких-то результатов, стать известной, иметь какое-то признание, а сестра только следила за своей внешностью и тусовалась."
-    lera "С того момента мы стали отдаляться друг от друга. Я хотела добиться каких-то результатов, стать известной, иметь какое-то признание, а сестра только следила за своей внешностью и тусовалась."
+    lera "Von da an haben wir uns entfremdet. Ich wollte Erfolge erzielen, berühmt werden, Anerkennung verdienen. Meine Schwester nur abhängen und hübsch aussehen."
 
 # game/NPC/LERA.rpy:1308
 translate german valerie_menu_yoga_nude_8dbf3e7b:
 
     # lera "У нас не было общих знакомых и почти не осталось общих интересов. А ведь когда-то она солировала в школьном хоре и даже подавала какие-то надежды."
-    lera "У нас не было общих знакомых и почти не осталось общих интересов. А ведь когда-то она солировала в школьном хоре и даже подавала какие-то надежды."
+    lera "Wir hatten keine gemeinsamen Freunde und keine gemeinsamen Interessen. Einmal war sie Solo im Schulchor und wir hatten ein wenig Hoffnung."
 
 # game/NPC/LERA.rpy:1309
 translate german valerie_menu_yoga_nude_bc9f1f80:
 
     # lera "Сейчас, насколько я знаю, ее цель - найти себе богатого папика и свалить куда-нибудь подальше от дома."
-    lera "Сейчас, насколько я знаю, ее цель - найти себе богатого папика и свалить куда-нибудь подальше от дома."
+    lera "Jetzt will sie nur noch einen reichen Sugar Daddy finden und so weit wie möglich von zu Hause entfernt leben."
 
 # game/NPC/LERA.rpy:1310
 translate german valerie_menu_yoga_nude_a1962e9c:
 
     # lera "Как только ей стукнуло восемнадцать, она тут же переехала куда-то к друзьям. Ни я, ни мама не смогли ее убедить заняться учебой, или хотя бы остаться дома."
-    lera "Как только ей стукнуло восемнадцать, она тут же переехала куда-то к друзьям. Ни я, ни мама не смогли ее убедить заняться учебой, или хотя бы остаться дома."
+    lera "An ihrem 18. Geburtstag zog sie mit ein paar Freunden zusammen. Weder Mutter noch ich konnte sie davon überzeugen zu lenren, oder wenigstens daheim zu bleiben."
 
 # game/NPC/LERA.rpy:1311
 translate german valerie_menu_yoga_nude_7d39609c:
 
     # gg sad "И как ее успехи?"
-    gg sad "И как ее успехи?"
+    gg sad "Wie geht es ihr jetzt?"
 
 # game/NPC/LERA.rpy:1312
 translate german valerie_menu_yoga_nude_4b8d9d29:
 
     # lera "Насколько я слышала, замуж ее пока никто не звал, хотя она и тусуется с какими-то толстосумами."
-    lera "Насколько я слышала, замуж ее пока никто не звал, хотя она и тусуется с какими-то толстосумами."
+    lera "So weit ich weiß hat sie noch niemanden geheiratet, aber sie hängt mit ein paar Geldsäcken ab."
 
 # game/NPC/LERA.rpy:1314
 translate german valerie_menu_yoga_nude_bdb83fa7:
 
     # lera "Я ее не осуждаю. У каждого своя жизнь. Хотя мне иногда и не хватает любимой сестренки, но теперь у меня есть ты."
-    lera "Я ее не осуждаю. У каждого своя жизнь. Хотя мне иногда и не хватает любимой сестренки, но теперь у меня есть ты."
+    lera "Ich werf ihr das nicht vor. Jeder hat sein eigenes Leben und macht seine eigenen Entscheidungen. Nur manchmal vermisse ich meine Schwester, aber jetzt habe ich ja dich."
 
 # game/NPC/LERA.rpy:1315
 translate german valerie_menu_yoga_nude_b670696b:
 
     # gg happy "Оу, как приятно! Я готова стать твоей сестричкой на какое-то время."
-    gg happy "Оу, как приятно! Я готова стать твоей сестричкой на какое-то время."
+    gg happy "Oh wie nett! Ich bin gerne deine Schwester für eine Weile."
 
 # game/NPC/LERA.rpy:1317
 translate german valerie_menu_yoga_nude_8b959831:
 
     # lera "Приятно это слышать!"
-    lera "Приятно это слышать!"
+    lera "Das ist schön zu hören!"
 
 # game/NPC/LERA.rpy:1318
 translate german valerie_menu_yoga_nude_889f9c32:
 
     # aut "Тогда я подумала, что неплохо было бы познакомиться с Эвелин, которая имеет какие-то связи среди богатых ребят. В моей цели любой контакт может оказаться ценным."
-    aut "Тогда я подумала, что неплохо было бы познакомиться с Эвелин, которая имеет какие-то связи среди богатых ребят. В моей цели любой контакт может оказаться ценным."
+    aut "Ich dachte daran, Evelyn zu treffen. Sie hat Kontakt zu ein paar reichen Leuten, und bei meinem Ziel kann ein solcher Kontakt sehr wertvoll sein."
 
 # game/NPC/LERA.rpy:1325
 translate german valerie_menu_yoga_nude_0af083be:
 
     # gg smile "Мы готовы."
-    gg smile "Мы готовы."
+    gg smile "Wir sind bereit."
 
 # game/NPC/LERA.rpy:1326
 translate german valerie_menu_yoga_nude_36823490:
 
     # lera "Мы - это кто?"
-    lera "Мы - это кто?"
+    lera "Was meinst du mit wir?"
 
 # game/NPC/LERA.rpy:1327
 translate german valerie_menu_yoga_nude_8edc3695:
 
     # gg hit "Я и две бутылки винишка."
-    gg hit "Я и две бутылки винишка."
+    gg hit "Ich und zwei Flaschen Wein."
 
 # game/NPC/LERA.rpy:1329
 translate german valerie_menu_yoga_nude_3a11ae49:
 
     # lera "Мне нравится ход твоих мыслей! Я звоню Руби?"
-    lera "Мне нравится ход твоих мыслей! Я звоню Руби?"
+    lera "Mir gefällt deine Art zu denken! Ich ruf Ruby an!"
 
 # game/NPC/LERA.rpy:1335
 translate german valerie_menu_yoga_nude_206423cf:
 
     # gg smile "У меня завалялась бутылка винишка. Как насчет того, чтобы еще раз зависнуть у тебя?"
-    gg smile "У меня завалялась бутылка винишка. Как насчет того, чтобы еще раз зависнуть у тебя?"
+    gg smile "Ich hab eine Flasche Wein rumliegen. Wie wäre es, noch einmal abzuhängen?"
 
 # game/NPC/LERA.rpy:1336
 translate german valerie_menu_yoga_nude_0dd7be2c:
 
     # lera "А ты вошла во вкус, да? Слушай, ко мне Руби давно хотела прийти. Она работает в спорткомплексе, вы, кажется, знакомы."
-    lera "А ты вошла во вкус, да? Слушай, ко мне Руби давно хотела прийти. Она работает в спорткомплексе, вы, кажется, знакомы."
+    lera "Letztes Mal hat dir gefallen, was? Ruby wollte mich schon eine Weile besuchen. Sie arbeitet im Fitnessstudio, aber ich glaube das weißt du schon."
 
 # game/NPC/LERA.rpy:1337
 translate german valerie_menu_yoga_nude_2aa2875e:
 
     # lera "Мы иногда с ней в теннис играем."
-    lera "Мы иногда с ней в теннис играем."
+    lera "Wir spielen manchmal Tennis zusammen."
 
 # game/NPC/LERA.rpy:1338
 translate german valerie_menu_yoga_nude_844cefff:
 
     # lera "Мы могли бы затусить втроем, если хочешь. Только тут одной бутылкой не обойдешься, нужно минимум две."
-    lera "Мы могли бы затусить втроем, если хочешь. Только тут одной бутылкой не обойдешься, нужно минимум две."
+    lera "Wir könnten zwar alle zusammen abhängen, aber eine Flasche alleine reicht dafür nicht. Es müssten mindestens zwei sein."
 
 # game/NPC/LERA.rpy:1339
 translate german valerie_menu_yoga_nude_bcf9f215:
 
     # gg smile "Руби забавная, я не против."
-    gg smile "Руби забавная, я не против."
+    gg smile "Ruby ist lustig, ich bin dabei!"
 
 # game/NPC/LERA.rpy:1341
 translate german valerie_menu_yoga_nude_529f7a9e:
 
     # gg smile "У меня как раз есть две бутылки."
-    gg smile "У меня как раз есть две бутылки."
+    gg smile "Zum Glück habe ich zwei Flaschen."
 
 # game/NPC/LERA.rpy:1342
 translate german valerie_menu_yoga_nude_7efe232c:
 
     # lera "Отлично! Сегодня у Руби как раз выходной. Я могу позвонить ей прямо сей��ас!"
-    lera "Отлично! Сегодня у Руби как раз выходной. Я могу позвонить ей прямо сей��ас!"
+    lera "Super! Heute ist Rubys freier Tag. Ich ruf sie gleich mal an!"
 
 # game/NPC/LERA.rpy:1345
 translate german valerie_menu_yoga_nude_2af10c84:
 
     # lera "Сегодня у Руби как раз выходной. Если сгоняешь в магазин, то я могу позвонить ей прямо сейчас."
-    lera "Сегодня у Руби как раз выходной. Если сгоняешь в магазин, то я могу позвонить ей прямо сейчас."
+    lera "Heute ist Rubys freier Tag, Ich ruf schon Mal an während du zum Laden gehst."
 
 # game/NPC/LERA.rpy:1346
 translate german valerie_menu_yoga_nude_6b96a03e:
 
     # gg smile "Хорошая идея!"
-    gg smile "Хорошая идея!"
+    gg smile "Klingt nach einem Plan!"
 
 # game/NPC/LERA.rpy:1352
 translate german valerie_menu_yoga_nude_91b71d41:
 
     # lera "Тогда жду тебя вечером с двумя бутылками винишка. И да, Руби работает по средам и в выходные."
-    lera "Тогда жду тебя вечером с двумя бутылками винишка. И да, Руби работает по средам и в выходные."
+    lera "Dann warte ich am Abend mit zwei Flaschen Wein auf dich. Und ja, Ruby arbeitet Mittwochs und am Wochenende."
 
 # game/NPC/LERA.rpy:1353
 translate german valerie_menu_yoga_nude_c036f426:
 
     # gg smile "Буду иметь в виду!"
-    gg smile "Буду иметь в виду!"
+    gg smile "Ich werd's mir merken!"
 
 # game/NPC/LERA.rpy:2564
 translate german alex_val_dildo_night_e1313984:
 
     # aut "Шкаф отлично подошел для моей новой игрушки."
-    aut "Шкаф отлично подошел для моей новой игрушки."
+    aut "Der Schrank war perfekt für mein neues Spielzeug."
 
 # game/NPC/LERA.rpy:2565
 translate german alex_val_dildo_night_a263af12:
 
     # aut "Дилдо держался так крепко, что я даже испугалась, что не могу его потом отсоединить."
-    aut "Дилдо держался так крепко, что я даже испугалась, что не могу его потом отсоединить."
+    aut "Der Dildo saß so fest, das ich Angst hatte ich kriege den später nicht ab."
 
 # game/NPC/LERA.rpy:2566
 translate german alex_val_dildo_night_6d4ba70d:
 
     # aut "Внешне он почти ничем не отличался от настоящего члена, только у этого эрекция была вечной."
-    aut "Внешне он почти ничем не отличался от настоящего члена, только у этого эрекция была вечной."
+    aut "Auf den ersten Blick sah er aus wie ein richtiger Schwanz, aber bei dem hier war die Erektion dauerhaft."
 
 # game/NPC/LERA.rpy:2567
 translate german alex_val_dildo_night_672bcc56:
 
     # aut "Я не смогла побороть странное желание взять его в рот. Раньше я думала, что этот процесс доставляет удовольствие только мужчине, но мне нравилось скользить губами по упругому стволу, обильно смачивая его слюной."
-    aut "Я не смогла побороть странное желание взять его в рот. Раньше я думала, что этот процесс доставляет удовольствие только мужчине, но мне нравилось скользить губами по упругому стволу, обильно смачивая его слюной."
+    aut "Ich konnte dem Drang nicht widerstehen, ihn in den Mund zu nehmen. Ich dachte immer, das macht nur dem Mann daran Spaß, aber mir gefiel es mit den Lippen den gesamten Schaft zu umfassen. Ich habe ihn schön nass gemacht für das, was folgte."
 
 # game/NPC/LERA.rpy:2580
 translate german alex_val_dildo_night_acc31f8f:
 
     # aut "Дилдо плавно вошел в меня, гибко подстраиваясь внутри под изгибы моего тела."
-    aut "Дилдо плавно вошел в меня, гибко подстраиваясь внутри под изгибы моего тела."
+    aut "Der Dildo drang sanft ein und passte sich flexibel den Kurven meines Körpers an."
 
 # game/NPC/LERA.rpy:2581
 translate german alex_val_dildo_night_beebc2c1:
 
     # aut "Я начала плавно двигать попкой, впуская его в себя все глубже."
-    aut "Я начала плавно двигать попкой, впуская его в себя все глубже."
+    aut "Ich begann meinen Arsch zu bewegen und er drang immer tiefer."
 
 # game/NPC/LERA.rpy:2594
 translate german alex_val_dildo_night_4a1e2e43:
 
     # aut "Хотелось ускориться, и я начала насаживаться сильнее."
-    aut "Хотелось ускориться, и я начала насаживаться сильнее."
+    aut "Ich wollte schneller werden und begann den Dildo hart zu ficken."
 
 # game/NPC/LERA.rpy:2595
 translate german alex_val_dildo_night_e97e48c1:
 
     # aut "Дверца шкафа начала предательски хлопать, открываясь при каждом движении. Все же прицепить член сюда было не самой хорошей идеей."
-    aut "Дверца шкафа начала предательски хлопать, открываясь при каждом движении. Все же прицепить член сюда было не самой хорошей идеей."
+    aut Die Schranktür klapperte verräterisch bei jeder Bewegung. Den Dildo hier anzubringen war wohl doch nicht die beste Idee ..."
 
 # game/NPC/LERA.rpy:2596
 translate german alex_val_dildo_night_228b0382:
 
     # aut "Но останавливаться совсем не хотелось. Я придерживала дверцу рукой и продолжала все сильнее трахаться себя."
-    aut "Но останавливаться совсем не хотелось. Я придерживала дверцу рукой и продолжала все сильнее трахаться себя."
+    aut "Aber aufhören konnte ich bei dem Gedanken trotzdem nicht. Ich hielt die Tür mit der Hand und fickte mich weiter."
 
 # game/NPC/LERA.rpy:2597
 translate german alex_val_dildo_night_3fb3bc9e:
 
     # aut "Это продолжалось какое-то время, я наслаждалась каждой фрикцией, рисуя в голове все более развратный картины."
-    aut "Это продолжалось какое-то время, я наслаждалась каждой фрикцией, рисуя в голове все более развратный картины."
+    aut "Das ging eine ganze Weile so. Ich genoss jede Bewegung und die Bilder in meinem Kopf wurden immer versauter."
 
 # game/NPC/LERA.rpy:2598
 translate german alex_val_dildo_night_df401541:
 
     # aut "Я даже начала слышать чужие стоны у себя в голове. Но в какой-то момент я поняла, что слышу их в реальности... Прямо в этой комнате..."
-    aut "Я даже начала слышать чужие стоны у себя в голове. Но в какой-то момент я поняла, что слышу их в реальности... Прямо в этой комнате..."
+    aut "Ich hörte anderer Leute Stöhnen in meinem Kopf. Aber irgendwann realisierte ich, dass die Stimmen nicht aus meinem Kopf sondern aus der Realität stammten ... Aus diesem Zimmer um genau zu sein ..."
 
 # game/NPC/LERA.rpy:2605
 translate german alex_val_dildo_night_bdc8c590:
 
     # aut "Я резко повернула голову и увидела голую Валери, которая ласкала себя, глядя на меня."
-    aut "Я резко повернула голову и увидела голую Валери, которая ласкала себя, глядя на меня."
+    aut "Ich drehte den Kopf scharf nach links, und sah eine nackte Valerie die mich ansah und dabei ihren Körper verwöhnte."
 
 # game/NPC/LERA.rpy:2606
 translate german alex_val_dildo_night_c4537d71:
 
     # aut "Я видела возбуждение в ее глазах, пристально смотрящих на меня."
-    aut "Я видела возбуждение в ее глазах, пристально смотрящих на меня."
+    aut "Ich sah Lust und Erregung in ihren Augen aufblitzen."
 
 # game/NPC/LERA.rpy:2618
 translate german alex_val_dildo_night_e7abd2d0:
 
     # alex "Вэл?! Что ты тут делаешь?!"
-    alex "Вэл?! Что ты тут делаешь?!"
+    alex "Val?! Was machst du hier?"
 
 # game/NPC/LERA.rpy:2624
 translate german alex_val_dildo_night_3f305388:
 
     # lera "Я услышала стук... Потом стоны... Потом увидела тебя... Не сдержалась."
-    lera "Я услышала стук... Потом стоны... Потом увидела тебя... Не сдержалась."
+    lera "Ich hörte ein Klopfen ... Und dann Stöhnen ... Dann hab ich dich gesehen ... Und, naja ..."
 
 # game/NPC/LERA.rpy:2625
 translate german alex_val_dildo_night_772a80fe:
 
     # aut "Валери оторвалась от стены и медленно пошла в мою сторону. Все это время она продолжала мастурбировать, не отводя от меня взгляда."
-    aut "Валери оторвалась от стены и медленно пошла в мою сторону. Все это время она продолжала мастурбировать, не отводя от меня взгляда."
+    aut "Valerie stieß sich von der Wand ab und kam langsam auf mich zu. Die ganze Zeit über hörte sie weder auf zu masturbieren, noch mich anzusehen."
 
 # game/NPC/LERA.rpy:2631
 translate german alex_val_dildo_night_33aaa04c:
 
     # aut "На ее лице не было привычного игривого выражения. Напротив, она была пугающе серьезна."
-    aut "На ее лице не было привычного игривого выражения. Напротив, она была пугающе серьезна."
+    aut "Es war nicht ihr sonst üblicher spielerischer Gesichtsausdruck. Im Gegenteil, sie war erschreckend ernst."
 
 # game/NPC/LERA.rpy:2632
 translate german alex_val_dildo_night_a238fbb5:
 
     # aut "Я вытащила дилдо из себя и начала ждать."
-    aut "Я вытащила дилдо из себя и начала ждать."
+    aut "Ich zog mich vom Dildo und wartete auf sie."
 
 # game/NPC/LERA.rpy:2644
 translate german alex_val_dildo_night_589d1706:
 
     # aut "Я почувствовала странное смущение под ее пристальным взглядом."
-    aut "Я почувствовала странное смущение под ее пристальным взглядом."
+    aut "Ich fühlte mich seltsam schamvoll unter ihren Blicken."
 
 # game/NPC/LERA.rpy:2645
 translate german alex_val_dildo_night_c2550920:
 
     # aut "А Валери все приближалась."
-    aut "А Валери все приближалась."
+    aut "Und Valerie kam unentwegt näher."
 
 # game/NPC/LERA.rpy:2648
 translate german alex_val_dildo_night_d011fe6f:
 
     # aut "Она подошла совсем близко. Только сейчас Вэл убрала руку от своей киски."
-    aut "Она подошла совсем близко. Только сейчас Вэл убрала руку от своей киски."
+    aut "Erst als sie fast bei mir war, nahm sie die Hand von ihrer Muschi."
 
 # game/NPC/LERA.rpy:2649
 translate german alex_val_dildo_night_d2903f96:
 
     # aut "Между нами торчал искусственный член, мокрый от моей слюны и смазки."
-    aut "Между нами торчал искусственный член, мокрый от моей слюны и смазки."
+    aut "Nur der Gummischwanz war noch zwischen uns. Feucht von meinem Saft und meinem Speichel."
 
 # game/NPC/LERA.rpy:2673
 translate german alex_val_dildo_night_e96c1916:
 
     # aut "Вэл остановилась. Мы какое-то время пристально смотрели друг другу в глаза."
-    aut "Вэл остановилась. Мы какое-то время пристально смотрели друг другу в глаза."
+    aut "Val starrte mir eine Weile wortlos in die Augen."
 
 # game/NPC/LERA.rpy:2674
 translate german alex_val_dildo_night_08dc1260:
 
     # aut "Это была другая Валери. Не игривая и озорная, а сексуальная, горячая и притягательная."
-    aut "Это была другая Валери. Не игривая и озорная, а сексуальная, горячая и притягательная."
+    aut "Das war eine andere Valerie. Diese war nicht verspielt und spitzbübisch, sondern attraktiv, sexy und scharf."
 
 # game/NPC/LERA.rpy:2698
 translate german alex_val_dildo_night_e3a33fab:
 
     # aut "Поддавшись какому-то внутреннему импульсу, я сделал шаг ей навстречу."
-    aut "Поддавшись какому-то внутреннему импульсу, я сделал шаг ей навстречу."
+    aut "Auf einen inneren Impuls hin, trat ich einen Schritt an sie heran."
 
 # game/NPC/LERA.rpy:2699
 translate german alex_val_dildo_night_e2ee4120:
 
     # aut "Я чувствовала ее горячее слегка ускоренное дыхание."
-    aut "Я чувствовала ее горячее слегка ускоренное дыхание."
+    aut "Ich konnte ihren heißen, schnellen Atem fühlen."
 
 # game/NPC/LERA.rpy:2700
 translate german alex_val_dildo_night_df8e6873:
 
     # lera "Алекс... Я... Я не знаю, что я делаю. И почему я это делаю..."
-    lera "Алекс... Я... Я не знаю, что я делаю. И почему я это делаю..."
+    lera "Alex ... Ich ... weiß nicht was ich tue. Und warum ..."
 
 # game/NPC/LERA.rpy:2701
 translate german alex_val_dildo_night_1fe35a73:
 
     # lera "Пожалуйста, останови меня..."
-    lera "Пожалуйста, останови меня..."
+    lera "Halt mich auf ..."
 
 # game/NPC/LERA.rpy:2702
 translate german alex_val_dildo_night_6b689aed:
 
     # alex "Я... не могу..."
-    alex "Я... не могу..."
+    alex "Kann ich nicht ..."
 
 # game/NPC/LERA.rpy:2703
 translate german alex_val_dildo_night_629a2a2c:
 
     # alex "Я не хочу..."
-    alex "Я не хочу..."
+    alex "Will ich nicht ..."
 
 # game/NPC/LERA.rpy:2716
 translate german alex_val_dildo_night_ce3c4907:
 
     # aut "Я набросилась на Валери и страстно поцеловала."
-    aut "Я набросилась на Валери и страстно поцеловала."
+    aut "Ich stürmte auf Valerie ein und küsste sie leidenschaftlich."
 
 # game/NPC/LERA.rpy:2717
 translate german alex_val_dildo_night_3fbe52c3:
 
     # aut "Дальше все было как в тумане."
-    aut "Дальше все было как в тумане."
+    aut "Dann verschwamm alles vor meinen Augen."
 
 # game/NPC/LERA.rpy:2741
 translate german alex_val_dildo_night_716fca4f:
 
     # aut "Помню, как Валери отстранилась от меня, но не для того, чтобы уйти..."
-    aut "Помню, как Валери отстранилась от меня, но не для того, чтобы уйти..."
+    aut "Ich erinnere mich noch daran, wie Valerie sich von mir wegzog. Aber nicht um zu gehen ..."
 
 # game/NPC/LERA.rpy:2742
 translate german alex_val_dildo_night_4da3bbfa:
 
     # aut "Она протянула руку к моей киске, и стала жадно ласкать меня."
-    aut "Она протянула руку к моей киске, и стала жадно ласкать меня."
+    aut "Sie streckte ihre Hand nach meiner Muschi aus, und begann sie gierig zu rubbeln."
 
 # game/NPC/LERA.rpy:2766
 translate german alex_val_dildo_night_81905bdd:
 
     # aut "Помню, как она резко толкнула мнея к шкафу и впилась губами в мой клитор."
-    aut "Помню, как она резко толкнула мнея к шкафу и впилась губами в мой клитор."
+    aut "Ich erinnere mich daran, wie sie mich abrupt gegen den Schrank schubste und wie sich ihre Lippen an meiner Klitoris anfühlten."
 
 # game/NPC/LERA.rpy:2773
 translate german alex_val_dildo_night_e483257c:
 
     # aut "Помню, что кончила минимум дважды."
-    aut "Помню, что кончила минимум дважды."
+    aut "Und ich erinnere mich an mindestens zwei Orgasmen."
 
 # game/NPC/LERA.rpy:2797
 translate german alex_val_dildo_night_70a33e47:
 
     # aut "Помню, как мы терлись друг о друга, лежа на полу. Позже я узнала, что это называется \"ножницы\"."
-    aut "Помню, как мы терлись друг о друга, лежа на полу. Позже я узнала, что это называется \"ножницы\"."
+    aut "Ich erinnere mich wie wir unsere Körper aneinander rieben, auf dem Boden liegend. Später fand ich heraus diese Stellung wurde \"Schere\" genannt."
 
 # game/NPC/LERA.rpy:2798
 translate german alex_val_dildo_night_c4093663:
 
     # aut "Помню, что кончила еще раз, одновременно с Вэл."
-    aut "Помню, что кончила еще раз, одновременно с Вэл."
+    aut "Ich erinnere mich an noch einen Orgasmus. Gleichzeitig mit Valerie."
 
 # game/NPC/LERA.rpy:2822
 translate german alex_val_dildo_night_5421e6d7:
 
     # aut "Сознание вернулось ко мне, когда мы лежали на полу, держась за руки, переводя дыхание."
-    aut "Сознание вернулось ко мне, когда мы лежали на полу, держась за руки, переводя дыхание."
+    aut "Als ich wieder bei Sinnen war, lagen wir nebeneinander Hand in Hand und nach Luft schnappend."
 
 # game/NPC/LERA.rpy:2823
 translate german alex_val_dildo_night_9cbd088e:
 
     # alex "Что это было, Вэл?"
-    alex "Что это было, Вэл?"
+    alex "Was war das, Val?"
 
 # game/NPC/LERA.rpy:2824
 translate german alex_val_dildo_night_90ee8f95:
 
     # lera "Искра... буря... безумие..."
-    lera "Искра... буря... безумие..."
+    lera "Irgendetwas ... verrücktes ..."
 
 # game/NPC/LERA.rpy:2825
 translate german alex_val_dildo_night_2d6e259e:
 
     # aut "Валери снова пыталась шутить. Видеть ее такой было гораздо привычнее."
-    aut "Валери снова пыталась шутить. Видеть ее такой было гораздо привычнее."
+    aut "Valerie versuchte wieder zu scherzen. So war sie mir gleich bekannter."
 
 # game/NPC/LERA.rpy:2826
 translate german alex_val_dildo_night_a3bc6dbe:
 
     # alex "Очередная шалость двух подружек?"
-    alex "Очередная шалость двух подружек?"
+    alex "Ein Streich unter Freunden?"
 
 # game/NPC/LERA.rpy:2827
 translate german alex_val_dildo_night_6a0511b9:
 
     # lera "Боюсь, что нет, Алекс."
-    lera "Боюсь, что нет, Алекс."
+    lera "Ich fürchte Nein, Alex."
 
 # game/NPC/LERA.rpy:2828
 translate german alex_val_dildo_night_8d819918:
 
     # alex "Ты тоже почувствовала нечто большее?"
-    alex "Ты тоже почувствовала нечто большее?"
+    alex "Etwas mehr?"
 
 # game/NPC/LERA.rpy:2829
 translate german alex_val_dildo_night_b5fa3271:
 
     # lera "Ага..."
-    lera "Ага..."
+    lera "Ja ..."
 
 # game/NPC/LERA.rpy:2830
 translate german alex_val_dildo_night_1c876294:
 
     # alex "А почему ты боишься? Мы же не сестры."
-    alex "А почему ты боишься? Мы же не сестры."
+    alex "Warum hast du Angst? Wir sind keine Schwestern."
 
 # game/NPC/LERA.rpy:2831
 translate german alex_val_dildo_night_1e8cff82:
 
     # lera "Да, но... Это все равно как-то странно. Ты мне почти как сестра..."
-    lera "Да, но... Это все равно как-то странно. Ты мне почти как сестра..."
+    lera "Ja, aber ... Es fühlt sich trotzdem seltsam an. Du bist fast wie eine Schwester für mich ..."
 
 # game/NPC/LERA.rpy:2832
 translate german alex_val_dildo_night_75ecf847:
 
     # alex "А ты знаешь, что Космо не планировал делать тебя моим романтическим интересом?"
-    alex "А ты знаешь, что Космо не планировал делать тебя моим романтическим интересом?"
+    alex "Wusstest du das Kosmo nicht vorhatte mich zum Love Interest zu machen?"
 
 # game/NPC/LERA.rpy:2833
 translate german alex_val_dildo_night_3bd55bb2:
 
     # lera "Да? Вот говнюк! И почему же передумал?"
-    lera "Да? Вот говнюк! И почему же передумал?"
+    lera "Echt? Arschloch! Und warum hat er es sich anders überlegt?"
 
 # game/NPC/LERA.rpy:2834
 translate german alex_val_dildo_night_1fb8ba6f:
 
     # alex "Его столько об этом просили... Он уже и сам поверил в то, что это не самая плохая идея."
-    alex "Его столько об этом просили... Он уже и сам поверил в то, что это не самая плохая идея."
+    alex "Es gab wohl viele Fragen ... Solange bis er selbst glaubte, dies sei keine schlechte Idee."
 
 # game/NPC/LERA.rpy:2835
 translate german alex_val_dildo_night_f82976ff:
 
     # lera "И я ему за это благодарна..."
-    lera "И я ему за это благодарна..."
+    lera "Da bin ich ihm echt dankbar ..."
 
 # game/NPC/LERA.rpy:2836
 translate german alex_val_dildo_night_b7b2fe26:
 
     # lera "Надеюсь, он не забудет удалить эту часть диалога перед релизом?"
-    lera "Надеюсь, он не забудет удалить эту часть диалога перед релизом?"
+    lera "Ich hoffe er vergisst nicht, diesen Teil des Dialoges zu löschen vor dem Release."
 
 # game/NPC/LERA.rpy:2838
 translate german alex_val_dildo_night_f03781d6:
 
     # alex "Ты останешься до утра?"
-    alex "Ты останешься до утра?"
+    alex "Bleibst du?"
 
 # game/NPC/LERA.rpy:2839
 translate german alex_val_dildo_night_f8770e2a:
 
     # lera "Я лучше пойду к себе. Мне многое нужно обдумать..."
-    lera "Я лучше пойду к себе. Мне многое нужно обдумать..."
+    lera "Lieber nicht. Ich gehe in mein Zimmer, ich muss um Vieles nachdenken ..."
 
 # game/NPC/LERA.rpy:2840
 translate german alex_val_dildo_night_e3cc40ae:
 
     # alex "Конечно, я понимаю..."
-    alex "Конечно, я понимаю..."
+    alex "Natürlich, das versteh ich ..."
 
 translate german strings:
 
     # game/NPC/LERA.rpy:146
     old "Похоже на то {image=fem_plus}"
-    new "Похоже на то {image=fem_plus}"
+    new "Es sieht so aus {image=fem_plus}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Провести время с Валери{/b}"
-    new "{b}Провести время с Валери{/b}"
+    new "{b}Verbring Zeit mit Valerie{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{color=#8c8c8d}{b}Может вместе позанимаемся?{/b}{/color}"
-    new "{color=#8c8c8d}{b}Может вместе позанимаемся?{/b}{/color}"
+    new "{color=#8c8c8d}{b}Wollen wir zusammen trainieren?{/b}{/color}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Может вместе позанимаемся?{/b}"
-    new "{b}Может вместе позанимаемся?{/b}"
+    new "{b}Wollen wir zusammen trainieren?{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}У меня есть две бутылки вина{/b}"
-    new "{b}У меня есть две бутылки вина{/b}"
+    new "{b}Ich habe zwei Flaschen Wein{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}У меня есть бутылочка вина{/b}"
-    new "{b}У меня есть бутылочка вина{/b}"
+    new "{b}Ich habe eine Flasche Wein{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Я хочу отдать долг{/b}"
-    new "{b}Я хочу отдать долг{/b}"
+    new "{b}Ich will meine Schulden begleichen{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Я хотела извиниться{/b}"
-    new "{b}Я хотела извиниться{/b}"
+    new "{b}Ich will mich entschuldigen{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Ты не хочешь записаться в тренажерный зал?{/b}"
-    new "{b}Ты не хочешь записаться в тренажерный зал?{/b}"
+    new "{b}Möchtest du dich im Fitnessstudio anmelden?{/b}"
 
     # game/NPC/LERA.rpy:443
     old "{b}Снова помоемся вместе?{/b}"
-    new "{b}Снова помоемся вместе?{/b}"
+    new "{b}Wollen wir gemeinsam baden?{/b}"
 
     # game/NPC/LERA.rpy:1006
     old "Поговорить на теннисном корте (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Поговорить на теннисном корте (Пн,Вт,Чт,Пт 14:00-16:00)"
+    new "Rede auf dem Tennisplatz (Mo, Die, Do, Fr 14:00-16:00)"
 
     # game/NPC/LERA.rpy:1107
     old "Найти Пенелопу в спорткомплексе утром"
-    new "Найти Пенелопу в спорткомплексе утром"
+    new "Gehe zu Penelope im Fitnessstudio am Morgen"
 
     # game/NPC/LERA.rpy:1112
     old "Нужно купить коврик"
-    new "Нужно купить коврик"
+    new "Ich muss eine Matte kaufen"
 
     # game/NPC/LERA.rpy:1118
     old "{color=#8c8c8d}{b}Заниматься без одежды{/b}{/color}"
-    new "{color=#8c8c8d}{b}Заниматься без одежды{/b}{/color}"
+    new "{color=#8c8c8d}{b}Trainiere nackt{/b}{/color}"
 
     # game/NPC/LERA.rpy:1118
     old "{b}Заниматься без одежды{/b}"
-    new "{b}Заниматься без одежды{/b}"
+    new "{b}Trainiere nackt{/b}"
 
     # game/NPC/LERA.rpy:1118
     old "{b}Заниматься в одежде{/b}"
-    new "{b}Заниматься в одежде{/b}"
+    new "{b}Trainiere{/b}"
 
     # game/NPC/LERA.rpy:1120
     old "Это глупо"
-    new "Это глупо"
+    new "Es ist dämlich"
 
     # game/NPC/LERA.rpy:1349
     old "Принести Валери 2 бутылки вина после 18:00 (Пн,Вт,Чт,Пт) {image=smel_.png}10([allsmel]) {image=sila_.png}7([power])"
-    new "Принести Валери 2 бутылки вина после 18:00 (Пн,Вт,Чт,Пт) {image=smel_.png}10([allsmel]) {image=sila_.png}7([power])"
+    new "Bring Valerie zwei Flaschen Wein 18:00 (Mo,Die,Do,Fr) {image=smel_.png}10([allsmel]) {image=sila_.png}7([power])"
 
