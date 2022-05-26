@@ -1876,15 +1876,15 @@ translate german strings:
 
     # game/script.rpy:5410
     old "Салями"
-    new ""
+    new "Salami"
 
     # game/script.rpy:5411
     old "Твердый сыр"
-    new ""
+    new "Käse"
 
     # game/script.rpy:5419
     old "Сэндвич с колбасой и сыром"
-    new ""
+    new "Sandwich mit Käse und Wurst"
 
 # TODO: Translation updated at 2022-02-08 18:00
 
@@ -1892,47 +1892,47 @@ translate german strings:
 translate german start_menu1_13ad500e:
 
     # alex2 "Это случилось! Вот и Джейд-сити! Можно сказать, столица мира... На улице стоит невыносимая жара."
-    alex2 ""
+    alex2 "Ich hab es geschafft! Ich hab Jade City erreicht. Das Zentrum der Welt ... Es ist verdamm heiß hier ..."
 
 # game/script.rpy:6612
 translate german start_menu1_4fccccdd:
 
     # alex2 "Господи, сколько же здесь людей! И все они так близко."
-    alex2 ""
+    alex2 "Soo viele Leute. Und alle so nah beisammen."
 
 # game/script.rpy:6613
 translate german start_menu1_ec823b87:
 
     # alex2 "Теперь нужно как-то найти вход в метро."
-    alex2 ""
+    alex2 "Ich muss den Eingang zur U-Bahn finden."
 
 # game/script.rpy:6614
 translate german start_menu1_561eae1c:
 
     # alex2 "Ой, кажется мне туда!"
-    alex2 ""
+    alex2 "Ah, da geht's lang!"
 
 # game/script.rpy:6616
 translate german start_menu1_faac2604:
 
     # alex2 "Фух... Здесь хотя бы немного попрохладнее. Надеюсь, я села в правильный поезд. Хоть бы не заблудиться... Страшно..."
-    alex2 ""
+    alex2 "Puh ... Wenigstens ist es hier kühler. Ich hoffe, ich erwische den richtigen Zug, nicht dass ich mich noch verlaufe ... Beängstigender Gedanke ..."
 
 # game/script.rpy:6617
 translate german start_menu1_244bba50:
 
     # alex2 "Так, дорогуша! Отставить дурацкие мысли! Не вздумай вернуться на вокзал за обратным билетом! В конце концов, тебя Валери ждет."
-    alex2 ""
+    alex2 "Okay Schätzchen! Schieb die dummen Gedanken beiseite! Renn jetzt nicht zurück zur Station für ein Rückfahrticket! Denk daran, Valerie wartet auf dich!"
 
 translate german strings:
 
     # game/script.rpy:5295
     old "Нару Ян"
-    new ""
+    new "Naru Chan"
 
     # game/script.rpy:5329
     old "Рада"
-    new ""
+    new "Froh"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1940,37 +1940,37 @@ translate german strings:
 
     # game/script.rpy:5924
     old "Кармен"
-    new "Кармен"
+    new "Carmen"
 
     # game/script.rpy:6239
     old "Дилдо с присоской"
-    new "Дилдо с присоской"
+    new "Dildo mit Saugnapf"
 
     # game/script.rpy:6239
     old "Очень реалистичный"
-    new "Очень реалистичный"
+    new "Extrem Realistisch"
 
     # game/script.rpy:6239
     old "Отлично присасывается к любой гладкой поверхности"
-    new "Отлично присасывается к любой гладкой поверхности"
+    new "Haftet auf jeder glatten Oberfläche"
 
     # game/script.rpy:6581
     old "Отдать долг в 600$"
-    new "Отдать долг в 600$"
+    new "Schulden abbezahlen $ 600"
 
     # game/script.rpy:6585
     old "Общаться с другими персонажами"
-    new "Общаться с другими персонажами"
+    new "Rede mit anderen Leuten"
 
     # game/script.rpy:6615
     old "Сходить на массаж"
-    new "Сходить на массаж"
+    new "Lasse dich massieren"
 
     # game/script.rpy:7390
     old "Подсказки по текущим квестам располагаются здесь."
-    new "Подсказки по текущим квестам располагаются здесь."
+    new "Hinweise zu laufenden Quests sind hier zu finden"
 
     # game/script.rpy:7391
     old "Его можно спрятать, нажав \"J\""
-    new "Его можно спрятать, нажав \"J\""
+    new "Versteck es mit \"J\""
 
