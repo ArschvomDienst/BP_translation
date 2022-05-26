@@ -1526,17 +1526,17 @@ translate german strings:
 
     # game/NPC/PENELOPE.rpy:8
     old "Сходить на занятие в спорткомплекс ({image=smel_.png} 25([allsmel]))"
-    new "Сходить на занятие в спорткомплекс ({image=smel_.png} 25([allsmel]))"
+    new "Besuchen Sie einen Kurs im Sportzentrum ({image=smel_.png} 25([allsmel]))"
 
     # game/NPC/PENELOPE.rpy:168
     old "{b}Давайте заниматься!{/b}"
-    new "{b}Давайте заниматься!{/b}"
+    new "{b}Auf geht's!!{/b}"
 
     # game/NPC/PENELOPE.rpy:367
     old "Остаться после занятий ({image=sharm0_.png} 52([allsharm]), ({image=smel_.png} 8([allsmel]))"
-    new "Остаться после занятий ({image=sharm0_.png} 52([allsharm]), ({image=smel_.png} 8([allsmel]))"
+    new "Bleibe nach dem Unterricht ({image=sharm0_.png} 52([allsharm]), ({image=smel_.png} 8([allsmel]))"
 
     # game/NPC/PENELOPE.rpy:806
     old "Поговорить c Пенни ({image=agility0_.png} 11([lovk]))"
-    new "Поговорить c Пенни ({image=agility0_.png} 11([lovk]))"
+    new "Rede mit Penny ({image=agility0_.png} 11([lovk]))"
 
