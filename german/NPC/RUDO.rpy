@@ -2852,33 +2852,33 @@ translate german strings:
 translate german rudo_menu_562f3bd1:
 
     # aut "Я нашла укромное место рядом с площадкой, чтобы спокойно переодеться."
-    aut ""
+    aut "Ich fand einen abgelegenen Platz in der Nähe des Spielplatzes, um mich in Ruhe umzuziehen."
 
 translate german strings:
 
     # game/NPC/RUDO.rpy:94
     old "{color=#00ff00}{b}Я не могу тебе сказать{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Das kann ich Dir nicht sagen{/b}{/color}"
 
     # game/NPC/RUDO.rpy:94
     old "{color=#00ff00}{b}Там есть подпольный рок-клуб{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Es gibt einen Underground-Rock-Club{/b}{/color}"
 
     # game/NPC/RUDO.rpy:94
     old "{color=#00ff00}{b}Мне нужна помощь{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich brauche Hilfe{/b}{/color}"
 
     # game/NPC/RUDO.rpy:94
     old "{b}Нужно расчистить подвал{/b}"
-    new ""
+    new "{b}Der Keller muss aufgeräumt werden{/b}"
 
     # game/NPC/RUDO.rpy:94
     old "{b}Где ты качаешься?{/b}"
-    new ""
+    new "{b}Wie hast du deinen Körper so Aufgebaut?{/b}"
 
     # game/NPC/RUDO.rpy:94
     old "{b}Сыграем?{/b}"
-    new ""
+    new "{b}Sollen wir spielen??{/b}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -2886,29 +2886,29 @@ translate german strings:
 
     # game/NPC/RUDO.rpy:9
     old "Поиграть с парнями в баскетбол ({image=smel_.png} 15([allsmel]))"
-    new "Поиграть с парнями в баскетбол ({image=smel_.png} 15([allsmel]))"
+    new "Mit den Jungs Basketball spielen ({image=smel_.png} 15([allsmel]))"
 
     # game/NPC/RUDO.rpy:133
     old "Найти Директора в старой школе ночью"
-    new "Найти Директора в старой школе ночью"
+    new "Finde den Direktor in der alten Schule bei Nacht"
 
     # game/NPC/RUDO.rpy:321
     old "{#image=male_h}{color=#8c8c8d}{b}Взять член в руку{/b}{/color}"
-    new "{#image=male_h}{color=#8c8c8d}{b}Взять член в руку{/b}{/color}"
+    new "{#image=male_h}{color=#8c8c8d}{b}Penis in die Hand nehmen{/b}{/color}"
 
     # game/NPC/RUDO.rpy:321
     old "{#image=cour_h}{color=#8c8c8d}{b}Взять член в руку{/b}{/color}"
-    new "{#image=cour_h}{color=#8c8c8d}{b}Взять член в руку{/b}{/color}"
+    new "{#image=cour_h}{color=#8c8c8d}{b}Penis in die Hand nehmen{/b}{/color}"
 
     # game/NPC/RUDO.rpy:321
     old "{#image=cour}{b}Взять член в руку{/b}"
-    new "{#image=cour}{b}Взять член в руку{/b}"
+    new "{#image=cour}{b}Penis in die Hand nehmen{/b}"
 
     # game/NPC/RUDO.rpy:343
     old "{b}Взять в рот{/b}"
-    new "{b}Взять в рот{/b}"
+    new "{b}Penis in den Mund nehmen{/b}"
 
     # game/NPC/RUDO.rpy:408
     old "{b}Позволить войти глубже{/b}"
-    new "{b}Позволить войти глубже{/b}"
+    new "{b}Ihn tiefer reinlassen{/b}"
 

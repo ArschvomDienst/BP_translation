@@ -1578,13 +1578,13 @@ translate german strings:
 
     # game/NPC/TANYA.rpy:134
     old "{b}У вас тут уютно{/b}"
-    new "{b}У вас тут уютно{/b}"
+    new "{b}Hier ist es gemütlich{/b}"
 
     # game/NPC/TANYA.rpy:134
     old "{b}Крутой прикид, Бонни.{/b}"
-    new "{b}Крутой прикид, Бонни.{/b}"
+    new "{b}Nettes Outfit, Bonnie..{/b}"
 
     # game/NPC/TANYA.rpy:364
     old "Поговорить о работе ({image=voice0_.png} 10([vocal]))"
-    new "Поговорить о работе ({image=voice0_.png} 10([vocal]))"
+    new "Über die Arbeit sprechen ({image=voice0_.png} 10([vocal]))"
 

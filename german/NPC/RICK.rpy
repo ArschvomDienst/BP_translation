@@ -596,11 +596,11 @@ translate german strings:
 
     # game/NPC/RICK.rpy:213
     old "{#image=ritor}{color=#00ff00}{b}Ты же был виртуозом!{/b}{/color}"
-    new ""
+    new "{#image=ritor}{color=#00ff00}{b}Sie waren ein Großmeister!{/b}{/color}"
 
     # game/NPC/RICK.rpy:213
     old "{color=#00ff00}{b}Я принесла пиво{/b}{/color}"
-    new ""
+    new "{color=#00ff00}{b}Ich habe Bier mitgebracht{/b}{/color}"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -608,9 +608,9 @@ translate german strings:
 
     # game/NPC/RICK.rpy:204
     old "Уговорить Рика({image=ritor0.png} 22([ritor]))"
-    new "Уговорить Рика({image=ritor0.png} 22([ritor]))"
+    new "Rick überreden({image=ritor0.png} 22([ritor]))"
 
     # game/NPC/RICK.rpy:284
     old "Полежать в автобусе Рика днем ({image=smel_.png} 28([allsmel]))"
-    new "Полежать в автобусе Рика днем ({image=smel_.png} 28([allsmel]))"
+    new "Lege dich Nachmittags in Rick's Bus ({image=smel_.png} 28([allsmel]))"
 

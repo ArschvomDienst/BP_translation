@@ -2862,37 +2862,37 @@ translate german strings:
 
     # game/NPC/RUBY.rpy:608
     old "Написать Руби еще раз (Пн,Вт,Чт,Пт)"
-    new "Написать Руби еще раз (Пн,Вт,Чт,Пт)"
+    new "Schreibe wieder an Ruby (Mo,Di,Do,Fr)"
 
     # game/NPC/RUBY.rpy:622
     old "Принести Валери бутылку вина (Пн,Вт,Чт,Пт)"
-    new "Принести Валери бутылку вина (Пн,Вт,Чт,Пт)"
+    new "Bring Valerie eine Flasche Wein (Mo,Di,Do,Fr)"
 
     # game/NPC/RUBY.rpy:666
     old "{b}Пригласить на свидание{/b}"
-    new "{b}Пригласить на свидание{/b}"
+    new "{b}Zu einem Date einladen{/b}"
 
     # game/NPC/RUBY.rpy:666
     old "{color=#8c8c8d}{b}Как насчет тренировки?{/b}{/color}"
-    new "{color=#8c8c8d}{b}Как насчет тренировки?{/b}{/color}"
+    new "{color=#8c8c8d}{b}Wie wäre es mit einem Training?{/b}{/color}"
 
     # game/NPC/RUBY.rpy:666
     old "{b}Как насчет тренировки?{/b}"
-    new "{b}Как насчет тренировки?{/b}"
+    new "{b}Wie wäre es mit einem Training?{/b}"
 
     # game/NPC/RUBY.rpy:666
     old "{b}У меня все готово{/b}"
-    new "{b}У меня все готово{/b}"
+    new "{b}Ich bin bereit{/b}"
 
     # game/NPC/RUBY.rpy:666
     old "{b}Повторим тренировку?{/b}"
-    new "{b}Повторим тренировку?{/b}"
+    new "{b}Sollen wir noch einmal trainieren?{/b}"
 
     # game/NPC/RUBY.rpy:681
     old "Написать Руби в ее выходной (Пн,Вт,Чт,Пт)"
-    new "Написать Руби в ее выходной (Пн,Вт,Чт,Пт)"
+    new "Schreibe Ruby an ihrem freien Tag (Mo,Di,Do,Fr)"
 
     # game/NPC/RUBY.rpy:1000
     old "Поиграть в теннис без трусиков (Пн,Вт,Чт,Пт 14:00-16:00)"
-    new "Поиграть в теннис без трусиков (Пн,Вт,Чт,Пт 14:00-16:00)"
+    new "Spiel Tennis ohne Höschen (Пн,Вт,Чт,Пт 14:00-16:00)"
 
