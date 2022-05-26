@@ -846,251 +846,251 @@ translate german paris_mes_8e7ac316:
 translate german paris_menu_a7cbad6d:
 
     # gg zadum "У меня тут посылка. Ее должен был забрать твой отец, но так как он уехал..."
-    gg zadum ""
+    gg zadum "Ich hab ein Packet für dich. Najah, eigentlich für deinen Vater aber da der weg ist ..."
 
 # game/NPC/PARIS.rpy:329
 translate german paris_menu_c03cee5d:
 
     # paris "Да, он что-то говорил об этом. Вот деньги."
-    paris ""
+    paris "Ich erinnere mich, dass er etwas darüber gesagt hat. Hier ist das Geld dafür."
 
 # game/NPC/PARIS.rpy:334
 translate german paris_menu_c841c4da:
 
     # gg zadum "А ты не знаешь, что в посылке?"
-    gg zadum ""
+    gg zadum "Du weißt, was da drin ist?"
 
 # game/NPC/PARIS.rpy:335
 translate german paris_menu_ea8664a1:
 
     # paris "Понятия не имею. Отец просто попросил отправить ему по почте."
-    paris ""
+    paris "Nein, keine Ahnung. Vater hat mir nur gesagt, ich solle es ihm nachsenden."
 
 # game/NPC/PARIS.rpy:336
 translate german paris_menu_9b8dadca:
 
     # paris "И вот еще... Он оставил другой пакет, его нужно отнести ректору колледжа."
-    paris ""
+    paris "Und nebenbei erwähnt ... Er hatte ein anderes Paket dagelassen. Es ist für den Rektor der Uni."
 
 # game/NPC/PARIS.rpy:341
 translate german paris_menu_8b53b5c8:
 
     # gg smile "Хорошо, я все сделаю."
-    gg smile ""
+    gg smile "Ich brings ihm."
 
 # game/NPC/PARIS.rpy:348
 translate german paris_menu_cbb9f396:
 
     # gg smile "Хочу еще раз примерить твою майку."
-    gg smile ""
+    gg smile "Ich möchte dein Shirt doch anprobieren."
 
 # game/NPC/PARIS.rpy:349
 translate german paris_menu_61abf4c8:
 
     # paris "Конечно. Ты же помнишь мое условие: никаких трусиков..."
-    paris ""
+    paris "Klar, aber vergiss die Bedingung nicht. Keine Unterwäsche ..."
 
 # game/NPC/PARIS.rpy:361
 translate german paris_menu_69ba96e3:
 
     # alex "Я не уверена, что это хорошая идея. Я ведь буду танцевать на стойке, все будет видно..."
-    alex ""
+    alex "Ich weiß nicht ob dass eine gute Idee ist. Schliesslich soll ich auf dem Tresen tanzen und jeder wird ... meine Muschi sehen."
 
 # game/NPC/PARIS.rpy:362
 translate german paris_menu_1cd01b04:
 
     # paris "Зато я уверена. Все, решено. В трусиках я тебя до работы не допущу! Решай."
-    paris ""
+    paris "Ich bin mir vollkommen sicher. Ich werd dich nicht arbeiten lassen mit Höschen."
 
 # game/NPC/PARIS.rpy:364
 translate german paris_menu_c1d8dd45:
 
     # gg smile "Вы на открытии в такой отрыв ушли, что мне тоже захотелось с девочками поработать."
-    gg smile ""
+    gg smile "Ich hatte unglaublich viel Spass mit den Mädels am Eröffnungsabend ..."
 
 # game/NPC/PARIS.rpy:365
 translate german paris_menu_711d15a8:
 
     # paris "Хозяйка предупреждала, что ты захочешь."
-    paris ""
+    paris "Die Herrin hat mich vorgewarnt, dass du wollen würdest."
 
 # game/NPC/PARIS.rpy:366
 translate german paris_menu_488562be:
 
     # gg podozr "И откуда она все знает?"
-    gg podozr ""
+    gg podozr "Wie weiß sie das alles nur?"
 
 # game/NPC/PARIS.rpy:367
 translate german paris_menu_ffa85ec4:
 
     # paris "Я уже перестала удивляться. У нас есть что-то вроде униформы. Это белые майки, которые к концу вечера становятся мокрыми. У меня есть одна."
-    paris ""
+    paris "Ich hab aufgehört mich das zu fragen. Wir haben so etwas wie eine Uniform. Diese weißen T-Shirts die im Laufe des Abends nass werden. Eines hab ich noch."
 
 # game/NPC/PARIS.rpy:368
 translate german paris_menu_e1e54e48:
 
     # gg podozr "Тоже Хозяйка предусмотрела?"
-    gg podozr ""
+    gg podozr "Hat die Herrin die bereitgestellt?"
 
 # game/NPC/PARIS.rpy:369
 translate german paris_menu_afc4d474:
 
     # paris "Нет, я брала ее для себя, но потом мы решили, что на открытии я появлюсь в другом наряде. Ну, ты сама все видела. Примерь."
-    paris ""
+    paris "Nein, ich hab sie eigentlich für Notfälle gehabt. Aber dann wurde entschieden wir bräuchten ein besonderes Outfit für den Eröffnungsabend. Und du kennst ja den Rest."
 
 # game/NPC/PARIS.rpy:382
 translate german paris_menu_f2061ad6:
 
     # alex "Немного великовата."
-    alex ""
+    alex "Es ist etwas zu groß würde ich sagen."
 
 # game/NPC/PARIS.rpy:384
 translate german paris_menu_8036b3cb:
 
     # paris "А по-моему в самый раз. Очень сексуально выглядит. Она такая длинная, что можно и шорты не надевать."
-    paris ""
+    paris "Ich würde sagen es passt perfekt. Es sieht sexy an dir aus und ist lang genug, dass du keine Hose tragen musst."
 
 # game/NPC/PARIS.rpy:395
 translate german paris_menu_49b63f6f:
 
     # alex "Предлагаешь мне остаться в трусиках?"
-    alex ""
+    alex "Ich soll also nur ein Höschen tragen dazu?"
 
 # game/NPC/PARIS.rpy:397
 translate german paris_menu_7c6d4744:
 
     # paris "Слушай! Гениальная идея! А давай ты будешь без трусиков вообще!"
-    paris ""
+    paris "Hmm. Ich hab eine tolle Idee! Warum lassen wir das Höschen nicht einfach sein?"
 
 # game/NPC/PARIS.rpy:408
 translate german paris_menu_47a1dc75:
 
     # alex "Ты серьезно?"
-    alex ""
+    alex "Warte mal, Was?"
 
 # game/NPC/PARIS.rpy:409
 translate german paris_menu_1e8f4d69:
 
     # paris "Ну а что? Майка почти до колен, никто ничего не увидит. А сквозь мокрую майку вид будет шикарный!"
-    paris ""
+    paris "Warum denn nicht? Das Shirt geht dir fast bis zu den Knien, also wird niemand etwas sehen. Und wenn es nass ist wirst du verführerisch aussehen!"
 
 # game/NPC/PARIS.rpy:420
 translate german paris_menu_69ba96e3_1:
 
     # alex "Я не уверена, что это хорошая идея. Я ведь буду танцевать на стойке, все будет видно..."
-    alex ""
+    alex "Ich weiß nicht ob dass eine gute Idee ist. Schliesslich soll ich auf dem Tresen tanzen und jeder wird ... meine Muschi sehen."
 
 # game/NPC/PARIS.rpy:421
 translate german paris_menu_1cd01b04_1:
 
     # paris "Зато я уверена. Все, решено. В трусиках я тебя до работы не допущу! Решай."
-    paris ""
+    paris "Ich bin mir vollkommen sicher. Ich werd dich nicht arbeiten lassen mit Höschen. Deine Entscheidung."
 
 # game/NPC/PARIS.rpy:441
 translate german paris_menu2_0cdce258:
 
     # alex "Это довольно... провокационно. Но я попробую."
-    alex ""
+    alex "Es ist sehr ... provokativ. Ich denke ich versuche es."
 
 # game/NPC/PARIS.rpy:442
 translate german paris_menu2_24b2e726:
 
     # paris "Я знала, что рано или поздно ты согласишься."
-    paris ""
+    paris "Ich wusste du würdest früher oder später zustimmen!"
 
 # game/NPC/PARIS.rpy:444
 translate german paris_menu2_944c29bc:
 
     # paris "Бар работает с 9-ти вечера до 2-х ночи. Первые 2 часа - обычное обслуживание, дальше - шоу-программа."
-    paris ""
+    paris "Die Bar ist geöffnet von 9 Uhr Abends bis 2 Uhr Nachts. In den ersten 2 Stunden ist nur der übliche Service dran, aber danach startet die Show."
 
 # game/NPC/PARIS.rpy:445
 translate german paris_menu2_64183833:
 
     # paris "Понедельник и среда - выходной. Но я тут буду каждый день с 11-ти. Так что заходи, если что-то понадобится."
-    paris ""
+    paris "Montags und Mittwochs haben wir Ruhetage. Aber ich bin an jedem Tag da ab 11 Uhr, wenn du Fragen hast komm also einfach vorbei."
 
 # game/NPC/PARIS.rpy:446
 translate german paris_menu2_2474757d:
 
     # gg zadum "Ого, ты совсем без выходных работаешь?"
-    gg zadum ""
+    gg zadum "Wow, du arbeitest jeden Tag?"
 
 # game/NPC/PARIS.rpy:447
 translate german paris_menu2_ec49bbe6:
 
     # paris "Пока да, много дел по бизнесу. Но мне нравится. Может со временем найду себе помощника."
-    paris ""
+    paris "Bisher ja. Es ist viel zu tun, aber mir gefällt es. Vielleicht finde ich eines Tages einen Assistenten."
 
 # game/NPC/PARIS.rpy:453
 translate german paris_menu2_d60b16ff:
 
     # alex "Думаю, я пока не готова к такому."
-    alex ""
+    alex "Ich denke ich bin noch nicht bereit dazu."
 
 # game/NPC/PARIS.rpy:454
 translate german paris_menu2_b6cce10c:
 
     # paris "Жаль-жаль... Вот это бы шоу получилось..."
-    paris ""
+    paris "Das ist Schade. Sehr Schade. Es wäre eine großartige Show geworden ..."
 
 # game/NPC/PARIS.rpy:460
 translate german paris_menu2_861b880f:
 
     # gg udiv "Ого! Тут тоже все изменилось!"
-    gg udiv ""
+    gg udiv "Wow! Hier hat sich ja Alles verändert!"
 
 # game/NPC/PARIS.rpy:461
 translate german paris_menu2_8feb9198:
 
     # paris "Хозяйка решила, что старый кабинет отца слишком безвкусный. С этим сложно было поспорить"
-    paris ""
+    paris "Die Herrin hat gesagt Vaters altes Büro wäre zu protzig und es war schwer anderer Meinung zu sein."
 
 # game/NPC/PARIS.rpy:462
 translate german paris_menu2_295b218a:
 
     # gg smile "Новый офис, новая жизнь?"
-    gg smile ""
+    gg smile "Neues Büro für ein neues Leben?"
 
 # game/NPC/PARIS.rpy:463
 translate german paris_menu2_761f1ac1:
 
     # paris "Честно, я сама пока не осознала все эти перемены. Все произошло так быстро... Кажется, еще позавчера я стояла на улице с Мадлен и отсасывала у всяких мудаков, вчера собиралась уехать на море, а сегодня я управляющая крутого бара."
-    paris ""
+    paris "Ich hab noch gar nicht alles realisiert. Es ist alles so schnell gegangen ... Es fühlt sich wie vorgestern an als ich mit Madelain zusammen an der Straße stand und aller Arten Arschlöcher einen blies. Gestern wollte ich noch ans Meer. Und heute bin ich Manager einer coolen Bar."
 
 # game/NPC/PARIS.rpy:464
 translate german paris_menu2_e0973dc1:
 
     # gg smile "И как тебе в новом качестве?"
-    gg smile ""
+    gg smile "Und? Wie fühlt sich das an?"
 
 # game/NPC/PARIS.rpy:465
 translate german paris_menu2_8ed1ddb0:
 
     # paris "Я еще сама не поняла. Девочки тоже немного в шоке от таких крутых перемен. Но уже сейчас понятно, что это все совсем другой уровень."
-    paris ""
+    paris "Hab ich noch nicht rausgefunden. Die Mädchen sind auch geschockt von den abrupten Änderungen hier. Aber das ist Alles ein komplett neuer Level."
 
 translate german strings:
 
     # game/NPC/PARIS.rpy:323
     old "{b}Я хочу поработать{/b}"
-    new ""
+    new "{b}Ich will arbeiten{/b}"
 
     # game/NPC/PARIS.rpy:323
     old "{b}Новый офис?{/b}"
-    new ""
+    new "{b}Ist das ein neues Büro?{/b}"
 
     # game/NPC/PARIS.rpy:424
     old "{#image=cour_h}{color=#8c8c8d}{b}Я согласна{/b}{/color}"
-    new ""
+    new "{#image=cour_h}{color=#8c8c8d}{b}Da stimme ich zu{/b}{/color}"
 
     # game/NPC/PARIS.rpy:424
     old "{#image=cour}{b}Я согласна{/b}"
-    new ""
+    new "{#image=cour}{b}Da stimme ich zu{/b}"
 
     # game/NPC/PARIS.rpy:426
     old "Требуется смелость (33)"
-    new ""
+    new "Mut benötigt (33)"
 
 # TODO: Translation updated at 2022-05-19 11:52
 
@@ -1098,9 +1098,9 @@ translate german strings:
 
     # game/NPC/PARIS.rpy:24
     old "Вернуться в Комнату Славы (Ср. 21:00) ({image=smel_.png} 30([allsmel]))"
-    new "Вернуться в Комнату Славы (Ср. 21:00) ({image=smel_.png} 30([allsmel]))"
+    new "Gehe in die Ruhmeshalle (Mi. 21:00) ({image=smel_.png} 30([allsmel]))"
 
     # game/NPC/PARIS.rpy:458
     old "Поработать в \"Hot Arctic\" (21:00 кроме Пн и Ср)"
-    new "Поработать в \"Hot Arctic\" (21:00 кроме Пн и Ср)"
+    new "Arbeite im \"Hot Arctic\" (21:00 außer Mo und Mi)"
 

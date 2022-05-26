@@ -495,7 +495,7 @@ translate german strings:
 # game/NPC/MISTRESS.rpy:103
 translate german mist_office_menu_ae9ed6ee:
 
-    # mist "Селеста ненавидела меня, хотя я вообще ничего ей не сделала. Я просто не относилась к девушкам, как к расходному материалу, вот и все."
+    # mist "Celeste hasst micht, obwohl ich ihr nie etwas getan habe. Ich behandele meine Mädchen nur nicht als austauschbare Ware, dass ist Alles."
     mist ""
 
 # TODO: Translation updated at 2022-05-19 11:52
@@ -504,5 +504,5 @@ translate german strings:
 
     # game/NPC/MISTRESS.rpy:324
     old "Зайти к Хозяйке в другой день"
-    new "Зайти к Хозяйке в другой день"
+    new "Gehe an einem anderen Tag zur Herrin"
 
